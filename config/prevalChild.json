@@ -1,0 +1,16 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://platformeval13.percipio.com",
+    "orgId": "4968efd3-d438-418d-8ab3-a00a4e094a61",
+    "attributeName": [
+      "Region",
+      "Department",
+      "Job Title"
+    ]
+  },
+  "Admindata": {
+    "loginID": "Clayton.Crouch@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  }
+}

@@ -1,0 +1,535 @@
+[
+    {
+        "fileName": "Effective Business Communication.pptx",
+        "WorkspaceName": "Kowshik",
+        "ProjectName": "Automation",
+        "pptName": "Effective Business Communication",
+        "pptDescription": "This presentation covers effective business communication strategies",
+        "triggerAiGen": false,
+        "peopleGroups": [
+            "Quarterly Business Review Audience",
+            "Internal Team"
+        ],
+        "sectionsConfig": {
+            "appendix": [],
+            "sections": [
+                {
+                    "name": "Introduction",
+                    "startSlide": 0,
+                    "endSlide": 1
+                },
+                {
+                    "name": "Fundamentals",
+                    "startSlide": 2,
+                    "endSlide": 5
+                },
+                {
+                    "name": "Verbal Skills",
+                    "startSlide": 6,
+                    "endSlide": 9
+                },
+                {
+                    "name": "Non-Verbal Communication",
+                    "startSlide": 10,
+                    "endSlide": 13
+                },
+                {
+                    "name": "Strategic Communication",
+                    "startSlide": 14,
+                    "endSlide": 17
+                },
+                {
+                    "name": "Conclusion",
+                    "startSlide": 18,
+                    "endSlide": 19
+                }
+            ]
+        },
+        "slideQuestions": [
+            {
+                "slide": 2,
+                "person": "Bob",
+                "group": "Internal Team",
+                "question": "Is this relevant for people who communicate mainly over videoconferencing?",
+                "responseGuidelines": "Yes, it is, because you have the benefit of both visual and aural channels of communication--both very important to be skilled at."
+            },
+            {
+                "slide": 5,
+                "person": "Bob",
+                "group": "Internal Team",
+                "question": "Give me an example of tailoring a message to your audience.",
+                "responseGuidelines": "Offer a few of the wide range of ways a speaker can tailor a message: for example, in how fast you talk, difficulty of words, and choosing commonly-known terms."
+            },
+            {
+                "slide": 8,
+                "person": "Bob",
+                "group": "Internal Team",
+                "question": "I've heard the term \"active listening\" before but I'm not clear on what it means. Shouldn't I just listen carefully--isn't that enough?",
+                "responseGuidelines": "Explain or demonstrate the behaviors of an active listener, such as steady eye contact, and minimal encouragers like \"um-hm\" and \"I see.\""
+            },
+            {
+                "slide": 12,
+                "person": "Quincy",
+                "group": "Internal Team",
+                "question": "What do you mean when you say that gestures and posture are part of nonverbal communication?",
+                "responseGuidelines": "Explain how good posture, both sitting and standing, suggests a positive energy and intention. Slouching suggests the message is bad news or hard to deal with."
+            },
+            {
+                "slide": 16,
+                "person": "Anna",
+                "group": "Internal Team",
+                "question": "How would you do what's stated on the slide?",
+                "responseGuidelines": "Provide suggestions or examples of how to effectively read one's own writing to check for alignment to organizational vision and goals."
+            }
+        ],
+        "sectionRubrics": [
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Presenter should indicate that purpose of this presentation is to achieve improved clarity and engagement": 1
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Provided examples of clear communicating": 1
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Explained behaviors considered a part of active listening": 2,
+                        "Elaborated on ways to handle difficult conversations": 1
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Explained the difference between between tone and pitch": 1,
+                        "Provided an example of culturally confusing nonverbal cues": 1
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 100,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 0,
+                    "criteria": {}
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 100,
+                    "criteria": {
+                        "Grammar": 1,
+                        "Professionalism": 1,
+                        "Clarity, Consistency, and Coherence": 1,
+                        "Empathy and Emotional Intelligence": 1,
+                        "Efficiency": 1
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 0,
+                    "criteria": {}
+                }
+            }
+        ]
+    },
+    {
+        "fileName": "Akara_Sales_Pitch_Deck_Final.pptx",
+        "WorkspaceName": "Skillsoft Engineering Sandbox 2023",
+        "ProjectName": "Automation",
+        "pptName": "Akara Logistics Solutions Pitch Deck",
+        "pptDescription": "You will present Akara's integrated logistics platform, demonstrate its capabilities through client success stories and competitive comparisons, and invite potential clients to engage via tailored solutions and next steps.",
+        "triggerAiGen": false,
+        "peopleGroups": [
+            "Sales Pitch Audience"
+        ],
+        "sectionsConfig": {
+            "appendix": [],
+            "sections": [
+                {
+                    "name": "Introduction",
+                    "startSlide": 0,
+                    "endSlide": 1
+                },
+                {
+                    "name": "Challenge",
+                    "startSlide": 2,
+                    "endSlide": 2
+                },
+                {
+                    "name": "Solution",
+                    "startSlide": 3,
+                    "endSlide": 4
+                },
+                {
+                    "name": "Success Stories",
+                    "startSlide": 5,
+                    "endSlide": 5
+                },
+                {
+                    "name": "Competitive Comparison",
+                    "startSlide": 6,
+                    "endSlide": 6
+                },
+                {
+                    "name": "Pricing",
+                    "startSlide": 7,
+                    "endSlide": 7
+                },
+                {
+                    "name": "Next Steps",
+                    "startSlide": 8,
+                    "endSlide": 8
+                }
+            ]
+        },
+        "slideQuestions": [
+            {
+                "slide": 3,
+                "person": "Harry",
+                "group": "Sales Pitch Audience",
+                "question": "How do these challenges typically impact customer satisfaction and costs?",
+                "responseGuidelines": "Demonstrate understanding of how logistics challenges affect customer experience and operational costs. Valid responses may reference delays, trust issues, or increased expenses, but any clear explanation of business impact is acceptable."
+            },
+            {
+                "slide": 5,
+                "person": "Jane",
+                "group": "Sales Pitch Audience",
+                "question": "What drives the high accuracy and reliability in your platform results?",
+                "responseGuidelines": "Explain the underlying mechanisms or features that enable strong performance. Valid responses may reference technology, process integration, or analytics, but any explanation showing causal understanding is acceptable."
+            },
+            {
+                "slide": 6,
+                "person": "Alex",
+                "group": "Sales Pitch Audience",
+                "question": "How can these success stories translate to our business context?",
+                "responseGuidelines": "Show how the presented outcomes could be adapted or applied to another organization. Valid responses may reference similar processes, scalability, or industry fit, but any thoughtful application is acceptable."
+            },
+            {
+                "slide": 7,
+                "person": "Harry",
+                "group": "Sales Pitch Audience",
+                "question": "What makes your proprietary tech stack a real advantage here?",
+                "responseGuidelines": "Clarify the principle behind proprietary technology providing business value. Valid responses may reference control, reliability, or innovation, but any explanation of competitive advantage is acceptable."
+            }
+        ],
+        "sectionRubrics": [
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Welcome the audience and set the expectation for a story about transforming supply chains with speed, transparency, and trust.": 40,
+                        "State Akara's mission to be the most trusted logistics partner worldwide.": 35,
+                        "Mention Akara's core values, including integrity, innovation, accountability, respect, and sustainability.": 25
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that businesses face major challenges in logistics, including fragmented systems, unreliable delivery networks, and scaling pressures.": 40,
+                        "Mention that limited visibility and rising costs negatively impact customer trust and business growth.": 35,
+                        "Confirm the need for a smarter, unified solution to connect all parts of the supply chain.": 25
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that modern logistics solutions require integration, data-driven decision-making, and unified operations to achieve efficiency, transparency, and strategic alignment.": 40,
+                        "Mention that Akara offers fully integrated, end-to-end logistics solutions covering freight forwarding, warehousing, last-mile delivery, and real-time tracking within a single connected system.": 30,
+                        "Report Akara's key performance metrics: 95% on-time delivery, 99% inventory accuracy, and customer satisfaction scores above 4.5.": 30
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Report that a client in the FMCG sector achieved a 30% improvement in delivery accuracy.": 40,
+                        "Mention that CRM-driven insights led to improved customer retention and engagement.": 60
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that Akara offers a proprietary technology stack, real-time tracking, and consistent compliance and safety, in contrast to competitors who lack these capabilities or rely on third-party tools.": 50,
+                        "Mention that Akara's independence from third-party tools provides clients with greater control, reliability, and innovation.": 30,
+                        "Highlight that clients choose Akara for speed and trust.": 20
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that pricing is customized for each client based on shipment volume, warehousing needs, and technology integration.": 100
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "Mention the available next steps for engaging with Akara, such as scheduling a discovery call, requesting a platform demo, or contacting sales by email.": 50,
+                        "Encourage the audience to begin their logistics transformation journey with Akara.": 50
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "fileName": "Akara's New Digital Experience Launch_V2.pptx",
+        "WorkspaceName": "Skillsoft Engineering Sandbox 2023",
+        "ProjectName": "Akara Digital Customer Experience Launch",
+        "pptName": "Digital Customer Experience Launch",
+        "pptDescription": "You will brief internal trainers on their responsibilities and strategies for enabling frontline teams ahead of the new digital customer experience launch. The session covers practice-based learning, safe simulations, and measurement approaches to ensure trainers can support staff in guiding and reassuring customers during the transition.",
+        "triggerAiGen": false,
+        "peopleGroups": [
+            "Internal Team"
+        ],
+        "sectionsConfig": {
+            "appendix": [],
+            "sections": [
+                {
+                    "name": "Introduction",
+                    "startSlide": 0,
+                    "endSlide": 2
+                },
+                {
+                    "name": "Launch Overview",
+                    "startSlide": 3,
+                    "endSlide": 4
+                },
+                {
+                    "name": "Enablement Plan",
+                    "startSlide": 5,
+                    "endSlide": 7
+                }
+            ]
+        },
+        "slideQuestions": [
+            {
+                "slide": 2,
+                "person": "Anna",
+                "group": "Internal Team",
+                "question": "How will this approach help my team build customer trust?",
+                "responseGuidelines": "Explain how equipping frontline teams with clear messaging and reassurance helps customers feel supported as they navigate the digital experience at their own pace. Responses should connect consistent, confident support to increased customer trust."
+            },
+            {
+                "slide": 3,
+                "person": "Bob",
+                "group": "Internal Team",
+                "question": "How will training address real customer objections we might face?",
+                "responseGuidelines": "Demonstrate how practice-based learning and simulations prepare teams to handle real customer hesitation and questions. Responses should reference realistic scenarios rather than generic training methods."
+            },
+            {
+                "slide": 5,
+                "person": "Quincy",
+                "group": "Internal Team",
+                "question": "How will practice-based learning look in our daily routines?",
+                "responseGuidelines": "Describe how practice-based learning can be embedded into existing workflows without adding significant burden. Responses should emphasize ongoing readiness rather than one-time training events."
+            },
+            {
+                "slide": 7,
+                "person": "Anna",
+                "group": "Internal Team",
+                "question": "How should we use these measurements to support team growth?",
+                "responseGuidelines": "Explain how measurements are used as constructive feedback to guide coaching, readiness, and continuous improvement. Responses should focus on development and learning, not performance evaluation."
+            }
+        ],
+        "sectionRubrics": [
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that this session is the first step in a three-part enablement journey designed to prepare trainers, not frontline staff, for the upcoming digital customer experience launch scheduled for next quarter.": 30,
+                        "Emphasize that the main goal is to proactively ensure frontline teams are confident so they can reassure and guide customers during the digital launch.": 40,
+                        "Mention that the primary challenge is a readiness and enablement gap, not a performance issue, and that generic training fails to prepare teams for real customer scenarios and emotional pressure.": 30
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that the digital experience changes how customers complete everyday tasks and interact with support, introducing new expectations for frontline conversations": 50,
+                        "Mention that customer adoption rates will vary and that supporting customers at their own pace is more important than rapid adoption.": 50
+                    }
+                }
+            },
+            {
+                "deliveryStyle": {
+                    "weightPercent": 30,
+                    "criteria": {
+                        "Grammar": 20,
+                        "Professionalism": 20,
+                        "Clarity, Consistency, and Coherence": 20,
+                        "Empathy and Emotional Intelligence": 20,
+                        "Efficiency": 20
+                    }
+                },
+                "contentAndStructure": {
+                    "weightPercent": 70,
+                    "criteria": {
+                        "State that trainers are responsible for preparing frontline teams to guide, reassure, or redirect customers during the digital experience launch.": 40,
+                        "Mention that operational impact will be measured by skill benchmark proficiency, AI-simulation insights, and early support trends, with emphasis on constructive feedback rather than evaluation.": 35,
+                        "Position this briefing as a foundational, living resource that supports trainer alignment, skill validation, and ongoing enablement.": 25
+                    }
+                }
+            }
+        ]
+    }
+]

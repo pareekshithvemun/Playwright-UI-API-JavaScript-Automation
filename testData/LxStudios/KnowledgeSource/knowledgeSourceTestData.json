@@ -1,0 +1,86 @@
+[
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Akara Digital Customer Experience Launch",
+    "documents": [
+      {
+        "documentTitle": "Akara_OneTouch_FAQ",
+        "documentNameWithExtension": "Akara_OneTouch_FAQ.docx",
+        "description": "Customer FAQs and responses to the Akara Digital Customer Experience",
+        "allowDuplicate": true
+      },
+      {
+        "documentTitle": "Akara_OneTouch_Product_Overview",
+        "documentNameWithExtension": "Akara_OneTouch_Product_Overview.docx",
+        "description": "Internal overview of the Digital Customer Experience Features and future enhancements",
+        "allowDuplicate": true
+      },
+      {
+        "documentTitle": "Akara_OneTouch_Frontline_Agent_Script",
+        "documentNameWithExtension": "Akara_OneTouch_Frontline_Agent_Script.docx",
+        "description": "Brief script for customer service agents to follow when discussing the Akara Digital Customer Experience",
+        "allowDuplicate": true
+      },
+      {
+        "documentTitle": "The Digital Experience Capabilities & Benefits",
+        "documentNameWithExtension": "The Digital Experience Capabilities & Benefits.xlsx",
+        "description": "Frontline Reference Guide",
+        "allowDuplicate": true
+      }
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Company Vision Pitch",
+    "documents": [
+      {
+        "documentTitle": "Pitching the vision document",
+        "documentNameWithExtension": "Pitching the vision document.pdf",
+        "description": "Pitching the Vision CAISY: Sample Context & Scenario",
+        "allowDuplicate": true
+      }
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Starting Strong with Your Manager",
+    "documents": [
+      {
+        "documentTitle": "Relationship Building",
+        "documentNameWithExtension": "RelationshipBuilding.docx",
+        "description": "Starting Strong with Your Manager CAISY: Sample Context & Scenario",
+        "allowDuplicate": true
+      }
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Automation",
+    "documents": [
+      {
+        "documentTitle": "Effective Business Communication",
+        "documentNameWithExtension": "Effective Business Communication.pptx",
+        "description": "Training deck introducing communication fundamentals, verbal and non-verbal skills, listening, clarity, and handling tough conversations",
+        "allowDuplicate": true
+      },
+      {
+        "documentTitle": "New Knowledge Document - Automation Test",
+        "documentNameWithExtension": "New Knowledge Document - Automation Test.pdf",
+        "description": "New document for testing upload flow",
+        "allowDuplicate": true
+      }
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Akara Pitch",
+    "documents": [
+      {
+        "documentTitle": "Akara Sales Pitch Deck",
+        "documentNameWithExtension": "Akara_Sales_Pitch_Deck_Final.pptx",
+        "description": "Akara Logistics Solutions Pitch Deck presentation",
+        "allowDuplicate": true
+      }
+    ]
+  }
+]

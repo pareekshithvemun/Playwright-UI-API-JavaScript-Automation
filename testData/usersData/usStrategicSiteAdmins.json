@@ -1,0 +1,144 @@
+{
+  "callerLogin": "clayton.crouch@skillsoft.com",
+  "password": "Welcome1",
+  "commonAdmin": {
+    "firstName": "Robbyn",
+    "lastName": "McGrath",
+    "email": "Robbyn.McGrath@skillsoft.com"
+  },
+  "contentCollectionsAttribute": {
+    "attributeName": "Content Collections",
+    "attributeValues": [
+      "Ethics & Legal",
+      "Technology",
+      "Software Development",
+      "Health & Safety",
+      "Frontline Workforce",
+      "Leadership Development",
+      "Business"
+    ]
+  },
+  "sites": [
+    {
+      "siteName": "US Strategic 1",
+      "siteUrl": "https://usstrategic1.percipio.com",
+      "organizationId": "829e58af-81fd-40b0-ad77-63fe2480120c",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Victoria",
+          "lastName": "Shelves",
+          "email": "Victoria.Shelves@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 2",
+      "siteUrl": "https://usstrategic2.percipio.com",
+      "organizationId": "eea95c01-7a87-49c1-90e0-52c1a4879eaa",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Dawn",
+          "lastName": "Ryan",
+          "email": "Dawn.Ryan@skillsoft.com"
+        },
+        {
+          "firstName": "Jeremy",
+          "lastName": "Hornbuckle",
+          "email": "Jeremy.Hornbuckle@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 3",
+      "siteUrl": "https://usstrategic3.percipio.com",
+      "organizationId": "e4de3c01-d711-4ca0-9f61-d3c6b5cb2e44",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Sarah",
+          "lastName": "Hyatt",
+          "email": "Sarah.Gyetvay-Hyatt@skillsoft.com"
+        },
+        {
+          "firstName": "Kyle",
+          "lastName": "Dunham",
+          "email": "Kyle.Dunham@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 4",
+      "siteUrl": "https://usstrategic4.percipio.com",
+      "organizationId": "4da1742a-e881-458c-9f9f-e27e3e56e6b1",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Gina",
+          "lastName": "Gallagher",
+          "email": "Regina.Gallagher@skillsoft.com"
+        },
+        {
+          "firstName": "Sabrina",
+          "lastName": "Smith",
+          "email": "Sabrina.Smith@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 5",
+      "siteUrl": "https://usstrategic5.percipio.com",
+      "organizationId": "a4d41ccd-bbf3-4261-80e2-d43cd62be820",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Tracey",
+          "lastName": "Taylor",
+          "email": "Tracey.Taylor@skillsoft.com"
+        },
+        {
+          "firstName": "Laura",
+          "lastName": "Herda",
+          "email": "laura.herda@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 6",
+      "siteUrl": "https://usstrategic6.percipio.com",
+      "organizationId": "0a032edf-d50a-4681-bdd3-44a36e26173d",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Amanda",
+          "lastName": "Schmelzer",
+          "email": "Amanda.Schmelzer@skillsoft.com"
+        },
+        {
+          "firstName": "Jon",
+          "lastName": "Franks",
+          "email": "jon.franks@skillsoft.com"
+        }
+      ]
+    },
+    {
+      "siteName": "US Strategic 7 ACQ",
+      "siteUrl": "https://usstrategic7.percipio.com",
+      "organizationId": "81168eb3-fe78-4b57-bf65-c7850096f21b",
+      "siteType": "Child",
+      "admins": [
+        {
+          "firstName": "Mike",
+          "lastName": "Millis",
+          "email": "Mike.Millis@skillsoft.com"
+        },
+        {
+          "firstName": "Annabelle",
+          "lastName": "Young",
+          "email": "Annabelle.Young@skillsoft.com"
+        }
+      ]
+    }
+  ]
+}

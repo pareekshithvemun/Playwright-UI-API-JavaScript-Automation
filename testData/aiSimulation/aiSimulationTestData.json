@@ -1,0 +1,135 @@
+{
+    "AISimulationTestData": [
+        {
+            "AICourse": "Giving Developmental Feedback",
+            "Answers": [
+                "Hey, what's up?",
+                "Alright, shoot. What's on the agenda?",
+                "Well, I won't lie. I know they've been a bit rushed and not as engaging as they could be. Public speaking isn't exactly my forte.",
+                "I've thought about it, but honestly, it just feels like an uphill battle. I mean, can a course or practice session really help that much?",
+                "I suppose it's worth a try. It's just that the whole idea of public speaking gives me the jitters. But if you think it can help, then I'm willing to give it a shot.",
+                "No problem, let's see how it goes."
+            ]
+        },
+        {
+            "AICourse": "The Creative Leader: Creative Thinking & Innovation",
+            "Answers": [
+                "Good evening. Let's get straight to the point, shall we?",
+                "Great. I'm all ears.",
+                "Indeed, I've noticed the dip in our market share. You have my full attention. Please continue with the overview and then we can dive into brainstorming potential solutions.",
+                "I see, the customer feedback is certainly a wake-up call. I'm glad you've already started thinking about potential solutions. Feel free to share your innovative ideas and we can start from there in building a comprehensive plan.",
+                "Intriguing ideas indeed. AI and machine learning could be a game changer, but we'll need to assess their feasibility and potential costs. And I agree, a strong customer support system is crucial. We do need to ensure that it doesn't become a cost drain though. Let's delve deeper into these ideas, flesh them out and see how we may be able to implement them effectively.",
+                "Your optimism is appreciated and yes, a detailed analysis of each idea is certainly warranted. Implementing AI and machine learning may present technical challenges and require significant investment, but the potential benefits could be substantial. As for customer support, we need to strike a balance between providing excellent service and maintaining cost-effectiveness. Let's continue to explore these ideas together and I'm sure we'll arrive at a solid strategy to enhance our product and increase customer satisfaction.",
+                "You're welcome. Let's keep the communication lines open and continue to brainstorm. This is a challenging situation, but I believe we can turn it into an opportunity with the right approach.",
+                "Good, I'm glad we're on the same page. We need to approach this with open minds and a willingness to think outside the box. Let's regroup soon to further discuss these ideas and develop our strategy.",
+                "Excellent. I look forward to our continued discussions. Let's use this situation as a catalyst to drive innovation and improvement in our product."
+            ]
+        },
+        {
+            "AICourse": "Giving Constructive Feedback",
+            "Answers": [
+                "Good evening.",
+                "Of course, it's no problem.",
+                "I appreciate those kind words, but I'm just doing my job.",
+                "Oh, I had a feeling this was coming. I know my presentations aren't as strong as they could be.",
+                "Well, I've never been great at public speaking, so I don't see how I can improve.",
+                "I guess so, but I'm not sure how much it'll help.",
+                "Alright, if you think it'll help. But I'm just not sure I'll ever be good at public speaking.",
+                "Well, if you say so. I just hope this doesn't end up being a waste of time.",
+                "Alright, we can give it a shot. But I'm not making any promises.",
+                "Fine, we'll see how it goes."
+            ]
+        },
+        {
+            "AICourse": "Lead the Team - Leadership Influence",
+            "Answers": [
+                "Evening. Let's get to the point, shall we?",
+                "Great. So, what's this all about?",
+                "Well, you know, we have our own set of priorities. Our roadmap is quite packed as it is.",
+                "I'm all ears, but remember, what's crucial for your team might not necessarily align with what's crucial for mine.",
+                "Well, enlighten me then. But bear in mind, we've got our hands full with a lot of other things on our plate right now.",
+                "Alright, I'm listening. But be aware, we're already spread thin, so it better be worth it.",
+                "Well, I appreciate the insight, but we're not just going to drop everything for this. You need to give me a solid timeline and concrete benefits for my team. This isn't just a one-way street.",
+                "Fine, let's discuss this further, but remember we can't push all our current projects aside. We need to find a balance. Let's see if we can fit this into our ongoing work without causing too much disruption.",
+                "You're welcome. But remember, it's not a guarantee. We'll need to assess and evaluate every aspect before we can commit to anything.",
+                "Alright then, we'll continue this conversation and see how we can possibly align our priorities without compromising our current projects."
+            ]
+        },
+        {
+            "AICourse": "Exploring Manager Self-Assessments",
+            "Answers": [
+                "Good afternoon. Let's dive right into your concerns about gauging your effectiveness as a leader. Self-assessment is crucial, but it's not always straightforward. There are various tools you can use such as surveys, reflective practices, and 360-degree feedback. It's also important to acknowledge your strengths and weaknesses, as it can set an example for your team.",
+                "You're welcome. Remember, the process of self-assessment is not about being overly critical, but about understanding where you excel and where there's room for improvement. It's a continuous journey, one that will not only benefit you, but also your team. As you grow and develop, they will too."
+            ]
+        },
+        {
+            "AICourse": "Running Effective Meetings",
+            "Answers": [
+                "Good evening! I heard about your recent meeting. It can be tough when things don't go as planned. Let's chat about some strategies that might help for next time. ",
+                "I appreciate your trust in me. One strategy that has really helped me is setting a clear agenda before the meeting. This ensures everyone knows what to expect and can prepare accordingly. It's also important to encourage everyone to participate, as this fosters a sense of collaboration and respect. Time management is another crucial aspect - try to allocate specific time slots for each item on the agenda to prevent running over. Lastly, always aim to conclude the meeting with clear decisions and assigned tasks. This gives everyone a sense of accomplishment and clarity on next steps. I hope these tips are helpful.",
+                "Good Luck"
+            ]
+        },
+        {
+            "AICourse": "Setting SMART Goals",
+            "Answers": [
+                "Hello Good Evening",
+                "I wanted to discuss your recent performance review and set some SMART goals for the upcoming year. How are you feeling about it all?",
+                "However, setting SMART goals is essential for us to align our efforts with the company's objectives and ensure your continued growth. Let's take it one step at a time. Could we start by revisiting your performance review and discussing any areas you feel particularly proud of or areas you'd like to improve",
+                "Let's use this opportunity to build on your successes and work towards setting actionable goals for the year ahead. What aspects of your performance are you most proud of",
+                "It's great to hear that you feel your work on the social media campaign was satisfactory, . Let's delve into that further. Can you share some specific achievements or outcomes from the campaign that you're proud of? Understanding what worked well can help us identify areas to leverage and build upon for future projects.",
+                "It sounds like the social media campaign had a positive impact in terms of engagement and audience growth, . While social media may seem less significant compared to other aspects of marketing, it plays a crucial role in brand visibility and audience interaction.",
+                "Do you have any ideas on how we can align social media with our other marketing initiatives",
+                "Let's explore this idea further and see how we can leverage it to drive even better results",
+                "It's important to maintain a balance and prioritize tasks effectively. Let's discuss how we can implement these changes efficiently without overburdening you.",
+                "I'll work with you to identify areas where we can streamline processes and ensure that any additional tasks are manageable. Your dedication to your work is appreciated, and I want to ensure that we support you in achieving your goals effectively",
+                "ok,then bye"
+            ]
+        },
+        {
+            "AICourse": "Setting Professional Boundaries with Peers",
+            "Answers": [
+                "Hello Good Evening ",
+                "I understand your frustration, Bob. I apologize if my availability has caused any inconvenience. Let's discuss how we can better communicate and collaborate moving forward ",
+                "Appreciate your dedication, Bob. I'm committed to the project as well and value our teamwork. Let's find a way to ensure effective communication while also respecting each other's personal time. ",
+                "I understand your perspective, Bob. Let me assure you that the project is important to me, and I'm fully committed to its success. However, maintaining a healthy work-life balance is crucial for both our well-being and productivity. Let's work together to find a solution that respects everyone's boundaries while ensuring effective communication ",
+                "I can see why you might feel that way, Bob. However, everyone's approach to work-life balance is different, and it's essential to respect each other's boundaries. I assure you that my commitment to the project remains unwavering, and I'm dedicated to finding a solution that works for both of us. Let's focus on moving forward collaboratively. ",
+                "Absolutely, Bob. Getting the work done is our priority, and I'm fully committed to that. Let's work together to establish clear communication channels and find a balance that allows us to be productive while also respecting our personal time. I appreciate your understanding ",
+                "I understand, Bob. Actions do speak louder than words, and I'm committed to demonstrating my dedication to the project through my actions. Let's collaborate closely to ensure our work speaks for itself. Thank you for your understanding ",
+                "I hear you loud and clear, Bob. Rest assured, I'm fully committed to giving my best to this project. Let's work closely together to ensure its success. Thank you for your dedication and guidance. ",
+                "okay thank you"
+            ]
+        },
+        {
+            "AICourse": "Making Ethical Decisions",
+            "Answers": [
+                "Good evening to you too. ",
+                "Sure, what's up? ",
+                "Well, I don't see what the problem is. I'm not doing it during work hours. ",
+                "I get what you're saying but I don't think it's a big deal really. I mean, the company doesn't have a rule against it, right? ",
+                "Honestly, I don't see why this is such a big issue. I'm not hurting the company or anyone else. ",
+                "Alright, I see where you're coming from but I still think it's not that big of a deal. I mean, the company paid for my certification, isn't it fair that I put those skills to use? ",
+                "I hear you, but I still think you're overreacting. I'll think about what you've said, though. ",
+                "Sure, we can talk more about it if you want. But like I said, I don't think it's a big deal. ",
+                "Okay, I guess. I'll think about it and we can discuss it more later if necessary. ",
+                "You're welcome."
+            ]
+        },
+        {
+            "AICourse": "Holding Career Conversations Using the GROW Coaching Model",
+            "Answers": [
+                "Evening. Let's get this over with, shall we? ",
+                "Well, I plan to climb up the corporate ladder as fast as I can. I don't see why I shouldn't be at an executive level in a few years. ",
+                "I believe I have all the skills and experience I need. I've been doing really well in my current role, haven't I? ",
+                "I don't see the need to. I already handle my responsibilities well. I'm ready for more. ",
+                "I don't see the need to. I already handle my responsibilities well. I'm ready for more. ",
+                "I think I already understand our business pretty well. I mean, how much more is there to know? ",
+                "Well, I suppose there's always something new to learn. But I don't think I need to spend time on that right now. I'm ready for the next step in my career. ",
+                "I am already juggling multiple tasks and responsibilities. I don't see how I can squeeze in more learning or training. I believe I am ready to take on more important roles now. ",
+                "I get that, but I still think I'm ready now. This might just slow me down. ",
+                "Alright then. Let's move on. ",
+                "Fine, let's proceed."
+            ]
+        }
+    ]
+}

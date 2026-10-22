@@ -1,0 +1,164 @@
+{
+    "ILTCourses": [
+        {
+            "coursetitle": "Culture and Values Orientation",
+            "description": "This course is aimed at both new and existing employees who wish to gain a deeper understanding of our organization's culture, mission, and core values. The course will explore the importance of these elements in daily operations, decision-making processes, and overall organizational success. Participants will engage in interactive sessions to understand how these values can be applied in their roles, fostering a more inclusive, productive, and value-oriented workplace.",
+            "additionalnotes": "This course, designed for both new and existing employees, offers interactive sessions to deepen understanding of our organization's culture, mission, and core values, and how to apply them in daily operations for a more successful, inclusive, and productive workplace.",
+            "location": "Training Building 2 100 East 54th StreetNew York, USA, 14623",
+            "classroom": "Meeting Room 2",
+            "imageUrl":"https://cdn.bfldr.com/YWP0W9AT/at/k6664mkqt4xrtmfmtpvv7ngh/ILT_Culture_and_Values.png?auto=webp&format=png&width=800&height=450",
+            "classes": [
+                {
+                    "classtitle": "Culture and Values Orientation|Class 1",
+                    "classtype": "online",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Culture and Values Orientation|Class 2",
+                    "classtype": "offline",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Culture and Values Orientation|Class 3",
+                    "classtype": "hybrid",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                }
+            ],
+            "state":"publish"
+        },
+        {
+            "coursetitle": "Welcome Aboard - New Hire Orientation",
+            "description": "This course is a comprehensive introduction for new employees joining our organization. It aims to provide all the necessary information about the company's policies, procedures, culture, and values. The course will cover essential topics such as job responsibilities, benefits, safety protocols, and opportunities for professional growth. It also provides a platform for new hires to meet their colleagues and understand their roles within the team. By the end of this course, new employees will be well-equipped to navigate their new workplace effectively and contribute to their new roles.",
+            "additionalnotes": "This course provides new employees with a thorough understanding of our company's policies, culture, and values, covers key topics like job responsibilities and safety protocols, and offers opportunities for team integration and professional growth, ultimately equipping them to effectively contribute in their new roles.",
+            "location": "Training Building 1 302 King's Road London, UK, SW3 5UR",
+            "classroom": "Meeting Room 1",
+            "imageUrl":"https://cdn.bfldr.com/YWP0W9AT/at/bq698rh8892rv9jcj3c4p5h/Welcome_Aboard.png?auto=webp&format=png&width=800&height=450",
+            "classes": [
+                {
+                    "classtitle": "Welcome Aboard - New Hire Orientation|Class 1",
+                    "classtype": "online",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Welcome Aboard - New Hire Orientation|Class 2",
+                    "classtype": "offline",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Welcome Aboard - New Hire Orientation|Class 3",
+                    "classtype": "hybrid",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                }
+            ],
+            "state":"publish"
+        },
+        {
+            "coursetitle": "Onboarding Program for New Managers",
+            "description": "This course is specifically designed to equip new managers with the knowledge and tools they need to succeed in their roles. It introduces the organizational structure, culture, policies, and strategic objectives. The program will cover essential management skills such as team leadership, conflict resolution, performance management, and effective communication. It also provides an understanding of the company's expectations for managerial roles. By the end of this course, new managers will be prepared to lead their teams effectively, contribute to the organization's goals, and navigate the challenges of their new roles with confidence.",
+            "additionalnotes": "This course prepares new managers for success by equipping them with essential management skills, a comprehensive understanding of the company's structure, culture, policies, and strategic objectives, thereby enabling them to confidently lead their teams and align their actions with the organization's goals.",
+            "location": "Training Building 2 100 East 54th StreetNew York, USA, 14623",
+            "classroom": "Meeting Room 2",
+            "imageUrl":"https://cdn.bfldr.com/YWP0W9AT/at/fwm3g8tc37gpmnfqw8kc5h/New_Manager_Onboarding_Program.png?auto=webp&format=png&width=800&height=450",
+            "classes": [
+                {
+                    "classtitle": "Onboarding Program for New Managers|Class 1",
+                    "classtype": "online",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Onboarding Program for New Managers|Class 2",
+                    "classtype": "offline",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Onboarding Program for New Managers|Class 3",
+                    "classtype": "hybrid",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                }
+            ],
+            "state":"draft"
+        },
+        {
+            "coursetitle": "Leadership Workshop",
+            "description": "This interactive course is designed to develop and enhance leadership skills among participants. It aims to provide insights into effective leadership styles, decision-making processes, team management, and strategic planning. The workshop offers practical exercises and case studies to help leaders understand how to inspire and motivate their teams, manage conflicts, and lead change effectively. It also focuses on self-development, emphasizing the importance of emotional intelligence and effective communication in leadership. By the end of this course, participants will have a stronger understanding of their leadership potential and how to utilize it in their professional environment.",
+            "additionalnotes": "This interactive course aims to strengthen participants' leadership skills by providing insights into effective leadership styles, decision-making, team management, strategic planning, and self-development, utilizing practical exercises and case studies to enable leaders to motivate teams, manage conflict, lead change, and leverage their leadership potential in their professional environment.",
+            "location": "Training Building 1 302 King's Road London, UK, SW3 5UR",
+            "classroom": "Meeting Room 1",
+            "imageUrl":"https://cdn.bfldr.com/YWP0W9AT/at/4h5nt3sg7nsf4ttgv4pr64r/Leadership_Workshop.png?auto=webp&format=png&width=800&height=450",
+            "classes": [
+                {
+                    "classtitle": "Leadership Workshop|Class 1",
+                    "classtype": "online",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Leadership Workshop|Class 2",
+                    "classtype": "offline",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Leadership Workshop|Class 3",
+                    "classtype": "hybrid",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                }
+            ],
+            "state":"draft"
+        },
+        {
+            "coursetitle": "Project Management Workshop",
+            "description": "This course is tailored to equip participants with essential project management skills and principles. The workshop covers key aspects of project management such as project planning, execution, monitoring, and closure. Participants will learn about risk management, stakeholder communication, resource allocation, and time management. The course includes practical exercises and real-world case studies to help participants understand how to apply these skills in managing successful projects. By the end of this workshop, participants will have a comprehensive understanding of project management processes and techniques, ready to lead and execute projects effectively.",
+            "additionalnotes": "This course equips participants with essential project management skills and principles, covering project planning, execution, monitoring, and closure, along with risk and time management, stakeholder communication, and resource allocation, using practical exercises and case studies to prepare them to effectively lead and execute projects.",
+            "location": "Training Building 2 100 East 54th StreetNew York, USA, 14623",
+            "classroom": "Meeting Room 2",
+            "imageUrl":"https://cdn.bfldr.com/YWP0W9AT/at/hrjgrjtb4bb4qjjhp5ggmc5w/Project_Management_ILT.png?auto=webp&format=png&width=800&height=450",
+            "classes": [
+                {
+                    "classtitle": "Project Management Workshop|Class 1",
+                    "classtype": "online",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Project Management Workshop|Class 2",
+                    "classtype": "offline",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                },
+                {
+                    "classtitle": "Project Management Workshop|Class 3",
+                    "classtype": "hybrid",
+                    "meetingurl": "http://www.teams.com",
+                    "imageurl": "https://cdn2.percipio.com/public/c/public/images/LiveCourse-default.png",
+                    "instructorid": "Raheem_Ahmed"
+                }
+            ],
+            "state":"draft"
+        }
+    ]
+}

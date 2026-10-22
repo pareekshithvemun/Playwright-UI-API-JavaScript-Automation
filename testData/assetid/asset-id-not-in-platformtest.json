@@ -1,0 +1,4877 @@
+{
+  "description": "Framework asset IDs not available in platformtest (4108f1f2-4911-4a86-b521-421caa5cea6a). Subsets from cross-org comparison with source file mappings from asset-id-source-files.json.",
+  "generatedAt": "2026-06-19T06:44:38.099Z",
+  "sourceCrossOrgReport": "asset-id-org-availability-cross-org-comparison.json",
+  "sourceAssetIdMappings": "asset-id-source-files.json",
+  "orgs": {
+    "percipiodemo": {
+      "baseURL": "https://percipiodemo.percipio.com",
+      "orgId": "f308bedc-84e3-4fc8-9400-b487893bca93"
+    },
+    "platformtest": {
+      "baseURL": "https://platformtest.percipio.com",
+      "orgId": "4108f1f2-4911-4a86-b521-421caa5cea6a"
+    }
+  },
+  "contentInPercipiodemoNotInPlatformtestCount": 122,
+  "contentNotInEitherOrgCount": 142,
+  "totalNotInPlatformtestCount": 264,
+  "subsets": {
+    "contentInPercipiodemoNotInPlatformtest": {
+      "count": 122,
+      "assetIdMappings": [
+        {
+          "assetId": "0068de5f-b9ae-4431-969e-6aaaf2d988cf",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/content/content.js"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "0107d364-c64a-483b-b4e6-2d8677d4fcbc",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "042afe20-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "06720340-e71a-11e6-9835-f723b46a2688",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "069366cf-d095-4fda-8489-c230a2afc37e",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "0719de72-768a-433a-aeaf-983b94658b07",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "0a466a66-05d1-434c-be9b-2831a6ff6014",
+          "fileCount": 1,
+          "files": [
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "0d8ebe0c-66e5-4e51-aadb-b3bc014f54dc",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "13fc834b-3e49-458a-b235-3e6b4d405d23",
+          "fileCount": 2,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json",
+            "testData/DynamicContent/dynamicContentOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "148519eb-3a40-4aae-a997-ac8b14ac164b",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "15beeb4a-51ec-472d-9030-5e5a1aca5853",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "16743c90-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "189ee28b-50a1-4a80-951f-aee40fd15155",
+          "fileCount": 4,
+          "files": [
+            "testData/customLandingPages/AIAcademy.json",
+            "testData/customLandingPages/convertedTestData.json",
+            "testData/customLandingPages/customLandingPageData.json",
+            "testData/customLandingPages/sampleApiResponse.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "18bd9d46-d01f-4d5d-8b44-fa307bc2c7c6",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "19777be0-da23-473a-986a-f8eea57d485c",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "199aff72-9264-4075-b73d-acccd929991b",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "22f5784d-bd70-4dc2-a6a9-45285f8a1f0b",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "fileCount": 2,
+          "files": [
+            "testData/BannerData/bannerDataOne.json",
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "2600a4f0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "2937e665-f75e-4c78-b61f-ab65dfbdecf4",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/AkaraLxpage.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "2af4a36f-a011-4afa-ba8b-5de14bec149f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "31fabed0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "3280841d-0562-47f1-a360-bd00dae0c9ab",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "3456b11c-0138-47b8-9c9f-ef2df4d1ee9a",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "37960fc8-ed71-4cf0-bfce-da4f17014550",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "3922ac5d-1bea-4898-8d4f-9c6fa9f01103",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "39cf09de-f03c-4010-99ea-68235881815a",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "fileCount": 5,
+          "files": [
+            "testData/StripData/stripDataOne.json",
+            "testData/customLandingPages/AIAcademy.json",
+            "testData/customLandingPages/convertedTestData.json",
+            "testData/customLandingPages/customLandingPageData.json",
+            "testData/customLandingPages/sampleApiResponse.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "3cfba287-ca74-410c-b8b8-bdd511c8e294",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+          "fileCount": 2,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json",
+            "testData/DynamicContent/dynamicContentOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "42db1e70-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "44cf8c5e-406a-4ac6-85b6-76456528c9e2",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "46accd20-e718-11e6-9835-f723b46a2688",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "46defff0-211c-11e7-a974-1962c7e6a20b",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "487e5dcd-d6fd-4a50-8438-f6e97c89fe8f",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "4f7c488a-634e-414e-bcc2-b6f8a722acc7",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "59f6c082-1859-447f-96df-4968ab4611b9",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "5be669c4-6562-4c50-9a10-8fe38cfaf74e",
+          "fileCount": 2,
+          "files": [
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "5df2a8b2-c2b7-41ab-b2d0-b4250edbd5d3",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "61960d98-b858-4377-8ceb-522e039bf88c",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "61b31c19-06e6-4ed4-8fcd-d4178bd0b0ed",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "62dc4420-e719-11e6-9835-f723b46a2688",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "63029303-bc82-4877-a315-278a7d579975",
+          "fileCount": 2,
+          "files": [
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "63220ef0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "64b6a68b-cba5-4f9e-b56a-4fe12ddb4a39",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "682e48b8-4101-4cb3-86bf-0932323d1d6c",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "fileCount": 6,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataOne.json",
+            "testData/StripData/stripDataOne.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "6af65181-c7c9-4181-b7fc-afab4cc7b87f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7362fc6c-3b4c-4c15-9325-b9c00f4e9f2b",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7590e755-df11-41ac-80e2-f9192ca81a93",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 5,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataOne.json",
+            "testData/BannerData/bannerDataTwo.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "78b0a6c7-3f6e-4ef0-bbda-2d6236e6721b",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7931f817-235b-491a-a4ca-9e32e7e824fd",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7b43dd00-205a-11e7-a06b-196ddb80a7e9",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7baf5616-9e73-41ff-8e24-356c1d250ba9",
+          "fileCount": 5,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "7e1baa64-1b84-402a-81d8-2f68b6d0d679",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "82a81658-9f51-423d-a3b8-96bf323cc728",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "832340cd-a659-45a0-b003-849d999df930",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "85ac11a0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8a8c741f-8d96-4e28-9e84-d77f632ed967",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8afe8d8c-12ee-4c57-8d60-cd2af4527ca0",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8b7e0766-e45b-438c-adf1-49fd65f68b5e",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8ba7f1bf-c36b-4f37-a9a5-4f21ba1d67bd",
+          "fileCount": 1,
+          "files": [
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8c068380-e717-11e6-9835-f723b46a2688",
+          "fileCount": 2,
+          "files": [
+            "testData/BannerData/bannerDataTwo.json",
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "8f2897d7-759c-4b84-91bc-6c346bf9c9c8",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "9126acd0-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "95b128f9-6d58-48ec-b61e-eacb607f8fc4",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "964c5e5a-1dda-44a3-b36c-41a460be2a8a",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "9845c1c8-1844-48fa-b52d-0f2a79fb8cd6",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "99b92020-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "9c912cb0-f918-11e6-aad2-6b3c03be7fe8",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "fileCount": 6,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataOne.json",
+            "testData/BannerData/bannerDataTwo.json",
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+          "fileCount": 2,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/JourneyTestData/journeyData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "a588dbe0-e718-11e6-9835-f723b46a2688",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "a9b79e8a-6dac-4972-beb8-432fc5f12a8a",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "abbca300-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "acc349b7-285f-4540-a5dd-48980f3b1787",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "adb63fba-1cf0-4242-b71d-57747ff3b198",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b12fb24c-ba27-424c-8a8e-216870eb7862",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b1edd4c0-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b4eb43a2-90d5-4edf-a588-a3d3ddbefab5",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b562d9c2-7abe-4a1f-9bee-2aa8937e0161",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b745bad1-26e4-4bdc-b9d6-49b0318eb964",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "b80ac584-d4e0-404a-8c4e-dde71a059f28",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 5,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataOne.json",
+            "testData/BannerData/bannerDataTwo.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "bbf1a7c3-3a8f-4b82-b0d0-0df27e3fbae5",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "bc73d207-ad7a-4b83-9f62-ed9762f308ba",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "bd35db83-cc28-4fc8-947c-916f023abde2",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "befb0daa-8525-471b-aaa5-7612c4ea29f7",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/PlayListData/playListDataOne.json",
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c2562124-c5b7-4971-912d-d5dcbcce0533",
+          "fileCount": 1,
+          "files": [
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c4ceb790-f915-11e6-aad2-6b3c03be7fe8",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/AkaraLxpage.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c6dd2cf0-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c7a1fb4f-26d8-491d-a273-f260e711d6d3",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "c7de7ae0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "cc40a2c8-70a1-4adf-8d3a-c2723bb383af",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "cd7be60b-a6b0-4187-8cd4-f764ac0f81fd",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "da63b7db-0f6d-4e2f-892f-63d6b75c2ba8",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "daa36e70-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "fileCount": 5,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataOne.json",
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "e018c8b9-dd4e-4685-a788-70d0aff7fb1d",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "e3fd93a0-c400-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "ea3667fd-189d-456f-9377-90a5903ae868",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "eade6d8f-2a32-4e1a-88f5-5d5181281633",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "efb1a78e-86b1-4d88-88ba-0e2723b709b9",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f2b14792-44a7-468a-83a8-88780c228c47",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f4c0ead0-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f4cd68c6-6ae0-41aa-b0b0-b7602794e6f2",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f50c563a-3c13-4ba3-a630-9d26c67bcbdf",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f73ab177-7750-4e86-8450-3864507e3e54",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f816e150-f914-11e6-aad2-6b3c03be7fe8",
+          "fileCount": 1,
+          "files": [
+            "testData/customLandingPages/LeadershipAcademy.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f9752f28-c91a-4e10-9d27-fec26a2cf066",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "f99a21a0-e71b-11e6-9835-f723b46a2688",
+          "fileCount": 2,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "faadb030-3373-4795-a40c-66d45434d2db",
+          "fileCount": 1,
+          "files": [
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "fb8a3782-e5c1-404b-a825-2cb01aa2da47",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "fd879f9e-c287-476e-b448-7e6a25ae3467",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "ff7a0394-c619-4356-be70-463eed0d94d6",
+          "fileCount": 1,
+          "files": [
+            "testData/PlayListData/playListDataOne.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        },
+        {
+          "assetId": "ffa72325-d5d6-4c7d-8aca-bd69350a22c0",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "inPercipiodemoNotInPlatformtest"
+        }
+      ]
+    },
+    "contentNotInEitherOrg": {
+      "count": 142,
+      "assetIdMappings": [
+        {
+          "assetId": "00e5e257-8c55-4582-954a-d652b560f8eb",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/NewLabJourney.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "04151961-96f9-47ce-b7cd-0e4b36bb49f2",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "05159480-147d-4f19-bcaa-7e26318d7203",
+          "fileCount": 2,
+          "files": [
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "07d05a04-0611-4f44-b3ad-13453bc482a4",
+          "fileCount": 4,
+          "files": [
+            "testData/customLandingPages/AIAcademy.json",
+            "testData/customLandingPages/convertedTestData.json",
+            "testData/customLandingPages/customLandingPageData.json",
+            "testData/customLandingPages/sampleApiResponse.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "09645db6-b652-4618-aa8b-7c86ae68cc80",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "09f68955-017c-4979-954b-0fe07d70446c",
+          "fileCount": 2,
+          "files": [
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "0b37f9c7-2af4-4925-8ac5-0167971a8c8d",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "0b9ac3d7-a783-4d61-bcbd-89d737bd97a0",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "0d9eec1b-2d36-4959-954e-523ec1d31b37",
+          "fileCount": 1,
+          "files": [
+            "tests/API/RAS/editAssignmentDashboars.spec.js"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "0fc991e6-a984-4e18-bd7a-7cceaf994b4b",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "10df15f2-822c-484f-a100-2f905b6b20b7",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1218fadc-dffd-4ca5-85f9-51a82cf21584",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "12659691-ac2e-45c3-ac53-7694e80b2db1",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "146db25e-af11-43ea-b7b3-b41a71bf9264",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1623a58d-c752-4af1-bd7c-40ef95c71d59",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "164e2f35-a79f-4b74-9eeb-4ee0d7feccdc",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1724b1c0-a781-423c-8acf-012d9e030d7e",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "190a7d16-4463-4b55-aca9-e36d31d0c0ae",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1947474a-d5fb-4519-992e-350162ece700",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1a2f86fb-fb3b-45c2-8d83-94bc99113b6c",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1ad4cc0c-5870-4450-bb5c-db581e39cd73",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1becf3cc-fde1-4612-8768-69f4ca1949fd",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "1f37f5a8-170f-4234-8189-8f2021c12d78",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "24f43fb1-e4b1-11e6-a792-0242c0a80b09",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "26a4ab59-05cd-11e7-b6c3-0242c0a80802",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "2735e041-4b80-4610-abb6-ae492d8fb68f",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "2baadb6e-46a5-4c02-9cfc-976ba787e09d",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "2c7d883b-8886-45e5-8651-19160b58bba8",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "2cd4ac21-51c1-4525-af55-eba25d0a5342",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "2ff179ad-ae63-48bd-a5ea-868a78a3762b",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "31f053a9-e3b0-4adc-919f-0dbb162cc5fd",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "33228a60-2151-438f-afb5-219abadff278",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "359f7ef8-f72b-41b8-8920-a594732c3dfe",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "3633ad22-2bef-4064-871e-68fdde0e60f2",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "36ba1c0f-bdc3-4036-b607-5141797442f8",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "38205614-3b9d-4ad0-a7c0-7e22721ac4d9",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "3b4333c0-7376-4932-b0d7-ef13dfcd4d0a",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "3ba3fe00-3355-11e8-94be-db6d3766eb17",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "3f43f380-872f-11e7-9c68-3253b7063610",
+          "fileCount": 2,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/federalAssignmentData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "41a35c0e-2712-46f4-8ec2-30e538822e29",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "42b23ddc-f427-42d6-bfaa-2419a883629b",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "46f03d39-9b60-4d5e-857e-c029f2f9e6ed",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "48bc426a-1935-4088-b9a8-9a1fc10db7b6",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "48e1ec32-1d18-49d7-8f7e-a668e30ccb74",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "4e874332-3992-4ade-97df-86caa7d296fb",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "505400c8-fd1d-4bd9-9247-91ba85a7ecac",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "51e45af8-f073-444e-ac2e-7d89f7fa55c3",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "520ea1a3-dd45-499e-84b2-4bc1282ce2dc",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "534ff8b7-41ea-4730-ad3f-a8dde5d540a8",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "537b1aa9-41ba-4789-923c-eabd5914a150",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "56262c27-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/content/content.js"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5628eb53-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5629d5b1-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/PlayListData/playListDataTwo.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5629fcb3-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562b5c47-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562c1f97-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/courseCompletion/earnCourseBadges.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562cbbd5-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/courseCompletion/earnCourseBadges.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562cbbdf-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562d7f25-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562fc913-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562fc91f-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562ff026-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "562ff032-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5630173a-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "563176c0-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 2,
+          "files": [
+            "testData/learningPrograms/federalLearningprogramData.json",
+            "testData/learningPrograms/learningprogramData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "56332475-fea5-11e6-8638-0242c0a80b06",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "581d12b7-1f3e-4996-9bfc-ea8eabc7aee0",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5b06ae80-b90d-427e-b937-5a72ec68c864",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5b907636-4e83-4235-9766-e46a8b7c4ec6",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5bcec4d7-379d-4974-95a3-009470eb6db7",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5be545ef-21e6-4d74-940e-a287fe9cc8ad",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5c1542c2-0de8-413b-82af-6d9adc34499b",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "5f434583-01f8-4e99-87ed-4e788c8d831c",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "60854529-1086-4c15-84cc-a17b5d9ea77b",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "65631652-d339-49eb-8b8a-630d558f4f94",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "6697cf07-2d4e-4f70-a71a-baa32c54c0cb",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "671fcd97-048c-433d-9eaf-e144e58ebd50",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/NewLabJourney.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "6a51de89-1bec-4663-bcaf-992b361bf942",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "6ba8b1ee-3847-4b47-92bd-a99753a6d8bd",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "6d51554a-1987-454f-8704-16575aca5003",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "6dc845fc-4f71-418d-8607-6d590352f769",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "701af4cf-be1e-4536-b41e-725c51c4863a",
+          "fileCount": 1,
+          "files": [
+            "testData/BannerData/bannerDataTwo.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "70317551-b900-45bd-a6e2-03fc33add847",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/courseCompletion/earnCourseBadges.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "726aa202-3709-4f3a-9465-6628ea165404",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "729abc2f-ce04-40a9-b6f0-0f215bfe25de",
+          "fileCount": 2,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "72b4d875-ab4d-454e-a229-921d4db312ee",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "72fe9eb5-0ae3-4c61-b58a-3dd678e2a766",
+          "fileCount": 1,
+          "files": [
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "74ad34c4-d983-4ca4-bfe0-316d6c89c4aa",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "75e591a5-898d-465a-88bc-a19c08e70cba",
+          "fileCount": 2,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "78b0131f-671f-4dfa-bf03-ed106e542b64",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "795e576a-b70a-466f-9c89-f6ddc7830b88",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "79a77c9f-b6a1-4f74-896d-58371f46e938",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "7b3db6cc-402f-44d7-9e56-cd8ca5c5571c",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "7b9456cc-c1b5-4f87-8712-405f16d115c6",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "7d8b3d01-2b73-11e7-bbbf-3b6e78cef3cf",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "7fa384ff-f84a-42c1-a3df-620fd508c2a6",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "83f721bb-1211-483a-a1d5-5795bf1ba5fe",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "89866cdd-0988-47e9-83ed-824ef123e3ba",
+          "fileCount": 1,
+          "files": [
+            "tests/API/CP/completePTTCTest.spec.js"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "8ebedcd9-731f-4e70-abf3-118a242dc94d",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "9037b475-54fc-463b-b66a-b12b2cc80d2a",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "90d70288-77bf-483a-83ca-625467905ecf",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "93791e73-fdf9-40d6-a9e0-491f7f94f881",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "997e7a80-43f0-4141-8c1f-693da6c1cf2c",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "99ac9ff0-6b1c-44d1-98a8-ecf84421340c",
+          "fileCount": 1,
+          "files": [
+            "testData/DynamicContent/dynamicContent.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "9c5bf38d-c84e-4f93-aeaa-353b8fed9198",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "9d374c9e-159d-4377-ab70-be4117d00570",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "9f306e25-368b-45b0-b808-a99e3ca7926e",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/NewLabJourney.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "a87b228b-1cf0-425f-b160-ca9072c6ffab",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "a89dcda3-194b-4020-987e-f9cd4809e682",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "a9395032-e00a-4fe8-847f-0d671288c815",
+          "fileCount": 4,
+          "files": [
+            "testData/customLandingPages/AIAcademy.json",
+            "testData/customLandingPages/convertedTestData.json",
+            "testData/customLandingPages/customLandingPageData.json",
+            "testData/customLandingPages/sampleApiResponse.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "aef3e689-6c4a-404e-b1fa-4a7a82b647e8",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "b9ae968f-6d81-4bcf-a36e-e4c64216af58",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "c19e69b4-6881-4421-a312-4eb06b0ab5af",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "c3e592bc-ccb1-4f99-9526-ea325f20003d",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "c4056e29-7860-44c6-b49d-755db2b018e3",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "c9baa8a4-1862-441a-8ccd-b6942aa058d6",
+          "fileCount": 4,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json",
+            "testData/BannerData/bannerDataTwo.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "c9f8298e-13fd-4e8e-8efa-eafc32547c52",
+          "fileCount": 1,
+          "files": [
+            "testData/StripData/stripDataOne.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "cad83dd7-5553-42f0-90e2-04100898120b",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "cae50fc9-0b80-4324-bca6-51b8fa752179",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "cb11fda8-b2ab-4ec8-83d3-925947a80149",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "ccdfadc1-d9c3-11e6-a5b1-0242c0a80503",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "ceaa1884-01cd-4201-97c6-e96becb3a475",
+          "fileCount": 3,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json",
+            "testData/AreaTestData/AreaTestDataForChildSite.json",
+            "testData/AreaTestData/FederalAreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "cffc2d91-6d80-441a-a19f-19ca4a7682c1",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "d295b825-deae-469c-a404-6c074090d2d9",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "d3a642b8-3c99-4d79-91ec-a0be9e7ef234",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "d42e770b-0d38-4d54-b24f-acf9ab884ade",
+          "fileCount": 1,
+          "files": [
+            "tests/API/RAS/editAssignmentDashboars.spec.js"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "d7364d62-c174-4894-a67a-a9eba721fa0e",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "d9ae7656-417a-48fd-98ac-4349fec978d5",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "daf374ea-4101-4812-847a-8f9d66445a4b",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "db5ea1fb-036d-4726-8ea2-a15b620d7789",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "dbfe5606-36f6-443c-a392-205f9bd9c304",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "dd52b812-a711-4d10-8378-282498e8027a",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "dfa71870-1fd3-4243-8f2d-166d5ec78f07",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "e0e1e303-06fc-4d66-b3ab-731ddb0c69bf",
+          "fileCount": 4,
+          "files": [
+            "testData/customLandingPages/AIAcademy.json",
+            "testData/customLandingPages/convertedTestData.json",
+            "testData/customLandingPages/customLandingPageData.json",
+            "testData/customLandingPages/sampleApiResponse.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "e3d52dfa-cb82-447c-b982-3fea6d9d4142",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "e6291aab-ea20-4bf5-8903-540051fd2234",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "e9f5ba46-a5f6-4cb8-8fe3-c945327e572d",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "f1645918-5c1d-43db-8559-da432c8c8bd7",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "f26bb77a-6d81-4812-bd5f-f775b511c057",
+          "fileCount": 1,
+          "files": [
+            "testData/channelTestData/channelData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "f566efb6-4324-4edf-a15f-3f960b14f06f",
+          "fileCount": 1,
+          "files": [
+            "testData/AreaTestData/AreaTestData.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        },
+        {
+          "assetId": "f6ea2595-b870-41fd-a363-d85a4ed43ac4",
+          "fileCount": 3,
+          "files": [
+            "testData/AssignmentTestData/assignmentData.json",
+            "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+            "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+          ],
+          "availabilityCategory": "notInEitherOrg"
+        }
+      ]
+    }
+  },
+  "assetIdMappings": [
+    {
+      "assetId": "0068de5f-b9ae-4431-969e-6aaaf2d988cf",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/content/content.js"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "00e5e257-8c55-4582-954a-d652b560f8eb",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/NewLabJourney.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0107d364-c64a-483b-b4e6-2d8677d4fcbc",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "02a1696d-727e-4993-9174-1de4d06009fb",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "04151961-96f9-47ce-b7cd-0e4b36bb49f2",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "042afe20-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "05159480-147d-4f19-bcaa-7e26318d7203",
+      "fileCount": 2,
+      "files": [
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "06720340-e71a-11e6-9835-f723b46a2688",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "069366cf-d095-4fda-8489-c230a2afc37e",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0719de72-768a-433a-aeaf-983b94658b07",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "07d05a04-0611-4f44-b3ad-13453bc482a4",
+      "fileCount": 4,
+      "files": [
+        "testData/customLandingPages/AIAcademy.json",
+        "testData/customLandingPages/convertedTestData.json",
+        "testData/customLandingPages/customLandingPageData.json",
+        "testData/customLandingPages/sampleApiResponse.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "09645db6-b652-4618-aa8b-7c86ae68cc80",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "09f68955-017c-4979-954b-0fe07d70446c",
+      "fileCount": 2,
+      "files": [
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0a466a66-05d1-434c-be9b-2831a6ff6014",
+      "fileCount": 1,
+      "files": [
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0b37f9c7-2af4-4925-8ac5-0167971a8c8d",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0b9ac3d7-a783-4d61-bcbd-89d737bd97a0",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0d8ebe0c-66e5-4e51-aadb-b3bc014f54dc",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0d9eec1b-2d36-4959-954e-523ec1d31b37",
+      "fileCount": 1,
+      "files": [
+        "tests/API/RAS/editAssignmentDashboars.spec.js"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "0fc991e6-a984-4e18-bd7a-7cceaf994b4b",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "10df15f2-822c-484f-a100-2f905b6b20b7",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1218fadc-dffd-4ca5-85f9-51a82cf21584",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "12659691-ac2e-45c3-ac53-7694e80b2db1",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "13fc834b-3e49-458a-b235-3e6b4d405d23",
+      "fileCount": 2,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json",
+        "testData/DynamicContent/dynamicContentOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "146db25e-af11-43ea-b7b3-b41a71bf9264",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "148519eb-3a40-4aae-a997-ac8b14ac164b",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "15beeb4a-51ec-472d-9030-5e5a1aca5853",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1623a58d-c752-4af1-bd7c-40ef95c71d59",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "164e2f35-a79f-4b74-9eeb-4ee0d7feccdc",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "16743c90-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1724b1c0-a781-423c-8acf-012d9e030d7e",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "189ee28b-50a1-4a80-951f-aee40fd15155",
+      "fileCount": 4,
+      "files": [
+        "testData/customLandingPages/AIAcademy.json",
+        "testData/customLandingPages/convertedTestData.json",
+        "testData/customLandingPages/customLandingPageData.json",
+        "testData/customLandingPages/sampleApiResponse.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "18bd9d46-d01f-4d5d-8b44-fa307bc2c7c6",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "190a7d16-4463-4b55-aca9-e36d31d0c0ae",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1947474a-d5fb-4519-992e-350162ece700",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "19777be0-da23-473a-986a-f8eea57d485c",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "199aff72-9264-4075-b73d-acccd929991b",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1a2f86fb-fb3b-45c2-8d83-94bc99113b6c",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1ad4cc0c-5870-4450-bb5c-db581e39cd73",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1becf3cc-fde1-4612-8768-69f4ca1949fd",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "1f37f5a8-170f-4234-8189-8f2021c12d78",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "22f5784d-bd70-4dc2-a6a9-45285f8a1f0b",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+      "fileCount": 2,
+      "files": [
+        "testData/BannerData/bannerDataOne.json",
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "24f43fb1-e4b1-11e6-a792-0242c0a80b09",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2600a4f0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "26a4ab59-05cd-11e7-b6c3-0242c0a80802",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2735e041-4b80-4610-abb6-ae492d8fb68f",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2937e665-f75e-4c78-b61f-ab65dfbdecf4",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/AkaraLxpage.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2af4a36f-a011-4afa-ba8b-5de14bec149f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2baadb6e-46a5-4c02-9cfc-976ba787e09d",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2c7d883b-8886-45e5-8651-19160b58bba8",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2cd4ac21-51c1-4525-af55-eba25d0a5342",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "2ff179ad-ae63-48bd-a5ea-868a78a3762b",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "31f053a9-e3b0-4adc-919f-0dbb162cc5fd",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "31fabed0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3280841d-0562-47f1-a360-bd00dae0c9ab",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "33228a60-2151-438f-afb5-219abadff278",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3456b11c-0138-47b8-9c9f-ef2df4d1ee9a",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "359f7ef8-f72b-41b8-8920-a594732c3dfe",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3633ad22-2bef-4064-871e-68fdde0e60f2",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "36ba1c0f-bdc3-4036-b607-5141797442f8",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "37960fc8-ed71-4cf0-bfce-da4f17014550",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "38205614-3b9d-4ad0-a7c0-7e22721ac4d9",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3922ac5d-1bea-4898-8d4f-9c6fa9f01103",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "39cf09de-f03c-4010-99ea-68235881815a",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+      "fileCount": 5,
+      "files": [
+        "testData/StripData/stripDataOne.json",
+        "testData/customLandingPages/AIAcademy.json",
+        "testData/customLandingPages/convertedTestData.json",
+        "testData/customLandingPages/customLandingPageData.json",
+        "testData/customLandingPages/sampleApiResponse.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3b4333c0-7376-4932-b0d7-ef13dfcd4d0a",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3ba3fe00-3355-11e8-94be-db6d3766eb17",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3cfba287-ca74-410c-b8b8-bdd511c8e294",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3f0740db-7349-4b67-814b-1384c69f10c8",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "3f43f380-872f-11e7-9c68-3253b7063610",
+      "fileCount": 2,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/federalAssignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+      "fileCount": 2,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json",
+        "testData/DynamicContent/dynamicContentOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "41a35c0e-2712-46f4-8ec2-30e538822e29",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "42b23ddc-f427-42d6-bfaa-2419a883629b",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "42db1e70-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "44cf8c5e-406a-4ac6-85b6-76456528c9e2",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "46accd20-e718-11e6-9835-f723b46a2688",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "46defff0-211c-11e7-a974-1962c7e6a20b",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "46f03d39-9b60-4d5e-857e-c029f2f9e6ed",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "487e5dcd-d6fd-4a50-8438-f6e97c89fe8f",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "48bc426a-1935-4088-b9a8-9a1fc10db7b6",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "48e1ec32-1d18-49d7-8f7e-a668e30ccb74",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "4e874332-3992-4ade-97df-86caa7d296fb",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "4f7c488a-634e-414e-bcc2-b6f8a722acc7",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "505400c8-fd1d-4bd9-9247-91ba85a7ecac",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "51e45af8-f073-444e-ac2e-7d89f7fa55c3",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "520ea1a3-dd45-499e-84b2-4bc1282ce2dc",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "534ff8b7-41ea-4730-ad3f-a8dde5d540a8",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "537b1aa9-41ba-4789-923c-eabd5914a150",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "56262c27-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/content/content.js"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5628eb53-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5629d5b1-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/PlayListData/playListDataTwo.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5629fcb3-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562b5c47-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562c1f97-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/courseCompletion/earnCourseBadges.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562cbbd5-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/courseCompletion/earnCourseBadges.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562cbbdf-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562d7f25-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562fc913-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562fc91f-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562ff026-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "562ff032-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5630173a-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "563176c0-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 2,
+      "files": [
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "56332475-fea5-11e6-8638-0242c0a80b06",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "581d12b7-1f3e-4996-9bfc-ea8eabc7aee0",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "59f6c082-1859-447f-96df-4968ab4611b9",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5b06ae80-b90d-427e-b937-5a72ec68c864",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5b907636-4e83-4235-9766-e46a8b7c4ec6",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5bcec4d7-379d-4974-95a3-009470eb6db7",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5be545ef-21e6-4d74-940e-a287fe9cc8ad",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5be669c4-6562-4c50-9a10-8fe38cfaf74e",
+      "fileCount": 2,
+      "files": [
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5c1542c2-0de8-413b-82af-6d9adc34499b",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5df2a8b2-c2b7-41ab-b2d0-b4250edbd5d3",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "5f434583-01f8-4e99-87ed-4e788c8d831c",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "60854529-1086-4c15-84cc-a17b5d9ea77b",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "61960d98-b858-4377-8ceb-522e039bf88c",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "61b31c19-06e6-4ed4-8fcd-d4178bd0b0ed",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "62dc4420-e719-11e6-9835-f723b46a2688",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "63029303-bc82-4877-a315-278a7d579975",
+      "fileCount": 2,
+      "files": [
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "63220ef0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "64b6a68b-cba5-4f9e-b56a-4fe12ddb4a39",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "65631652-d339-49eb-8b8a-630d558f4f94",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6697cf07-2d4e-4f70-a71a-baa32c54c0cb",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "671fcd97-048c-433d-9eaf-e144e58ebd50",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/NewLabJourney.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "682e48b8-4101-4cb3-86bf-0932323d1d6c",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+      "fileCount": 6,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataOne.json",
+        "testData/StripData/stripDataOne.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6a51de89-1bec-4663-bcaf-992b361bf942",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6af65181-c7c9-4181-b7fc-afab4cc7b87f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6ba8b1ee-3847-4b47-92bd-a99753a6d8bd",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6d51554a-1987-454f-8704-16575aca5003",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "6dc845fc-4f71-418d-8607-6d590352f769",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "701af4cf-be1e-4536-b41e-725c51c4863a",
+      "fileCount": 1,
+      "files": [
+        "testData/BannerData/bannerDataTwo.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "70317551-b900-45bd-a6e2-03fc33add847",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/courseCompletion/earnCourseBadges.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "726aa202-3709-4f3a-9465-6628ea165404",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "729abc2f-ce04-40a9-b6f0-0f215bfe25de",
+      "fileCount": 2,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "72b4d875-ab4d-454e-a229-921d4db312ee",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "72fe9eb5-0ae3-4c61-b58a-3dd678e2a766",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7362fc6c-3b4c-4c15-9325-b9c00f4e9f2b",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "74ad34c4-d983-4ca4-bfe0-316d6c89c4aa",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7590e755-df11-41ac-80e2-f9192ca81a93",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "75e591a5-898d-465a-88bc-a19c08e70cba",
+      "fileCount": 2,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 5,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataOne.json",
+        "testData/BannerData/bannerDataTwo.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "78b0131f-671f-4dfa-bf03-ed106e542b64",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "78b0a6c7-3f6e-4ef0-bbda-2d6236e6721b",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7931f817-235b-491a-a4ca-9e32e7e824fd",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "795e576a-b70a-466f-9c89-f6ddc7830b88",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "79a77c9f-b6a1-4f74-896d-58371f46e938",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7b3db6cc-402f-44d7-9e56-cd8ca5c5571c",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7b43dd00-205a-11e7-a06b-196ddb80a7e9",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7b9456cc-c1b5-4f87-8712-405f16d115c6",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7baf5616-9e73-41ff-8e24-356c1d250ba9",
+      "fileCount": 5,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/learningPrograms/federalLearningprogramData.json",
+        "testData/learningPrograms/learningprogramData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7d8b3d01-2b73-11e7-bbbf-3b6e78cef3cf",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7e1baa64-1b84-402a-81d8-2f68b6d0d679",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "7fa384ff-f84a-42c1-a3df-620fd508c2a6",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "82a81658-9f51-423d-a3b8-96bf323cc728",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "832340cd-a659-45a0-b003-849d999df930",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "83f721bb-1211-483a-a1d5-5795bf1ba5fe",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "85ac11a0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "89866cdd-0988-47e9-83ed-824ef123e3ba",
+      "fileCount": 1,
+      "files": [
+        "tests/API/CP/completePTTCTest.spec.js"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8a8c741f-8d96-4e28-9e84-d77f632ed967",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8afe8d8c-12ee-4c57-8d60-cd2af4527ca0",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8b7e0766-e45b-438c-adf1-49fd65f68b5e",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8ba7f1bf-c36b-4f37-a9a5-4f21ba1d67bd",
+      "fileCount": 1,
+      "files": [
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8c068380-e717-11e6-9835-f723b46a2688",
+      "fileCount": 2,
+      "files": [
+        "testData/BannerData/bannerDataTwo.json",
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8ebedcd9-731f-4e70-abf3-118a242dc94d",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "8f2897d7-759c-4b84-91bc-6c346bf9c9c8",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9037b475-54fc-463b-b66a-b12b2cc80d2a",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "90d70288-77bf-483a-83ca-625467905ecf",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9126acd0-dc1e-11e7-9fe8-1b7f5fcc733d",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "93791e73-fdf9-40d6-a9e0-491f7f94f881",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "95b128f9-6d58-48ec-b61e-eacb607f8fc4",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "964c5e5a-1dda-44a3-b36c-41a460be2a8a",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9845c1c8-1844-48fa-b52d-0f2a79fb8cd6",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "997e7a80-43f0-4141-8c1f-693da6c1cf2c",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "99ac9ff0-6b1c-44d1-98a8-ecf84421340c",
+      "fileCount": 1,
+      "files": [
+        "testData/DynamicContent/dynamicContent.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "99b92020-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9c5bf38d-c84e-4f93-aeaa-353b8fed9198",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9c912cb0-f918-11e6-aad2-6b3c03be7fe8",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9d374c9e-159d-4377-ab70-be4117d00570",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+      "fileCount": 6,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataOne.json",
+        "testData/BannerData/bannerDataTwo.json",
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "9f306e25-368b-45b0-b808-a99e3ca7926e",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/NewLabJourney.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+      "fileCount": 2,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/JourneyTestData/journeyData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a588dbe0-e718-11e6-9835-f723b46a2688",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a87b228b-1cf0-425f-b160-ca9072c6ffab",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a89dcda3-194b-4020-987e-f9cd4809e682",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a9395032-e00a-4fe8-847f-0d671288c815",
+      "fileCount": 4,
+      "files": [
+        "testData/customLandingPages/AIAcademy.json",
+        "testData/customLandingPages/convertedTestData.json",
+        "testData/customLandingPages/customLandingPageData.json",
+        "testData/customLandingPages/sampleApiResponse.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "a9b79e8a-6dac-4972-beb8-432fc5f12a8a",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "abbca300-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "acc349b7-285f-4540-a5dd-48980f3b1787",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "adb63fba-1cf0-4242-b71d-57747ff3b198",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "aef3e689-6c4a-404e-b1fa-4a7a82b647e8",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b12fb24c-ba27-424c-8a8e-216870eb7862",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b1edd4c0-c3ff-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b4eb43a2-90d5-4edf-a588-a3d3ddbefab5",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b562d9c2-7abe-4a1f-9bee-2aa8937e0161",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b745bad1-26e4-4bdc-b9d6-49b0318eb964",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b80ac584-d4e0-404a-8c4e-dde71a059f28",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "b9ae968f-6d81-4bcf-a36e-e4c64216af58",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 5,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataOne.json",
+        "testData/BannerData/bannerDataTwo.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "bbf1a7c3-3a8f-4b82-b0d0-0df27e3fbae5",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "bc73d207-ad7a-4b83-9f62-ed9762f308ba",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "bd35db83-cc28-4fc8-947c-916f023abde2",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "befb0daa-8525-471b-aaa5-7612c4ea29f7",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/PlayListData/playListDataOne.json",
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c19e69b4-6881-4421-a312-4eb06b0ab5af",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c2562124-c5b7-4971-912d-d5dcbcce0533",
+      "fileCount": 1,
+      "files": [
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c3e592bc-ccb1-4f99-9526-ea325f20003d",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c4056e29-7860-44c6-b49d-755db2b018e3",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c4ceb790-f915-11e6-aad2-6b3c03be7fe8",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/AkaraLxpage.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c6dd2cf0-c3ff-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c7a1fb4f-26d8-491d-a273-f260e711d6d3",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c7de7ae0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c9baa8a4-1862-441a-8ccd-b6942aa058d6",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataTwo.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "c9f8298e-13fd-4e8e-8efa-eafc32547c52",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cad83dd7-5553-42f0-90e2-04100898120b",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cae50fc9-0b80-4324-bca6-51b8fa752179",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cb11fda8-b2ab-4ec8-83d3-925947a80149",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cc40a2c8-70a1-4adf-8d3a-c2723bb383af",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "ccdfadc1-d9c3-11e6-a5b1-0242c0a80503",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cd7be60b-a6b0-4187-8cd4-f764ac0f81fd",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "ceaa1884-01cd-4201-97c6-e96becb3a475",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "cffc2d91-6d80-441a-a19f-19ca4a7682c1",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "d295b825-deae-469c-a404-6c074090d2d9",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "d3a642b8-3c99-4d79-91ec-a0be9e7ef234",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "d42e770b-0d38-4d54-b24f-acf9ab884ade",
+      "fileCount": 1,
+      "files": [
+        "tests/API/RAS/editAssignmentDashboars.spec.js"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "d7364d62-c174-4894-a67a-a9eba721fa0e",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "d9ae7656-417a-48fd-98ac-4349fec978d5",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "da63b7db-0f6d-4e2f-892f-63d6b75c2ba8",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "daa36e70-c3ff-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+      "fileCount": 5,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/BannerData/bannerDataOne.json",
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "daf374ea-4101-4812-847a-8f9d66445a4b",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "db5ea1fb-036d-4726-8ea2-a15b620d7789",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "dbfe5606-36f6-443c-a392-205f9bd9c304",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "dd52b812-a711-4d10-8378-282498e8027a",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "dfa71870-1fd3-4243-8f2d-166d5ec78f07",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e018c8b9-dd4e-4685-a788-70d0aff7fb1d",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e0e1e303-06fc-4d66-b3ab-731ddb0c69bf",
+      "fileCount": 4,
+      "files": [
+        "testData/customLandingPages/AIAcademy.json",
+        "testData/customLandingPages/convertedTestData.json",
+        "testData/customLandingPages/customLandingPageData.json",
+        "testData/customLandingPages/sampleApiResponse.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e3d52dfa-cb82-447c-b982-3fea6d9d4142",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e3fd93a0-c400-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e6291aab-ea20-4bf5-8903-540051fd2234",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "e9f5ba46-a5f6-4cb8-8fe3-c945327e572d",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "ea3667fd-189d-456f-9377-90a5903ae868",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "eade6d8f-2a32-4e1a-88f5-5d5181281633",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "efb1a78e-86b1-4d88-88ba-0e2723b709b9",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f1645918-5c1d-43db-8559-da432c8c8bd7",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f26bb77a-6d81-4812-bd5f-f775b511c057",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f2b14792-44a7-468a-83a8-88780c228c47",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f4c0ead0-c3ff-11e7-bfa9-ef5e1a5e569f",
+      "fileCount": 4,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json",
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f4cd68c6-6ae0-41aa-b0b0-b7602794e6f2",
+      "fileCount": 1,
+      "files": [
+        "testData/channelTestData/channelData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f50c563a-3c13-4ba3-a630-9d26c67bcbdf",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f566efb6-4324-4edf-a15f-3f960b14f06f",
+      "fileCount": 1,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f6ea2595-b870-41fd-a363-d85a4ed43ac4",
+      "fileCount": 3,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json",
+        "testData/AssignmentTestData/newComplianceAssignments_Obsolete.json",
+        "testData/AssignmentTestData/sampleComplianceAssignmentsPercipioEval.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f73ab177-7750-4e86-8450-3864507e3e54",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f816e150-f914-11e6-aad2-6b3c03be7fe8",
+      "fileCount": 1,
+      "files": [
+        "testData/customLandingPages/LeadershipAcademy.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f9752f28-c91a-4e10-9d27-fec26a2cf066",
+      "fileCount": 1,
+      "files": [
+        "testData/AssignmentTestData/assignmentData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "f99a21a0-e71b-11e6-9835-f723b46a2688",
+      "fileCount": 2,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "faadb030-3373-4795-a40c-66d45434d2db",
+      "fileCount": 1,
+      "files": [
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "fb0df030-2d47-496d-b31c-a601389eecc2",
+      "fileCount": 1,
+      "files": [
+        "testData/StripData/stripDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "fb8a3782-e5c1-404b-a825-2cb01aa2da47",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "fd879f9e-c287-476e-b448-7e6a25ae3467",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "ff7a0394-c619-4356-be70-463eed0d94d6",
+      "fileCount": 1,
+      "files": [
+        "testData/PlayListData/playListDataOne.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    },
+    {
+      "assetId": "ffa72325-d5d6-4c7d-8aca-bd69350a22c0",
+      "fileCount": 3,
+      "files": [
+        "testData/AreaTestData/AreaTestData.json",
+        "testData/AreaTestData/AreaTestDataForChildSite.json",
+        "testData/AreaTestData/FederalAreaTestData.json"
+      ],
+      "availabilityCategory": "notInPlatformtest"
+    }
+  ]
+}

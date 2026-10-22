@@ -1,0 +1,32 @@
+{
+  "sharedAdmin": {
+    "loginID": "kowshik.bikkina@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  },
+  "sites": [
+    {
+      "name": "contenteval",
+      "baseURL": "https://contenteval.percipio.com",
+      "orgId": "9398f69a-56db-446c-ae44-f225d166d328"
+    },
+    {
+      "name": "canadaeval",
+      "baseURL": "https://canadaeval.percipio.com",
+      "orgId": "e4758b98-f387-4ce6-8315-ca071db946a5"
+    }
+  ],
+  "disabledSites": [
+    {
+      "name": "percipiodemo",
+      "baseURL": "https://percipiodemo.percipio.com",
+      "orgId": "f308bedc-84e3-4fc8-9400-b487893bca93",
+      "note": "Temporarily off — move back to sites when needed"
+    },
+    {
+      "name": "percipioeval",
+      "baseURL": "https://percipioeval.percipio.com",
+      "orgId": "6d94e49b-81f0-4274-a389-92c996cde9de",
+      "note": "Temporarily off — move back to sites when needed"
+    }
+  ]
+}

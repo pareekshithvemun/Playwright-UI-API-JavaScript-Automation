@@ -1,0 +1,15 @@
+[
+  {
+    "WorkspaceName": "Default",
+    "ProjectName": "Akara Digital Customer Experience Launch",
+    "documents": [
+      {
+        "documentTitle": "Mobile Thumbnail",
+        "documentNameWithExtension": "MobileThumbnail.jpg",
+        "description": "Customer holding a mobile and happy face sign",
+        "generateTranscript": false,
+        "contentType": "image/jpeg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+{
+    "BannerData": [
+        {
+            "BannerName": "Kernkonzepte von DevOps",
+            "contentUUID": "fd82e840-bd69-11e7-a0da-e757c7add120",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "German",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Big Data  ",
+            "contentUUID": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "German",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Cybersicherheit",
+            "contentUUID": "234e0060-e259-11e6-93f3-0242c0a80605",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "German",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Die agile Führungskraft",
+            "contentUUID": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "German",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Aufbau und Führung von Teams",
+            "contentUUID": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "German",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Concepts de base DevOps",
+            "contentUUID": "fd82e840-bd69-11e7-a0da-e757c7add120",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "French",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Big Data ",
+            "contentUUID": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "French",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Cybersécurité",
+            "contentUUID": "234e0060-e259-11e6-93f3-0242c0a80605",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "French",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Le leader Agile",
+            "contentUUID": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "French",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Construire et diriger des équipes",
+            "contentUUID": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "French",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "ビッグデータ",
+            "contentUUID": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Japanese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "アジャイルなリーダー",
+            "contentUUID": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Japanese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "チームの構築と統率",
+            "contentUUID": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Japanese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "サイバーセキュリティ短縮版: ブログ",
+            "contentUUID": "c9baa8a4-1862-441a-8ccd-b6942aa058d6",
+            "ContentType": "COURSE",
+            "BannerAudience": "Region",
+            "BannerLocale": "Japanese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "リーダーシップの基本",
+            "contentUUID": "8c068380-e717-11e6-9835-f723b46a2688",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Japanese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "大数据",
+            "contentUUID": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Mandarin Chinese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "敏捷的领导者",
+            "contentUUID": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Mandarin Chinese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "组建和领导团队",
+            "contentUUID": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Mandarin Chinese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "网络安全意识",
+            "contentUUID": "c9baa8a4-1862-441a-8ccd-b6942aa058d6",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "Mandarin Chinese",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "领导激励",
+            "contentUUID": "701af4cf-be1e-4536-b41e-725c51c4863a",
+            "ContentType": "VIDEO",
+            "BannerAudience": "Region",
+            "BannerLocale": "Mandarin Chinese",
+            "BannerDuration": 30
+        }
+    ]
+}

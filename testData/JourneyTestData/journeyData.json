@@ -1,0 +1,296 @@
+{
+  "journeyData": [
+    {
+      "journeyTitle": "Onboarding Sales Associate Custom Journey",
+      "trackData": [
+        {
+          "trackTitle": "Code Of Conduct and Ethical Principles",
+          "contentItems": [
+            {
+              "contentItemUuid": "a7851078-42d6-4764-a32b-33c490615d1e",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "61a998b1-8496-4fc6-b54f-ca33f02db150",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f58e5fe5-4997-481c-875d-03c69525ada8",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+              "contentItemType": "SCHEDULED_CONTENT"
+            },
+            {
+              "contentItemUuid": "7a32db57-d10e-4ef3-8cd3-b2664ce71327",
+              "contentItemType": "COURSE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "journeyTitle": "Onboarding Retail Employee Custom Journey",
+      "trackData": [
+        {
+          "trackTitle": "Code Of Conduct",
+          "contentItems": [
+            {
+              "contentItemUuid": "a7851078-42d6-4764-a32b-33c490615d1e",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "61a998b1-8496-4fc6-b54f-ca33f02db150",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f58e5fe5-4997-481c-875d-03c69525ada8",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+              "contentItemType": "SCHEDULED_CONTENT"
+            },
+            {
+              "contentItemUuid": "7a32db57-d10e-4ef3-8cd3-b2664ce71327",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "Safety Training",
+          "contentItems": [
+            {
+              "contentItemUuid": "f6347b2e-50c4-429e-9bcf-507c879fb3a3",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f75ed290-5d18-4064-9c23-5c69f1e30c20",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "00250708-14df-433d-95de-f3c7a2f44a4b",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "cba1cd0b-55a4-4986-bac0-f65ea85a1df4",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "bdc51d63-6852-406f-866a-eb04ae81ffa9",
+              "contentItemType": "COURSE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "journeyTitle": "Onboarding Software Engineer Custom Journey",
+      "trackData": [
+        {
+          "trackTitle": "Compliance and Ethical Principles",
+          "contentItems": [
+            {
+              "contentItemUuid": "a7851078-42d6-4764-a32b-33c490615d1e",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "61a998b1-8496-4fc6-b54f-ca33f02db150",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f58e5fe5-4997-481c-875d-03c69525ada8",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+              "contentItemType": "SCHEDULED_CONTENT"
+            },
+            {
+              "contentItemUuid": "7a32db57-d10e-4ef3-8cd3-b2664ce71327",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "2d68490a-4530-4ce7-a8ee-4430d26f4430",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "ce49f467-a6f1-4b86-a9d7-1c990aa5c3cb",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "01131660-7e81-4511-8344-6c270a878d1c",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "Emerging Technology",
+          "contentItems": [
+            {
+              "contentItemUuid": "e904fd2a-4c73-407a-9ca8-99b59381f98b",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f96fb940-8d44-48af-8cc0-398a1780f8de",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "3e24a756-00f4-4736-a6ef-1f0caa69d5f3",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f0671d0e-6d9c-4410-a7bb-53db5b686bc3",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "bc468bb8-21bc-483a-a30f-a1d8f0579312",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "d19d104a-6980-4c3d-9f4e-186860e671c5",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "0cee306c-5012-484b-baae-6174f9afd291",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "7e935025-b4f7-4305-a67c-54c50ac97eb2",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "journeyTitle": "Onboarding Production Employee Custom Journey",
+      "trackData": [
+        {
+          "trackTitle": "Code Of Conduct",
+          "contentItems": [
+            {
+              "contentItemUuid": "a7851078-42d6-4764-a32b-33c490615d1e",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "61a998b1-8496-4fc6-b54f-ca33f02db150",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f58e5fe5-4997-481c-875d-03c69525ada8",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+              "contentItemType": "SCHEDULED_CONTENT"
+            },  
+            {
+              "contentItemUuid": "7a32db57-d10e-4ef3-8cd3-b2664ce71327",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "Safety Training",
+          "contentItems":[
+            {
+              "contentItemUuid": "c71ed2f9-ddd8-4d29-95df-708476f4c7d9",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "71f30f09-b0a5-4cb2-a22a-816b20b903a2",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "4cdd5ebd-0dfa-4d27-98cb-1ab31bf804b4",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "New Production Employee Training",
+          "contentItems": [
+            {
+              "contentItemUuid": "d463aacb-1e64-43a6-871c-eeee54598567",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "1be36007-7605-4321-b3c5-455ebdc7c0ce",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "17181129-4ac5-40cd-8b30-f48175110261",
+              "contentItemType": "COURSE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "journeyTitle": "Onboarding Maintenance Employee Custom Journey",
+      "trackData": [
+        {
+          "trackTitle": "Code Of Conduct",
+          "contentItems": [
+            {
+              "contentItemUuid": "a7851078-42d6-4764-a32b-33c490615d1e",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "61a998b1-8496-4fc6-b54f-ca33f02db150",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "f58e5fe5-4997-481c-875d-03c69525ada8",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "a340f15f-028c-406d-b1c8-c7d94ca9bd92",
+              "contentItemType": "SCHEDULED_CONTENT"
+            },
+            {
+              "contentItemUuid": "7a32db57-d10e-4ef3-8cd3-b2664ce71327",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "Safety Training",
+          "contentItems": [
+            {
+              "contentItemUuid": "c71ed2f9-ddd8-4d29-95df-708476f4c7d9",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "71f30f09-b0a5-4cb2-a22a-816b20b903a2",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "4cdd5ebd-0dfa-4d27-98cb-1ab31bf804b4",
+              "contentItemType": "COURSE"
+            }
+          ]
+        },
+        {
+          "trackTitle": "New Maintenence Employee Training",
+          "contentItems": [
+            {
+              "contentItemUuid": "8c690fcd-3bd8-4114-92a1-41f1c049a21d",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "88382142-57d8-422f-8b3a-5ac53bbda920",
+              "contentItemType": "COURSE"
+            },
+            {
+              "contentItemUuid": "eca1fc8b-b425-4193-8c7e-be4cbb9a6065",
+              "contentItemType": "COURSE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+    "PLAYLISTDATA": [
+        {
+            "playListName": "Productivity",
+            "playListContent": [
+                {
+                    "contentItemTypeName": "AUDIOBOOK",
+                    "contentItemTitle": "The Power of Clarity: Unleash the True Potential of Workplace Productivity, Confidence, and Empowerment",
+                    "contentItemUuid": "cd88eb4c-90cc-432c-b59b-19cea1d19a0b"
+                },
+                {
+                    "contentItemTypeName": "CHANNEL",
+                    "contentItemTitle": "Personal Productivity",
+                    "contentItemUuid": "f99a21a0-e71b-11e6-9835-f723b46a2688"
+                },
+                {
+                    "contentItemTypeName": "COURSE",
+                    "contentItemTitle": "Set Your Workspace Up For Success",
+                    "contentItemUuid": "b68bacba-5e0f-4d3b-b061-7b2509a56ba4"
+                },
+                {
+                    "contentItemTypeName": "BOOK",
+                    "contentItemTitle": "The Productivity Habits: A Simple Approach to Become More Productive",
+                    "contentItemUuid": "e65dda60-f381-11e6-adc4-0242c0a80902"
+                },
+                {
+                    "contentItemTypeName": "AUDIOBOOK",
+                    "contentItemTitle": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+                    "contentItemUuid": "f99a21a0-e71b-11e6-9835-f723b46a2688"
+                },
+                {
+                    "contentItemTypeName": "COURSE",
+                    "contentItemTitle": "Be Productive by Working Efficiently",
+                    "contentItemUuid": "2391680f-f1da-4573-af8e-84f527fe4f44"
+                }
+            ]
+        },
+        {
+            "playListName": "Leadership",
+            "playListContent": [
+                {
+                    "contentItemTypeName": "JOURNEY",
+                    "contentItemTitle": "Leadership Development Core JOURNEY",
+                    "contentItemUuid": "c2562124-c5b7-4971-912d-d5dcbcce0533"
+                },
+                {
+                    "contentItemTypeName": "JOURNEY",
+                    "contentItemTitle": "Skills Builder - Leadership",
+                    "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209"
+                },
+                {
+                    "contentItemTypeName": "LINKED_CONTENT",
+                    "contentItemTitle": "The Creative Leader: Creative Thinking & Innovation",
+                    "contentItemUuid": "638bb530-429a-4837-a9a7-3a67dea5c0ed"
+                },
+                {
+                    "contentItemTypeName": "CHANNEL",
+                    "contentItemTitle": "Leadership Foundations",
+                    "contentItemUuid": "8c068380-e717-11e6-9835-f723b46a2688"
+                },
+                {
+                    "contentItemTypeName": "BOOK",
+                    "contentItemTitle": "Leading through Disruption: A Changemaker's Guide to Twenty-First Century Leadership",
+                    "contentItemUuid": "68bc08c2-67b7-421d-bf32-360dd4e3ed2e"
+                },
+                {
+                    "contentItemTypeName": "AUDIOBOOK",
+                    "contentItemTitle": "Authentic Leadership: HBR Emotional Intelligence Series",
+                    "contentItemUuid": "4ce87a56-128e-4823-8b62-bd5f82825133"
+                }
+            ]
+        },
+        {
+            "playListName": "Self-Care and Wellbeing",
+            "playListContent": [
+                {
+                    "contentItemTypeName": "CHANNEL",
+                    "contentItemTitle": "Physical Well-Being",
+                    "contentItemUuid": "8ba7f1bf-c36b-4f37-a9a5-4f21ba1d67bd"
+                },
+                {
+                    "contentItemTypeName": "JOURNEY",
+                    "contentItemTitle": "Self-Care & Wellbeing",
+                    "contentItemUuid": "0a466a66-05d1-434c-be9b-2831a6ff6014"
+                },
+                {
+                    "contentItemTypeName": "COURSE",
+                    "contentItemTitle": "Wellbeing Intelligence: A Skill Set for New World of Work, powered by MIT SMR",
+                    "contentItemUuid": "ffbb127a-1d8e-4696-86c1-1502d09f3b31"
+                },
+                {
+                    "contentItemTypeName": "ASSESSMENT",
+                    "contentItemTitle": "Stress Management & Wellness",
+                    "contentItemUuid": "0e0e4c70-3a22-4d9c-9f05-04091eb3bf18"
+                },
+                {
+                    "contentItemTypeName": "CHANNEL",
+                    "contentItemTitle": "Mental Well-Being",
+                    "contentItemUuid": "faadb030-3373-4795-a40c-66d45434d2db"
+                },
+                {
+                    "contentItemTypeName": "AUDIOBOOK",
+                    "contentItemTitle": "The Self-Care Mindset: Rethinking How We Change and Grow, Harness Well-Being, and Reclaim Work-Life Quality",
+                    "contentItemUuid": "ff7a0394-c619-4356-be70-463eed0d94d6"
+                }
+            ]
+        }
+    ]
+}

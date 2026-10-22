@@ -1,0 +1,154 @@
+{
+  "AreaName": "Technical Academy",
+  "SubJectNames": [
+    "Cloud",
+    "Data / ML / AI",
+    "Security",
+    "Dev Ops"
+  ],
+  "CustomJournies": [
+    {
+      "JourneyName": "Percipio Lab Examples",
+      "JourneyDescription": "<p>This Aspire Journey captures examples of four lab types available in Percipio. Each track will provide examples of the different labs across each skill area. The skill areas will include the following: Cloud, Data, Programming, Infrastructure &amp; Networking, Security, &amp; Software Craft Labs.</p><p>&nbsp;</p><p>&nbsp;Codecademy Projects: Task-focused labs providing hands-on learning through real-world projects. Complete them on-platform or off-platform. Detailed instructions and solutions included. No assessment.</p><p>&nbsp;</p><p>Practice Labs: Designed to help learners grasp fundamental concepts by exploring, practicing, and learning by doing. Instructions and exercises provided. No assessment or rating. Certification-aligned.</p><p>&nbsp;</p><p>Challenge Labs: Apply concepts to real-life scenarios. These problem-oriented labs focus on end results. Instructions and exercises provided. Skill validation-based with limited attempts.</p><p>&nbsp;</p><p>Sandbox Labs: A Sandbox offers a space for experimentation and testing without external repercussions. It&rsquo;s a blank canvas for practice. Instructions and exercises not provided. Codecademy Workspaces are specialized sandboxes for programmers, offering a functional environment in key languages like Python, Java, C#, etc. No assessments in our Sandboxes.</p>",
+      "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/nknc6tjgsgtmk34nscr8fjk/Labs_Custom_Journey_2.png?auto=webp&format=png&width=1000&height=563",
+      "IntroData": {
+        "introContent": [
+          {
+            "contentItemUuid": "customContent",
+            "contentItemType": "LINKED_CONTENT"
+          }
+        ],
+        "introName": "Skillsoft Lab Types",
+        "introImage": "https://cdn.bfldr.com/YWP0W9AT/at/68t8q3xxgh5zhkck7nw5smpx/Gemini_Generated_Image_gp8uycgp8uycgp8u.jpeg?auto=webp&format=png&width=1000&height=1000"
+      },
+      "Tracks": [
+        {
+          "trackName": "Cloud Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=png&width=1000&height=692",
+          "trackDescription": "This track will showcase Practice Labs, Challenge Labs, and Sandbox labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "09c18d2a-ee29-4f1a-9fe4-da0ceef04399",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "9d22fac2-82b0-4a8d-8748-43cb351b18ad",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "671fcd97-048c-433d-9eaf-e144e58ebd50",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        },
+        {
+          "trackName": "Data Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/bg59kmj8bxm6nfj93vr8q97f/Core_Devops_Skills.jpg?auto=webp&format=png&width=1000&height=563",
+          "trackDescription": "This track will showcase Codecademy Projects, Practice Labs, Challenge Labs, and Sandbox Labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "b8f9c15b-a325-4f3a-879d-08f8437434b6",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "8db677c3-f9cb-466f-a5f9-537491f10614",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "3ff01da9-1efa-4e81-900e-50aa49017597",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "a130c31e-8efa-48fe-9656-fcf7bb084dcf",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        },
+        {
+          "trackName": "Programming Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/j79m96j59cwbzrvpj43vpm9/Software_Engineer_Custom_Journey.jpg?auto=webp&format=png&width=1000&height=667",
+          "trackDescription": "This track will showcase Codecademy Projects, Practice Labs, Challenge Labs, and Sandbox Labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "e9a3a6a5-49c1-421b-b592-32c96d8f537b",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "9f306e25-368b-45b0-b808-a99e3ca7926e",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "a6c782c9-640b-44bb-8ccf-cdee84e13729",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "ac20e9f7-ba55-4478-a6cb-181e85dcf2c8",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        },
+        {
+          "trackName": "Infrastructure and Networking Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/37nrgk73rw6nrwtm7m8wkj9w/Deep_Learning_Foundations.jpg?auto=webp&format=png&width=1000&height=594",
+          "trackDescription": "This track will showcase Practice Labs, Challenge Labs, and Sandbox Labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "16bdd997-354a-4210-8de2-4c68a11aaf61",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "2eaf53cf-684a-46ae-81f4-0ae4a3e981f1",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "8881951d-9ff9-43fd-ab9c-8fe5b2a8c46b",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        },
+        {
+          "trackName": "Security Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/93vcwccq2gmv94gx3hq8sk/Security.jpg?auto=webp&format=png&width=1000&height=667",
+          "trackDescription": "This track will showcase Codecademy Projects, Practice Labs, Challenge Labs, and Sandbox Labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "bb60e437-5e5a-4352-a746-e9a45e825663",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "2544e1cb-e833-43d9-8c75-2009fb0c6bc8",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "257b467b-38d2-440d-97bc-72d38a874d76",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "d0f05552-2865-406c-a703-1dd207498360",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        },
+        {
+          "trackName": "Software Craft Labs",
+          "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/5g4spq4n8288pvqgn5m8vnx/Cybersecurity_Fundamentals.jpg?auto=webp&format=png&width=1000&height=563",
+          "trackDescription": "This track will showcase Practice Labs, Challenge Labs, and Sandbox Labs.",
+          "trackContent": [
+            {
+              "contentItemUuid": "00e5e257-8c55-4582-954a-d652b560f8eb",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "59cf8e47-b0a3-45c3-8a3d-2c20104b3875",
+              "contentItemType": "LINKED_CONTENT"
+            },
+            {
+              "contentItemUuid": "a511c170-d87b-4aab-a64c-abb8ca765e62",
+              "contentItemType": "LINKED_CONTENT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

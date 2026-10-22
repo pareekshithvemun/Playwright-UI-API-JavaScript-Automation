@@ -1,0 +1,63 @@
+{
+    "dynamic": true,
+    "Environment": {
+      "baseURL": "https://pareekshith.front.develop.squads-dev.com",
+      "orgId": "a2fcd1b8-bfdb-46b1-8154-c432fc92befe",
+      "attributeName": "Demo"
+    },
+    "Admindata": {
+        "loginID": "adminsw",
+        "password": "##knock22"
+      },
+  
+    "CustomChannel": {
+      "channelName": [
+        "nice19",
+        "nice20",
+        "nice21"
+      ],
+      "subjectsTowhichThisChannelWillBeMapped": [
+        "225020ce-0121-4bfa-a7ba-9415cc4c3bef",
+        "80313b4b-cdbc-44aa-b290-2cd21df87551",
+        "eeda8879-cf80-486c-ab50-815807c481aa"
+      ],
+      "uuidOfAudienceTowhichThisChannelWillBeMapped": [
+        "6341dd2f-f8b3-488a-8587-c9482031e40a",
+        "02c46519-1082-4dcb-98ca-d0f65dc05453",
+        "28c74aed-a9a9-434f-9b8e-7156e896e0c0"
+      ],
+      "channeImage": "",
+      "ChannelContent": [
+        [
+          {
+            "contentItemUuid": "2637bcc1-8cac-422e-bb8c-cfc92d965544",
+            "contentItemType": "BOOK"
+          },
+          {
+            "contentItemUuid": "d7038275-ef2f-4c75-9fb8-3e4661bdfcb6",
+            "contentItemType": "BOOK"
+          },
+          {
+            "contentItemUuid": " 5ef871b9-a4f0-48ea-a3f3-29de4e97b276",
+            "contentItemType": "Course"
+          }
+        ],
+        [
+          {
+            "contentItemUuid": "2637bcc1-8cac-422e-bb8c-cfc92d965544",
+            "contentItemType": "BOOK"
+          },
+          {
+            "contentItemUuid": " 5ef871b9-a4f0-48ea-a3f3-29de4e97b276",
+            "contentItemType": "Course"
+          }
+        ],
+        [
+          {
+            "contentItemUuid": " 5ef871b9-a4f0-48ea-a3f3-29de4e97b276",
+            "contentItemType": "Course"
+          }
+        ]
+      ]
+    }
+  }

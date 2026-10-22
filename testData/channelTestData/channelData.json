@@ -1,0 +1,783 @@
+{
+  "channelsInfo": [
+    {
+      "channelName": "Welcome to the Management Team",
+      "channelDescription": "Provide first-time managers with essential resources to help them to achieve success when managing teams for the first time.",
+      "channelImage": "https://cdn.bfldr.com/YWP0W9AT/at/c4gpf33jcmbzmnkvf5f3tn3f/Campus_to_Corporate_Custom_Channel_2.png?auto=webp&format=png&width=1000&height=563",
+      "channelContent": [
+        {
+          "contentItemUuid": "Congratulations and Welcome to the Management Team",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Tony Robbins on the Psychology and Skills of Exceptional Leaders",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Start with why - how great leaders inspire action",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "New Manager Guide (PDF)",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c35b230c-ceb6-4a6d-8080-c130407ccab3",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "21a81dc1-d6a3-49b1-b1bb-2902e9663688",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "cb547d12-b451-4d57-a85c-4f9d966b53cc",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "8d1109a6-aab5-4fbc-951f-51dc4aeb7f55",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "6321968f-4d1f-11e7-9a6a-bef7011cdcad",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "31cbaf9e-a273-4c55-95cc-a9d7b8f9e74c",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "5c1a99a4-938f-461a-9349-e1be19dc07eb",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "3530b6f6-9a32-4868-9f80-52cdb4a0cb90",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "de3e47f0-268c-11e7-8a64-0242c0a80a03",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "23839b8b-c56f-4788-8458-34290fa1d27a",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "44735415-bc23-4d15-8ae5-ded8f7be2710",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "2152a091-4c00-49c4-8913-39a0e4afaa2b",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "18d65fc1-8b11-4e34-a470-5da97b4a40ce",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "6cfda757-bffe-4507-b0b5-c03f559f3e20",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "5ed44adf-107c-4db0-a978-6cc279838315",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "82926a50-a0ff-4689-99cc-37394132b8a2",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "68bc08c2-67b7-421d-bf32-360dd4e3ed2e",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "83824a90-f30c-11e6-bb29-0242c0a80506",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "1c9b00bb-485a-430a-a290-f4c995ce4614",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "54b1d915-b72d-46fd-b664-214537078726",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "64cea18a-a1ae-400d-9be5-63a05fa06943",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "530bcdd5-e9da-42ad-9a2d-fb1b39d33ac1",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "4b95b2aa-0f0b-4873-9de6-9aa2bd79379e",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "65d7b373-da6d-401f-845d-6d7cc992eb55",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "2355eafa-2fec-409b-996f-ee000caa5265",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "7f7cf456-f357-4291-9351-fab3cc54fb0e",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "6cf17962-5217-442f-840a-e603953cc6f2",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0a864e57-34f9-4d8c-a66f-8f286e164c42",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "6f53e794-8306-432f-a5b3-661fc2a47079",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "4eb34303-b30b-4432-8ad1-68eebebfd83a",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "47eb21d0-fbdc-4f68-b4ba-cdba4e875a89",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "dec752fd-02c7-4b73-84f0-a1cc30820093",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "18986a46-d63e-4802-a3eb-5c9d5c7c1338",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "b16bbfda-f380-4ccc-a3c8-3cfd0175b323",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "638bb530-429a-4837-a9a7-3a67dea5c0ed",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "dc27dfb1-7ace-4151-a527-fd939fa955e6",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "12076e09-9270-44cf-9c04-04424bf00e75",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "01399ea7-7172-4c9a-add7-b4c1ae0db0e1",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "1593dc39-edc2-4dba-b7fa-aeff627942a1",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "2f05cb70-585f-400a-a482-12a996cb1a4a",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "ea3667fd-189d-456f-9377-90a5903ae868",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "d295b825-deae-469c-a404-6c074090d2d9",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "094a7363-2e48-42c7-9563-5856e78b2c69",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "b3aefa9f-75dc-47e8-a05a-8a33f8b96a17",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "a96e35e0-8d74-437c-baec-505877e9163c",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "23536bc2-1780-49d5-ba0c-15c3722725a2",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0a23cf8a-1f08-4ec5-8a4b-478509746f23",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "59f6c082-1859-447f-96df-4968ab4611b9",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "3922ac5d-1bea-4898-8d4f-9c6fa9f01103",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "61b31c19-06e6-4ed4-8fcd-d4178bd0b0ed",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "18bd9d46-d01f-4d5d-8b44-fa307bc2c7c6",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "b4eb43a2-90d5-4edf-a588-a3d3ddbefab5",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "b80ac584-d4e0-404a-8c4e-dde71a059f28",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "5df2a8b2-c2b7-41ab-b2d0-b4250edbd5d3",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "f26bb77a-6d81-4812-bd5f-f775b511c057",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0719de72-768a-433a-aeaf-983b94658b07",
+          "contentItemType": "SCHEDULED_CONTENT"
+        }
+      ],
+      "AreaName": "Leadership Academy",
+      "SubjectName": [
+        "New Leader"
+      ]
+    },
+    {
+      "channelName": "Campus to Corporate",
+      "channelDescription": "Welcome to your comprehensive platform, meticulously curated to guide and support you as you embark on your corporate journey. This channel features  content across various learning modalities, tailored to equip you for success. Here you'll find interactive training modules on corporate etiquette, project management, and communication skills, resources on professional note-taking, email organization, and virtual presentation preparation, and insights into developing business acumen and fostering respectful workplace relationships. This one-stop solution is designed to help you thrive in the corporate world.",
+      "channelImage": "https://cdn.bfldr.com/YWP0W9AT/at/4xr938zj57m9s5rbjvhwr6p/Campus_to_Corporate_Custom_Channel_1.png?auto=webp&format=png&width=800&height=450",
+      "channelContent": [
+        {
+          "contentItemUuid": "Why being respectful to your coworkers is good for business | Christine Porath",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Why the secret to success is setting the right goals | John Doerr | TED",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Think Fast, Talk Smart: Communication Techniques",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "a1025e80-8031-11e8-8305-21229c9dd428",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "979cbdbc-5deb-4516-9408-967ea3af64c3",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "ab5b342f-e6e5-4842-8fe8-22c92fb5d851",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "afb3324a-e516-43e8-b73a-01079f03994a",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "56265341-fea5-11e6-8638-0242c0a80b06",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "167af0fa-1df4-4a3a-9d38-90352c13e877",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "d6f4cea0-6ee3-4e62-b8d1-fca86b9556eb",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "3f4a55c0-802d-11e8-8305-21229c9dd428",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "3cfba287-ca74-410c-b8b8-bdd511c8e294",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "167614c1-4fcf-4e2d-a9b3-b02bf76a1b84",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "93aa07c0-a304-11e7-a74b-8a063eac1a45",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "16cc3eb0-f41a-11e6-bb29-0242c0a80506",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "1888f710-f02e-11e6-93a6-0242c0a80a09",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "febddbf0-f408-11e6-bb2f-0242c0a80b05",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "58afd433-f75d-428b-8ecb-50a3752fd011",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "e3bd6ae6-38c4-4f78-8379-e7c9f428af39",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "868407a4-5126-4ec5-b514-e29805b8e4a0",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "1212f98e-bef9-4d43-bcfb-783ca0c5ae40",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "cbb8e837-46a4-450f-8541-9c1d4e77e4ad",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "01d4d678-ac04-42a0-8ffc-c00392ea0420",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "99a8788f-542b-47ea-9202-847e0b5fcd9a",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7b2c1c13-e9b1-4917-bebc-cdf3b615eafa",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "8b4d23b0-9ee4-11e7-8a1a-aea793b17c5c",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "84b1f406-8941-4e42-a6d6-fb0b99d45aa9",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "5d3a1fb0-4614-11e7-9eda-4252b5a19baf",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "07e8e5e0-e195-4c77-8ffc-196aec5bc202",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "af8d5096-cbae-4d62-91aa-5984be9030c3",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "51d4a2d6-1871-49c0-af2c-9136a118c903",
+          "contentItemType": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "57f53600-4170-11e7-a4b7-3e2c370f9d84",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "0107d364-c64a-483b-b4e6-2d8677d4fcbc",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "7e1baa64-1b84-402a-81d8-2f68b6d0d679",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "adb63fba-1cf0-4242-b71d-57747ff3b198",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "37960fc8-ed71-4cf0-bfce-da4f17014550",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78b0a6c7-3f6e-4ef0-bbda-2d6236e6721b",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "f4cd68c6-6ae0-41aa-b0b0-b7602794e6f2",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "8b7e0766-e45b-438c-adf1-49fd65f68b5e",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "bd35db83-cc28-4fc8-947c-916f023abde2",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "39cf09de-f03c-4010-99ea-68235881815a",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "487e5dcd-d6fd-4a50-8438-f6e97c89fe8f",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "1d44816a-bfd2-4520-ba36-bc8a568ec88e",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "94729323-aca2-451c-825b-4e7493654dae",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "df2239ae-a90e-4f8c-9f99-a7ee6b197fa9",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "714ca7fa-f394-41ec-bdbb-b1f6f601ecfe",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "c39c08e2-8445-4c3c-8797-8ad4332bffc7",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "4dd31d02-6097-46e8-ae05-e13fb52f3238",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "3b379f9f-cf65-4a1b-9c1c-9cdddbacd30d",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "d24ad53b-e96c-4b3e-931c-733c039ed412",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0a23cf8a-1f08-4ec5-8a4b-478509746f23",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "fde70075-52a3-4788-abda-78218e65cace",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "44a2e020-ee44-4428-b498-ee9d96652dfc",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "4fce8d27-b9f4-42d2-bbd4-0d8ec897b968",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "191f30ff-5ad8-4cd7-8afa-5083f4e0d4ad",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "3d88bae5-5d26-4c82-99dc-8ca6e957f18d",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "24b36c42-6cd2-42c4-92ae-610a59df57d0",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "893ebb19-8647-415c-931d-32821c2498c7",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "3798bfc3-3979-483b-bca1-4abfc15adfbe",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "4416dacb-b960-4892-bd6b-0168a510bee8",
+          "contentItemType": "LINKED_CONTENT"
+        }
+      ],
+      "AreaName": "Onboarding Academy",
+      "SubjectName": [
+        "Durable Skills",
+        "Culture and Values",
+        "Role-based Onboarding",
+        "Tools and Resources"
+      ]
+    },
+    {
+      "channelName": "Introduction to Generative AI and Prompt Engineering",
+      "channelDescription": "Generative AI has been a major disruptor in the last year and it is imperative that we are comfortable and proficient in utilizing the technolgy. In order to skill you in the area of Generative AI, we have curated this learning channel which aims to provide you the foundational knowledge, applications of Generative AI and the different techniques in Prompt Engineering to allow you to make the most of its capabilities",
+      "channelImage": "https://cdn.bfldr.com/YWP0W9AT/at/9jq8bjkgw96b6vmqcj867hm/Technical_Academy_Custom_Channel.png?auto=webp&format=png&width=800&height=450",
+      "channelContent": [
+        {
+          "contentItemUuid": "Use Case: Utilizing Generative AI in Learning",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Improving Your A.I. Chats with Your Data",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Using AI For Good: The Ethical and Responsible Usage of Generative AI",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "4c1b7754-76eb-420c-8d69-521af23a737a",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "83ad7c64-5f50-44a7-85b0-38b2f31cb80f",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "3c7137d1-70a6-477a-92d5-e61fc3769ca1",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "ef759deb-8acd-4e29-957c-b2c2538cf45a",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "114f96ff-e355-4339-b925-f150bc2e5181",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "bf755326-7634-4a99-bef3-c968ea4b001c",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "ea1667ed-1d22-4b21-9527-739e1a6d120b",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "ef91b5f3-a8bb-4af4-be06-3574b095ecf5",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "87b3f5b9-184c-4d9d-9dde-805c99361816",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "51c31fa7-3dce-45d7-af2e-0d34e69ab6e1",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "775c9c10-5508-4fd5-a39a-5b2ccc877ca2",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "27ebcdba-ba7f-46e6-896b-5f1bfd628db6",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "f3739d17-0d6a-4149-a365-da2aeef873a8",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "6a8ec18d-e1b2-454e-a326-78d9ed46e64e",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "8e09e143-16a6-46b3-889f-72e36870968e",
+          "contentItemType": "BOOK"
+        },
+        {
+          "contentItemUuid": "35883484-de19-4e34-9dd5-fd848fd177c4",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "5f41932e-ac79-4fcc-a64a-5d045145d390",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "edd13bd0-5caa-4d25-9b24-5f5e750e395d",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "1921c299-2a00-46b0-96d7-173d4fa19eb6",
+          "contentItemType": "AUDIOBOOK"
+        },
+        {
+          "contentItemUuid": "e5123f21-d79d-413a-9b43-eb23f108b8e5",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "d66a4299-4374-46ff-95d5-3c65a01cd818",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "eb74d9a9-e6d9-4c55-8ea0-15f4a31840b4",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "30352edf-f389-40f1-9696-4df95ce176fa",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "e93cea93-414c-478d-b378-9e572041edc9",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "77c00364-2f3c-4ec0-ac6b-4fc4ff9466d5",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "1fea0017-3148-4343-abff-30bbf222d544",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0cee306c-5012-484b-baae-6174f9afd291",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "6b3561a9-62a1-4307-8719-2d692b32d27b",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "3456b11c-0138-47b8-9c9f-ef2df4d1ee9a",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "cffc2d91-6d80-441a-a19f-19ca4a7682c1",
+          "contentItemType": "SCHEDULED_CONTENT"
+        },
+        {
+          "contentItemUuid": "1d44816a-bfd2-4520-ba36-bc8a568ec88e",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "6936aa1f-fbf8-4a7b-aab8-f5f1b17ef6a8",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "767479f9-4684-4a89-aad6-3072d63be4ac",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "dcdc736b-c593-4f21-9700-b7d9a7cba6c2",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "ddf91397-f653-4c59-a877-9526120eb632",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "223b251d-31df-476a-9286-23cd6586c42c",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "96f4daec-b5fb-45d9-a037-59ff6aa1a309",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "f757bc87-7db7-4c25-a279-04b54614f342",
+          "contentItemType": "LINKED_CONTENT"
+        }
+      ],
+      "AreaName": "Technical Academy",
+      "SubjectName": [
+        "Dev Ops",
+        "Data / ML / AI"
+      ]
+    }
+  ],
+  "linkedContentData": [
+    {
+      "title": "Congratulations and Welcome to the Management Team",
+      "contentUrl": "https://www.youtube.com/watch?v=-2DzGw8V7JE",
+      "desc": "Akara's Senior Vice President of Human Resources, Potoula Chresomales, welcomes Akara's first-time managers with a special message about the key competencies importance for the role.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/6jjv9mqhjpjmm77kwhb795/Akara_card_image_P_no_logo.jpg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 64
+    },
+    {
+      "title": "Tony Robbins on the Psychology and Skills of Exceptional Leaders",
+      "contentUrl": "https://www.youtube.com/watch?v=mBNoUhHtmVc",
+      "desc": "Tony Robbins, life coach and author of Money: Master the Game, explains to Inc. editor James Ledbetter why leadership is a learnable skill.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/sjjbkt2m6vc9x36wpm3rzcn/tony_robins.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 2464
+    },
+    {
+      "title": "Start with why - how great leaders inspire action",
+      "contentUrl": "https://www.youtube.com/watch?v=u4ZoJKF_VuA",
+      "desc": "Simon Sinek - Start with Why: How Great Leaders Inspire Action",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/rpb34x8h6tm6crh3bg598k/Simon_Sinek.jpeg?auto=webp&format=png&width=800&height=442",
+      "modality": "WATCH",
+      "duration": 1081
+    },
+    {
+      "title": "New Manager Guide (PDF)",
+      "contentUrl": "https://skillsoft-my.sharepoint.com/:b:/p/clayton_crouch/EdZEkt4QcdlNmdm1TSZjJcoBm-zMmOlWEjmDWSVv4T1Jpg?e=PcDXiN",
+      "desc": "Welcome to your new role as a manager! This comprehensive guide will equip you with essential leadership skills, provide insights into our company's policies and strategic objectives, and serve as a valuable resource to navigate your managerial responsibilities effectively.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/5mpm2h6v2x7bp34bjqjkqgx/GettyImages-1191436737.jpeg?auto=webp&format=png&width=800&height=525",
+      "modality": "READ",
+      "duration": 600
+    },
+    {
+      "title": "Why being respectful to your coworkers is good for business | Christine Porath",
+      "contentUrl": "https://youtu.be/YY1ERM-NIBY?si=vdhB5St40FeIY6Pl",
+      "desc": "Looking to get ahead in your career? Start by being respectful to your coworkers, says leadership researcher Christine Porath. In this science-backed talk, she shares surprising insights about the costs of rudeness and shows how little acts of respect can boost your professional success -- and your company's bottom line.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/tc3c5ft8kcfgn8bpz2pn6r/Christine_Porath.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 924
+    },
+    {
+      "title": "Why the secret to success is setting the right goals | John Doerr | TED",
+      "contentUrl": "https://youtu.be/L4N1q4RNi9I?si=nKxVlsFV9R23MJZ5",
+      "desc": "Our leaders and institutions are failing us, but it's not always because they're bad or unethical, says venture capitalist John Doerr -- often, it's simply because they're leading us toward the wrong objectives. In this practical talk, Doerr shows us how we can get back on track with Objectives and Key Results or OKRs -- a goal-setting system that's been employed by the likes of Google, Intel and Bono to set and execute on audacious goals. Learn more about how setting the right goals can mean the difference between success and failure -- and how we can use OKRs to hold our leaders and ourselves accountable.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/b43xwc2tg69qvf8z6cnb34/John_Doerr.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 711
+    },
+    {
+      "title": "Think Fast, Talk Smart: Communication Techniques",
+      "contentUrl": "https://youtu.be/HAnw168huqA?si=cI6aqHeU817-h-A3",
+      "desc": "Matt Abrahams is a lecturer of strategic communication at Stanford GSB and the host of the award-winning podcast Think Fast, Talk Smart a show with research-backed techniques becoming a more confident communicator. Communication is critical to success in business and in life.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/khgcjxb6h9r7974tpkh3sh/Think_Fast.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 3499
+    },
+    {
+      "title": "Use Case: Utilizing Generative AI in Learning",
+      "contentUrl": "https://www.youtube.com/watch?v=JYDbDLMRjW0",
+      "desc": "We are excited to announce the general availability of Skillsoft CAISY Conversation AI Simulator, an innovative generative AI based tool for simulating business and leadership conversational skills. CAISY makes those difficult work conversations easier, by providing employees with an emotionally safe space to practice important business conversations with an AI-powered trainer.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/x3rbvv3vcr7jrg47m6p39wf/Caisy.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "WATCH",
+      "duration": 288
+    },
+    {
+      "title": "Improving Your A.I. Chats with Your Data",
+      "contentUrl": "https://www.linkedin.com/pulse/improving-your-ai-chats-data-rand-morimoto-4fn2c",
+      "desc": "When you chat with your A.I. data from a generative A.I. solution like ChatGPT, the questions you ask (aka: your prompts) can help improve the response you get back from your data.",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/85p7s38rf3kghfxx7ppx9s/GettyImages-1770683710.jpeg?auto=webp&format=png&width=800&height=450",
+      "modality": "READ",
+      "duration": 600
+    },
+    {
+      "title": "Using AI For Good: The Ethical and Responsible Usage of Generative AI",
+      "contentUrl": "https://www.skillsoft.com/podcast/using-ai-for-good-the-ethical-and-responsible-usage-of-generative-ai",
+      "desc": "About This Episode Using AI For Good: The Ethical and Responsible Usage of Generative AI Bill Gates once said that artificial intelligence is the most…",
+      "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/3pxjt7n5vj26xtz8ppm75jf/Custom_Journey.png?auto=webp&format=png&width=800&height=450",
+      "modality": "LISTEN",
+      "duration": 600
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "contentForAssignment": [
+    {
+      "name": "Sample APAC Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "48eaace9-f142-4035-8f38-30d458748a72",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "dc55340a-ee69-4bc8-92a7-143e22b8dfda",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "0393b588-0fb7-40cd-b07e-2002c8b7886e",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "7dd9d96c-ab5f-4425-aa7e-1bcf2fdec521",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "3e24a756-00f4-4736-a6ef-1f0caa69d5f3",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "c776f112-398b-4154-b09c-64681d56e191",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "017fca99-07c4-41b7-9b68-7fdfdc774b9e",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "3ebad42d-d326-4158-b2ae-48728c2150b7",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "e9da819f-ee33-4692-b024-64ec632dd740",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "776ebb50-d706-41a4-9b39-de4d6ac77497",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for APAC.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample APAC Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample APAC Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "00250708-14df-433d-95de-f3c7a2f44a4b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "f4487b08-f613-416c-8cda-a0fa90a54e2f",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "40ac92de-18cc-4de3-a4aa-166366f26d32",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "09266d93-6350-4e5c-8334-9bf0faadfec9",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a0c4a17d-7541-4f54-a8ea-02e56ccf8488",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for APAC.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample APAC Safety",
+      "expiry": 30
+    },
+    {
+      "name": "Sample Australia Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "1724b1c0-a781-423c-8acf-012d9e030d7e",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "1947474a-d5fb-4519-992e-350162ece700",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "6a51de89-1bec-4663-bcaf-992b361bf942",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "c3e592bc-ccb1-4f99-9526-ea325f20003d",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a89dcda3-194b-4020-987e-f9cd4809e682",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "1218fadc-dffd-4ca5-85f9-51a82cf21584",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "2baadb6e-46a5-4c02-9cfc-976ba787e09d",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "520ea1a3-dd45-499e-84b2-4bc1282ce2dc",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "09645db6-b652-4618-aa8b-7c86ae68cc80",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "3b4333c0-7376-4932-b0d7-ef13dfcd4d0a",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "2cd4ac21-51c1-4525-af55-eba25d0a5342",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "1623a58d-c752-4af1-bd7c-40ef95c71d59",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for Australia.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample AU Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample Australia Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "78b0131f-671f-4dfa-bf03-ed106e542b64",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "0fc991e6-a984-4e18-bd7a-7cceaf994b4b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "9c5bf38d-c84e-4f93-aeaa-353b8fed9198",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "36ba1c0f-bdc3-4036-b607-5141797442f8",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "93791e73-fdf9-40d6-a9e0-491f7f94f881",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "48bc426a-1935-4088-b9a8-9a1fc10db7b6",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "d9ae7656-417a-48fd-98ac-4349fec978d5",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "6dc845fc-4f71-418d-8607-6d590352f769",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for Australia.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample AU Safety",
+      "expiry": 30
+    },
+    {
+      "name": "Sample Canada Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "164e2f35-a79f-4b74-9eeb-4ee0d7feccdc",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "1f37f5a8-170f-4234-8189-8f2021c12d78",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "d3a642b8-3c99-4d79-91ec-a0be9e7ef234",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "60854529-1086-4c15-84cc-a17b5d9ea77b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "daf374ea-4101-4812-847a-8f9d66445a4b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "f1645918-5c1d-43db-8559-da432c8c8bd7",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "359f7ef8-f72b-41b8-8920-a594732c3dfe",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "72fe9eb5-0ae3-4c61-b58a-3dd678e2a766",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for Canada.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample Canada Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample Canada Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "90d70288-77bf-483a-83ca-625467905ecf",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "e9f5ba46-a5f6-4cb8-8fe3-c945327e572d",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "cae50fc9-0b80-4324-bca6-51b8fa752179",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "5be545ef-21e6-4d74-940e-a287fe9cc8ad",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "2735e041-4b80-4610-abb6-ae492d8fb68f",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "cb11fda8-b2ab-4ec8-83d3-925947a80149",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "65631652-d339-49eb-8b8a-630d558f4f94",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "9037b475-54fc-463b-b66a-b12b2cc80d2a",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for Canada.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample Canada Safety",
+      "expiry": 30
+    },
+    {
+      "name": "Sample New Zealand Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "f6ea2595-b870-41fd-a363-d85a4ed43ac4",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "7fa384ff-f84a-42c1-a3df-620fd508c2a6",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "79a77c9f-b6a1-4f74-896d-58371f46e938",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "38205614-3b9d-4ad0-a7c0-7e22721ac4d9",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "6d51554a-1987-454f-8704-16575aca5003",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "dbfe5606-36f6-443c-a392-205f9bd9c304",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "c4056e29-7860-44c6-b49d-755db2b018e3",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "d7364d62-c174-4894-a67a-a9eba721fa0e",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "cad83dd7-5553-42f0-90e2-04100898120b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "7b9456cc-c1b5-4f87-8712-405f16d115c6",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "33228a60-2151-438f-afb5-219abadff278",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for New Zealand.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample NZ Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample New Zealand Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "0b9ac3d7-a783-4d61-bcbd-89d737bd97a0",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "b9ae968f-6d81-4bcf-a36e-e4c64216af58",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for New Zealand.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample NZ Safety",
+      "expiry": 30
+    },
+    {
+      "name": "Sample North America Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "9f2574ff-7c89-44dd-b34e-664438baffb0",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "20e8cabb-81c0-4c8e-a343-156a06409f50",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "1d26ed56-9882-468e-bb6d-6d8b9b157bfa",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a3bf75a5-b59f-4bd2-9a4f-0d565a6894e3",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "c33b4e6a-1b21-47ad-8741-f34a4809cea6",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "4d0f977b-66bd-4b4a-ae1b-8e98648a7754",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "fbb8401b-1b1e-4fdc-bec6-bc709d697617",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "89001941-2ceb-4deb-9413-848d78ef2d1c",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "e9a9af47-33b3-47d2-909b-140e027742f5",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "35d7d587-aea3-4e41-9d39-c42c55ecd7f2",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "4cdd5ebd-0dfa-4d27-98cb-1ab31bf804b4",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a6686b26-3088-42db-b999-3ced8ae9f5bd",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "4aadd32b-94c1-48b0-a862-75ea46de7e2e",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "776ebb50-d706-41a4-9b39-de4d6ac77497",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a465ee94-69d7-48bd-9af2-ca41300ae343",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for North America.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample NA Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample UK/EU Legal",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "48eaace9-f142-4035-8f38-30d458748a72",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "dc55340a-ee69-4bc8-92a7-143e22b8dfda",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "0dd7ca93-49e9-4838-aebb-958c8ef4339f",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "505400c8-fd1d-4bd9-9247-91ba85a7ecac",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "72535ea5-ed70-432b-b32b-c217431f18c6",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "13b81b74-616a-4e9b-a51e-0c26a6dd5009",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "7dd9d96c-ab5f-4425-aa7e-1bcf2fdec521",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "d6631821-709b-41df-bda8-f9421431a32f",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "f6d91ae8-f629-4411-a8a5-fc82804a879b",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "f9f56ebe-209f-4a05-be0b-e1e5008bb101",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "b016d520-37f9-4c0d-970b-996ad8437b33",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Legal Compliance content for UK/EU.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample UK/EU Legal",
+      "expiry": 30
+    },
+    {
+      "name": "Sample UK/EU Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "997e7a80-43f0-4141-8c1f-693da6c1cf2c",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "dfa71870-1fd3-4243-8f2d-166d5ec78f07",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "72b4d875-ab4d-454e-a229-921d4db312ee",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "726aa202-3709-4f3a-9465-6628ea165404",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "db5ea1fb-036d-4726-8ea2-a15b620d7789",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "c19e69b4-6881-4421-a312-4eb06b0ab5af",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "48e1ec32-1d18-49d7-8f7e-a668e30ccb74",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "41a35c0e-2712-46f4-8ec2-30e538822e29",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for UK/EU.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample UK/EU Safety",
+      "expiry": 30
+    },
+    {
+      "name": "Sample US Safety",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "71f30f09-b0a5-4cb2-a22a-816b20b903a2",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "761bf9b8-1731-4c32-accc-29df46d87af4",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "49540e0a-5110-4d19-a118-977c04a2ceab",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "4cdd5ebd-0dfa-4d27-98cb-1ab31bf804b4",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "20908906-50b5-4b86-887c-4a5967ed7bce",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "17181129-4ac5-40cd-8b30-f48175110261",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "83d2deab-f002-4254-af5e-7bc8a7d6dc9c",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "63a53fcf-377d-4027-9eb6-32de8d17100f",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "f3804e7a-8d0b-4af3-801d-c4501fde844a",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "a82e87bf-a678-4119-9630-bbf6c7155ba2",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "cc29fd9b-ee12-44b6-a5fc-ce28652b57f5",
+          "enableCourseRetake": true
+        },
+        {
+          "contentType": "COURSE",
+          "contentId": "40ac92de-18cc-4de3-a4aa-166366f26d32",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>This is a sample of Safety Compliance content for the United States.</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement",
+      "audienceName": "Sample US Safety",
+      "expiry": 30
+    }
+  ]
+}

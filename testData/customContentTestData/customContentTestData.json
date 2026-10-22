@@ -1,0 +1,20 @@
+{
+    "linkCustomContent": [
+        {
+            "title": "Skillsoft Coaching",
+            "contentUrl": "https://www.figma.com/proto/JlLdLcTT65KRT9k2EJfTid/Client-Web---Skillsoft-Coaching?node-id=63993-75043&amp%3Bnode-type=canvas&amp%3Bt=Z7PboSadv31mIDmQ-0&amp%3Bscaling=min-zoom&amp%3Bcontent-scaling=fixed&amp%3Bpage-id=45525%3A24478&amp%3Bstarting-point-node-id=63993%3A73909&amp%3Bshow-proto-sidebar=1",
+            "desc": "Our Coaching solution consists of enhanced targeted top-tier content, human and AI coaches, and technology that helps to transform people and organizations to drive lasting measurable outcomes.",
+            "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/x4nnm8gcrh36g9k57h8js24/Coaching.png",
+            "modality": "READ",
+            "duration": 600
+        },
+        {
+            "title": "Skillsoft Lab Types",
+            "contentUrl": "https://cdn.bfldr.com/YWP0W9AT/at/cq8h8ptgmpm5bnkvpbsxm36/Skillsoft_Lab_Types.pdf?format=pdf&width=2000&height=1125",
+            "desc": "Skillsoft lab types include Codecademy Projects, Prompting Labs, Practice Labs, Challenge Labs, and Sandbox, with details on their purpose, characteristics, and service providers.",
+            "imageUrl": "https://cdn.bfldr.com/YWP0W9AT/at/68t8q3xxgh5zhkck7nw5smpx/Gemini_Generated_Image_gp8uycgp8uycgp8u.jpeg?auto=webp&format=png&width=1600&height=900",
+            "modality": "READ",
+            "duration": 600
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Empowering Our Customers Through OneTouch",
+    "description": "Customer empowerment through technology has become a cornerstone of exceptional service delivery in today's digital landscape. This course focuses on leveraging the OneTouch platform to enhance customer experiences and build stronger relationships. In this course, you will explore the core features of OneTouch, learn best practices for customer engagement, and discover strategies to maximize platform effectiveness. By the end of this course, you will be equipped with the knowledge and skills to confidently use OneTouch to deliver outstanding customer service and drive meaningful customer outcomes.",
+    "preRequisites": "Please ensure you have attended your Managers briefing before watching this course.",
+    "projectName": "Akara Digital Customer Experience Launch",
+    "containerType": "course",
+    "locale": "en-US",
+    "appType": "courseDesigner",
+    "imageTitle": "Mobile Thumbnail",
+    "knowledgeSource": ["Akara_OneTouch_Product_Overview"],
+    "aiChatData": {
+      "initialAssistantMessage": "{\n  \"status\": \"PENDING\",\n  \"data\": {},\n  \"question\": \"Hi! I can help you build a course for self-paced learning following instructional design principles.\\nDo you have any existing materials you'd like to use? Here are some options to get started quickly.\"\n}",
+      "userMessage": "Create a course from scratch",
+      "courseStep": "inputs",
+      "templateName": "Calm",
+      "audioProvider": "azureSpeech",
+      "audioVoice": "en-US-AvaMultilingualNeural"
+    }
+  }
+]

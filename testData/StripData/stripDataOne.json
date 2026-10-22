@@ -1,0 +1,1385 @@
+{
+  "StripDuration": 40,
+  "StripsData": [
+    {
+      "TitleOfStrip": "AI/ML",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06c9649e-b5b8-44bc-8d30-ee9aa7f78641",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "698377d2-f289-4f6f-b20b-fff5c31e634c",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2f3d0ba1-3ffc-4d14-9cb5-54f423aadde3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4e7ebb7d-e800-48b3-96c5-f3e82fa9f468",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "contentItemTypeName": "CHANNEL"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "Data",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3fccfb11-f27f-4a24-be31-a055493e0b07",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0a5f295d-a68c-4535-bc0a-1c76f6e2f380",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f05d9625-78c6-440c-bd91-a9832d5f6763",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "83a54cb9-8591-411f-bdc7-03a7bee00e2d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "09cd07e6-04e6-4c6d-9e70-b8a4074b9064",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "b4931bbc-7410-4a32-a4b1-0e722ba6c93b",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "70026205-150b-40db-9ed5-e918e1914160",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "5034cf44-25e2-4ca9-acfd-4ce600e1d297",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "f41ef85b-574f-42f8-8b3d-12f1c416989a",
+          "contentItemTypeName": "LINKED_CONTENT"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "DevOps",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fd82e840-bd69-11e7-a0da-e757c7add120",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "77b97d7d-2890-4294-ae12-921579b1529d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0cf7e986-253c-4419-bacc-f0ce0e63a947",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "eab2b6c6-0fb1-461f-85a8-2d94038fc267",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0bd0699f-173c-4dc0-b646-322791329f89",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "76e1b537-ba93-4567-9f06-63a19a417beb",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f80a2014-dc74-4315-a85d-654c251f5f51",
+          "contentItemTypeName": "AUDIOBOOK"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "Cloud",
+      "contentOfStrip": [
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "17913de0-df49-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "c9f8298e-13fd-4e8e-8efa-eafc32547c52"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "7590e755-df11-41ac-80e2-f9192ca81a93"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "8870e07b-08b5-4e42-845e-e871e3996c31"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "5af0f991-12fc-11e7-822f-df9d5d5ce619"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "758341cb-9ab3-4446-932b-c02121707819"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "033f8ab5-f848-45be-9da4-3150b07b7baa"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "c7973bc2-6a91-43a7-bbe1-9547bc2115ac"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "2b23a2b2-52fd-4b09-8e10-2612ce2c28b4"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "Security",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3e1b7b50-9ee4-11e7-b1f4-ca14755b2964",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7cee95c4-616e-4311-8fba-337e1b434ed3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "832340cd-a659-45a0-b003-849d999df930",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "d07243dd-e42d-45de-8907-8b3d84ce19f0",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "bdfbac9d-8543-41d3-8c80-f80c55755d5c",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0672af20-8f9b-434a-92a9-5801126d3c32",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "contentItemTypeName": "SCHEDULED_CONTENT"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "Leadership",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2328d879-c578-434e-8026-0d55bb298e69",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06b8fa66-473f-4233-ac5e-769d01e1f597",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "1105d1d0-f30c-11e6-bb2f-0242c0a80b05",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4b0cc3ef-5f0d-4e0c-9bf2-65369cc304bb",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "6eef327e-5fc6-48e1-b5fa-690d19221796",
+          "contentItemTypeName": "VIDEO"
+        },
+        {
+          "contentItemUuid": "1b311fa2-9232-476c-9cfc-7c26ad2107c1",
+          "contentItemTypeName": "ASSESSMENT"
+        }
+      ],
+      "locale": "en-US"
+    },
+    {
+      "TitleOfStrip": "AI/ML ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06c9649e-b5b8-44bc-8d30-ee9aa7f78641",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "698377d2-f289-4f6f-b20b-fff5c31e634c",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2f3d0ba1-3ffc-4d14-9cb5-54f423aadde3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4e7ebb7d-e800-48b3-96c5-f3e82fa9f468",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "contentItemTypeName": "CHANNEL"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "Data ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3fccfb11-f27f-4a24-be31-a055493e0b07",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0a5f295d-a68c-4535-bc0a-1c76f6e2f380",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f05d9625-78c6-440c-bd91-a9832d5f6763",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "83a54cb9-8591-411f-bdc7-03a7bee00e2d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "09cd07e6-04e6-4c6d-9e70-b8a4074b9064",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "b4931bbc-7410-4a32-a4b1-0e722ba6c93b",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "70026205-150b-40db-9ed5-e918e1914160",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "5034cf44-25e2-4ca9-acfd-4ce600e1d297",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "f41ef85b-574f-42f8-8b3d-12f1c416989a",
+          "contentItemTypeName": "LINKED_CONTENT"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "DevOps ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fd82e840-bd69-11e7-a0da-e757c7add120",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "77b97d7d-2890-4294-ae12-921579b1529d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0cf7e986-253c-4419-bacc-f0ce0e63a947",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "eab2b6c6-0fb1-461f-85a8-2d94038fc267",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0bd0699f-173c-4dc0-b646-322791329f89",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "76e1b537-ba93-4567-9f06-63a19a417beb",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f80a2014-dc74-4315-a85d-654c251f5f51",
+          "contentItemTypeName": "AUDIOBOOK"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "Cloud ",
+      "contentOfStrip": [
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "17913de0-df49-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "c9f8298e-13fd-4e8e-8efa-eafc32547c52"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "7590e755-df11-41ac-80e2-f9192ca81a93"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "8870e07b-08b5-4e42-845e-e871e3996c31"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "5af0f991-12fc-11e7-822f-df9d5d5ce619"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "758341cb-9ab3-4446-932b-c02121707819"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "033f8ab5-f848-45be-9da4-3150b07b7baa"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "c7973bc2-6a91-43a7-bbe1-9547bc2115ac"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "2b23a2b2-52fd-4b09-8e10-2612ce2c28b4"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "Security ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3e1b7b50-9ee4-11e7-b1f4-ca14755b2964",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7cee95c4-616e-4311-8fba-337e1b434ed3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "832340cd-a659-45a0-b003-849d999df930",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "d07243dd-e42d-45de-8907-8b3d84ce19f0",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "bdfbac9d-8543-41d3-8c80-f80c55755d5c",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0672af20-8f9b-434a-92a9-5801126d3c32",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "contentItemTypeName": "SCHEDULED_CONTENT"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "Leadership ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2328d879-c578-434e-8026-0d55bb298e69",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06b8fa66-473f-4233-ac5e-769d01e1f597",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "1105d1d0-f30c-11e6-bb2f-0242c0a80b05",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4b0cc3ef-5f0d-4e0c-9bf2-65369cc304bb",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "6eef327e-5fc6-48e1-b5fa-690d19221796",
+          "contentItemTypeName": "VIDEO"
+        },
+        {
+          "contentItemUuid": "1b311fa2-9232-476c-9cfc-7c26ad2107c1",
+          "contentItemTypeName": "ASSESSMENT"
+        }
+      ],
+      "locale": "fr"
+    },
+    {
+      "TitleOfStrip": "AI/ML  ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06c9649e-b5b8-44bc-8d30-ee9aa7f78641",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "698377d2-f289-4f6f-b20b-fff5c31e634c",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2f3d0ba1-3ffc-4d14-9cb5-54f423aadde3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4e7ebb7d-e800-48b3-96c5-f3e82fa9f468",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "contentItemTypeName": "CHANNEL"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "Data  ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3fccfb11-f27f-4a24-be31-a055493e0b07",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0a5f295d-a68c-4535-bc0a-1c76f6e2f380",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f05d9625-78c6-440c-bd91-a9832d5f6763",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "83a54cb9-8591-411f-bdc7-03a7bee00e2d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "09cd07e6-04e6-4c6d-9e70-b8a4074b9064",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "b4931bbc-7410-4a32-a4b1-0e722ba6c93b",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "70026205-150b-40db-9ed5-e918e1914160",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "5034cf44-25e2-4ca9-acfd-4ce600e1d297",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "f41ef85b-574f-42f8-8b3d-12f1c416989a",
+          "contentItemTypeName": "LINKED_CONTENT"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "DevOps  ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fd82e840-bd69-11e7-a0da-e757c7add120",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "77b97d7d-2890-4294-ae12-921579b1529d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0cf7e986-253c-4419-bacc-f0ce0e63a947",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "eab2b6c6-0fb1-461f-85a8-2d94038fc267",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0bd0699f-173c-4dc0-b646-322791329f89",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "76e1b537-ba93-4567-9f06-63a19a417beb",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f80a2014-dc74-4315-a85d-654c251f5f51",
+          "contentItemTypeName": "AUDIOBOOK"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "Cloud  ",
+      "contentOfStrip": [
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "17913de0-df49-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "c9f8298e-13fd-4e8e-8efa-eafc32547c52"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "7590e755-df11-41ac-80e2-f9192ca81a93"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "8870e07b-08b5-4e42-845e-e871e3996c31"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "5af0f991-12fc-11e7-822f-df9d5d5ce619"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "758341cb-9ab3-4446-932b-c02121707819"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "033f8ab5-f848-45be-9da4-3150b07b7baa"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "c7973bc2-6a91-43a7-bbe1-9547bc2115ac"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "2b23a2b2-52fd-4b09-8e10-2612ce2c28b4"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "Security  ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3e1b7b50-9ee4-11e7-b1f4-ca14755b2964",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7cee95c4-616e-4311-8fba-337e1b434ed3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "832340cd-a659-45a0-b003-849d999df930",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "d07243dd-e42d-45de-8907-8b3d84ce19f0",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "bdfbac9d-8543-41d3-8c80-f80c55755d5c",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0672af20-8f9b-434a-92a9-5801126d3c32",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "contentItemTypeName": "SCHEDULED_CONTENT"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "Leadership  ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2328d879-c578-434e-8026-0d55bb298e69",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06b8fa66-473f-4233-ac5e-769d01e1f597",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "1105d1d0-f30c-11e6-bb2f-0242c0a80b05",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4b0cc3ef-5f0d-4e0c-9bf2-65369cc304bb",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "6eef327e-5fc6-48e1-b5fa-690d19221796",
+          "contentItemTypeName": "VIDEO"
+        },
+        {
+          "contentItemUuid": "1b311fa2-9232-476c-9cfc-7c26ad2107c1",
+          "contentItemTypeName": "ASSESSMENT"
+        }
+      ],
+      "locale": "de"
+    },
+    {
+      "TitleOfStrip": "AI/ML   ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06c9649e-b5b8-44bc-8d30-ee9aa7f78641",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "698377d2-f289-4f6f-b20b-fff5c31e634c",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2f3d0ba1-3ffc-4d14-9cb5-54f423aadde3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4e7ebb7d-e800-48b3-96c5-f3e82fa9f468",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "contentItemTypeName": "CHANNEL"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "Data   ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3fccfb11-f27f-4a24-be31-a055493e0b07",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0a5f295d-a68c-4535-bc0a-1c76f6e2f380",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f05d9625-78c6-440c-bd91-a9832d5f6763",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "83a54cb9-8591-411f-bdc7-03a7bee00e2d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "09cd07e6-04e6-4c6d-9e70-b8a4074b9064",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "b4931bbc-7410-4a32-a4b1-0e722ba6c93b",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "70026205-150b-40db-9ed5-e918e1914160",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "5034cf44-25e2-4ca9-acfd-4ce600e1d297",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "f41ef85b-574f-42f8-8b3d-12f1c416989a",
+          "contentItemTypeName": "LINKED_CONTENT"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "DevOps   ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fd82e840-bd69-11e7-a0da-e757c7add120",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "77b97d7d-2890-4294-ae12-921579b1529d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0cf7e986-253c-4419-bacc-f0ce0e63a947",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "eab2b6c6-0fb1-461f-85a8-2d94038fc267",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0bd0699f-173c-4dc0-b646-322791329f89",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "76e1b537-ba93-4567-9f06-63a19a417beb",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f80a2014-dc74-4315-a85d-654c251f5f51",
+          "contentItemTypeName": "AUDIOBOOK"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "Cloud   ",
+      "contentOfStrip": [
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "17913de0-df49-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "c9f8298e-13fd-4e8e-8efa-eafc32547c52"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "7590e755-df11-41ac-80e2-f9192ca81a93"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "8870e07b-08b5-4e42-845e-e871e3996c31"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "5af0f991-12fc-11e7-822f-df9d5d5ce619"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "758341cb-9ab3-4446-932b-c02121707819"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "033f8ab5-f848-45be-9da4-3150b07b7baa"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "c7973bc2-6a91-43a7-bbe1-9547bc2115ac"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "2b23a2b2-52fd-4b09-8e10-2612ce2c28b4"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "Security   ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3e1b7b50-9ee4-11e7-b1f4-ca14755b2964",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7cee95c4-616e-4311-8fba-337e1b434ed3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "832340cd-a659-45a0-b003-849d999df930",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "d07243dd-e42d-45de-8907-8b3d84ce19f0",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "bdfbac9d-8543-41d3-8c80-f80c55755d5c",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0672af20-8f9b-434a-92a9-5801126d3c32",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "contentItemTypeName": "SCHEDULED_CONTENT"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "Leadership   ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2328d879-c578-434e-8026-0d55bb298e69",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06b8fa66-473f-4233-ac5e-769d01e1f597",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "1105d1d0-f30c-11e6-bb2f-0242c0a80b05",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4b0cc3ef-5f0d-4e0c-9bf2-65369cc304bb",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "6eef327e-5fc6-48e1-b5fa-690d19221796",
+          "contentItemTypeName": "VIDEO"
+        },
+        {
+          "contentItemUuid": "1b311fa2-9232-476c-9cfc-7c26ad2107c1",
+          "contentItemTypeName": "ASSESSMENT"
+        }
+      ],
+      "locale": "ja"
+    },
+    {
+      "TitleOfStrip": "AI/ML    ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3f0740db-7349-4b67-814b-1384c69f10c8",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06c9649e-b5b8-44bc-8d30-ee9aa7f78641",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "698377d2-f289-4f6f-b20b-fff5c31e634c",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2f3d0ba1-3ffc-4d14-9cb5-54f423aadde3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4e7ebb7d-e800-48b3-96c5-f3e82fa9f468",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "23ef4630-dc1f-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "3a92ba2d-0992-4de0-8825-2833fae5688e",
+          "contentItemTypeName": "CHANNEL"
+        }
+      ],
+      "locale": "zh-CN"
+    },
+    {
+      "TitleOfStrip": "Data    ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3fccfb11-f27f-4a24-be31-a055493e0b07",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0a5f295d-a68c-4535-bc0a-1c76f6e2f380",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f05d9625-78c6-440c-bd91-a9832d5f6763",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "83a54cb9-8591-411f-bdc7-03a7bee00e2d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "09cd07e6-04e6-4c6d-9e70-b8a4074b9064",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "b4931bbc-7410-4a32-a4b1-0e722ba6c93b",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "70026205-150b-40db-9ed5-e918e1914160",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "5034cf44-25e2-4ca9-acfd-4ce600e1d297",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "f41ef85b-574f-42f8-8b3d-12f1c416989a",
+          "contentItemTypeName": "LINKED_CONTENT"
+        }
+      ],
+      "locale": "zh-CN"
+    },
+    {
+      "TitleOfStrip": "DevOps    ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fd82e840-bd69-11e7-a0da-e757c7add120",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "77b97d7d-2890-4294-ae12-921579b1529d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "0cf7e986-253c-4419-bacc-f0ce0e63a947",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "eab2b6c6-0fb1-461f-85a8-2d94038fc267",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "0bd0699f-173c-4dc0-b646-322791329f89",
+          "contentItemTypeName": "COURSE"
+        },
+        {
+          "contentItemUuid": "76e1b537-ba93-4567-9f06-63a19a417beb",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "f80a2014-dc74-4315-a85d-654c251f5f51",
+          "contentItemTypeName": "AUDIOBOOK"
+        }
+      ],
+      "locale": "zh-CN"
+    },
+    {
+      "TitleOfStrip": "Cloud    ",
+      "contentOfStrip": [
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "17913de0-df49-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "c9f8298e-13fd-4e8e-8efa-eafc32547c52"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "7590e755-df11-41ac-80e2-f9192ca81a93"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "8870e07b-08b5-4e42-845e-e871e3996c31"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605"
+        },
+        {
+          "contentItemTypeName": "CHANNEL",
+          "contentItemUuid": "5af0f991-12fc-11e7-822f-df9d5d5ce619"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "758341cb-9ab3-4446-932b-c02121707819"
+        },
+        {
+          "contentItemTypeName": "ASSESSMENT",
+          "contentItemUuid": "033f8ab5-f848-45be-9da4-3150b07b7baa"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "c7973bc2-6a91-43a7-bbe1-9547bc2115ac"
+        },
+        {
+          "contentItemTypeName": "AUDIOBOOK",
+          "contentItemUuid": "2b23a2b2-52fd-4b09-8e10-2612ce2c28b4"
+        }
+      ],
+      "locale": "zh-CN"
+    },
+    {
+      "TitleOfStrip": "Security    ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "3e1b7b50-9ee4-11e7-b1f4-ca14755b2964",
+          "contentItemTypeName": "AUDIO_SUMMARY"
+        },
+        {
+          "contentItemUuid": "7cee95c4-616e-4311-8fba-337e1b434ed3",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "832340cd-a659-45a0-b003-849d999df930",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "78af57c0-e196-11e6-93f3-0242c0a80605",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "d07243dd-e42d-45de-8907-8b3d84ce19f0",
+          "contentItemTypeName": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "bdfbac9d-8543-41d3-8c80-f80c55755d5c",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "0672af20-8f9b-434a-92a9-5801126d3c32",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "fb0df030-2d47-496d-b31c-a601389eecc2",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+          "contentItemTypeName": "SCHEDULED_CONTENT"
+        }
+      ],
+      "locale": "zh-CN"
+    },
+    {
+      "TitleOfStrip": "Leadership    ",
+      "contentOfStrip": [
+        {
+          "contentItemUuid": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "2328d879-c578-434e-8026-0d55bb298e69",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "06b8fa66-473f-4233-ac5e-769d01e1f597",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "1105d1d0-f30c-11e6-bb2f-0242c0a80b05",
+          "contentItemTypeName": "BOOK"
+        },
+        {
+          "contentItemUuid": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "4b0cc3ef-5f0d-4e0c-9bf2-65369cc304bb",
+          "contentItemTypeName": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "c07d4052-ff01-499a-a02e-d80c96a0f209",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+          "contentItemTypeName": "CHANNEL"
+        },
+        {
+          "contentItemUuid": "6eef327e-5fc6-48e1-b5fa-690d19221796",
+          "contentItemTypeName": "VIDEO"
+        },
+        {
+          "contentItemUuid": "1b311fa2-9232-476c-9cfc-7c26ad2107c1",
+          "contentItemTypeName": "ASSESSMENT"
+        }
+      ],
+      "locale": "zh-CN"
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+[
+    {
+        "title": "Lockout/Tagout 2.0 - Philadelphia Facility",
+        "externalCourseId": "eca1fc8b-b425-4193-8c7e-be4cbb9a6065",
+        "content": [
+            {
+                "position": "0",
+                "data": {
+                    "title": "How To Report an Incident or Accident",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 3,
+                            "title": "Report an Incident or Accident",
+                            "duration": 60,
+                            "policy": null,
+                            "text": {
+                                "text": "<h3><span style=\"font-family: 'Arial',sans-serif;\">If you need to report and incident or accident, please call 1-888-867-5309.</span></h3>",
+                                "audioDescription": null
+                            },
+                            "video": null
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "4",
+                "data": {
+                    "title": "Philadelphia Facility Device Information",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 2,
+                            "title": "Lockout Device Used In This Facility",
+                            "duration": 60,
+                            "policy": {
+                                "additionalText": "<h3><span style=\"font-family: 'Arial',sans-serif;\">Please take a moment to familiarize yourself with the device information for this facility. <br /><br />If you need to report and incident or accident, please call 1-888-867-5309.</span></h3>",
+                                "attestationQuestions": [],
+                                "audioDescription": null,
+                                "document": {
+                                    "fileId": "f0c37c1c-0891-42a6-b4bc-1196c3f971fd",
+                                    "fileName": "test.pdf",
+                                    "description": null,
+                                    "type": 1
+                                },
+                                "documentLink": null
+                            },
+                            "text": null,
+                            "video": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "title": "Lockout/Tagout 2.0 - Phoenix Facility",
+        "externalCourseId": "eca1fc8b-b425-4193-8c7e-be4cbb9a6065",
+        "content": [
+            {
+                "position": "0",
+                "data": {
+                    "title": "How To Report an Incident or Accident",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 3,
+                            "title": "Report an Incident or Accident",
+                            "duration": 60,
+                            "policy": null,
+                            "text": {
+                                "text": "<h3><span style=\"font-family: 'Arial',sans-serif;\">If you need to report and incident or accident, please call 1-888-867-5309.</span></h3>",
+                                "audioDescription": null
+                            },
+                            "video": null
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "4",
+                "data": {
+                    "title": "Phoenix Facility Device Information",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 2,
+                            "title": "Lockout Device Used In This Facility",
+                            "duration": 60,
+                            "policy": {
+                                "additionalText": "<h3><span style=\"font-family: 'Arial',sans-serif;\">Please take a moment to familiarize yourself with the device information for this facility. <br /><br />If you need to report and incident or accident, please call 1-888-867-5309.</span></h3>",
+                                "attestationQuestions": [],
+                                "audioDescription": null,
+                                "document": {
+                                    "fileId": "f0c37c1c-0891-42a6-b4bc-1196c3f971fd",
+                                    "fileName": "test.pdf",
+                                    "description": null,
+                                    "type": 1
+                                },
+                                "documentLink": null
+                            },
+                            "text": null,
+                            "video": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "title": "Harassment Prevention for US Employees – DEMO",
+        "externalCourseId": "4abfcadd-4aa0-4e41-8af9-94079020c78d",
+        "content": [
+            {
+                "position": "0",
+                "data": {
+                    "title": "A Message From Our CEO",
+                    "isVisible": true,
+                    "duration": 120,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 1,
+                            "title": "A Video Message From Our CEO",
+                            "duration": 120,
+                            "policy": null,
+                            "text": null,
+                            "video": {
+                                "video": {
+                                    "fileId": "260674f4-9e88-4d07-9dfd-c92358da1ba2",
+                                    "fileName": "3195394-uhd_3840_2160_25fps.mp4",
+                                    "description": null,
+                                    "type": 0
+                                },
+                                "videoCaptions": [],
+                                "audioDescription": null,
+                                "audioDescriptionCaptions": [],
+                                "audioDescriptionsV2": [],
+                                "nonVideoPlaybackImage": null
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "2",
+                "data": {
+                    "title": "The Importance of Taking This Course",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 3,
+                            "title": "A Message From HR",
+                            "duration": 60,
+                            "policy": null,
+                            "text": {
+                                "text": "Here at Skillsoft, we take the well being of our employees very seriously. As an organization, we have zero tolarance for harassment or bullying for any reason. Discrimination and harassment at work can have a corrosive effect on an organization's culture and can lead to low employee morale, reduced productivity, and even criminal liability.<br /><br />This course will provide an overview of the types of behaviors that can give rise to discrimination, harassment, and retaliation claims, including those based on sex, race, color, national origin, religion, age, and disability. It will also discuss the benefits of and strategies for promoting a respectful work environment that is free of all forms of harassment, intimidation, and discrimination.<br /><br />If you have questions about harassment either during or after this course, please contact your local HR representative.<br /><br />We hope you enjoy this course.&nbsp;<br /><br />Thank you,<br /><br />The HR Team",
+                                "audioDescription": null
+                            },
+                            "video": null
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "4",
+                "data": {
+                    "title": "Our Anti-Harassment Policy",
+                    "isVisible": true,
+                    "duration": 180,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 2,
+                            "title": "Review and Attest to Our Policy",
+                            "duration": 180,
+                            "policy": {
+                                "additionalText": "<h3><em>You are required to review our anti-harassment policy in order to proceed in the course.</em></h3>\n<h4>If you have any questions or issues to report, please contact our HR department at <a href=\"hr@skillsoft.com\" target=\"_blank\" rel=\"noopener\">hr@skillsoft.com</a> or call 1-800-867-5309.<br /><br />You can also report any issues through our hotline at <a href=\"http://www.skillsoft.speakup.com\" target=\"_blank\" rel=\"noopener\">www.skillsoft.speakup.com</a>.</h4>",
+                                "attestationQuestions": [
+                                    "I confirm I have read and will abide by the policy and will report any issues or violations."
+                                ],
+                                "audioDescription": null,
+                                "document": {
+                                    "fileId": "224bcaed-f319-4520-b0ea-53a2ff871863",
+                                    "fileName": "java001_0da732ce-c4b6-411a-a03a-fba3b1b7676c_v1_161547_23Oct2024.pdf",
+                                    "description": null,
+                                    "type": 1
+                                },
+                                "documentLink": null
+                            },
+                            "text": null,
+                            "video": null
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "24",
+                "data": {
+                    "title": "In Closing",
+                    "isVisible": true,
+                    "duration": 0,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 3,
+                            "title": "Thank You and Reminder",
+                            "duration": null,
+                            "policy": null,
+                            "text": {
+                                "text": "<h4>Thank you for taking this course. <br /><br />As a reminder, if you have any questions or issues to report, please contact our HR department at <a href=\"hr@skillsoft.com\" target=\"_blank\" rel=\"noopener\">hr@skillsoft.com</a> or call 1-800-867-5309.<br /><br />You can also report any issues through our hotline at <a href=\"http://www.skillsoft.speakup.com\" target=\"_blank\" rel=\"noopener\">www.skillsoft.speakup.com</a>.</h4>",
+                                "audioDescription": null
+                            },
+                            "video": null
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "title": "Global Safety Principles: Fall Prevention - Example",
+        "externalCourseId": "0acc071b-c4dd-4239-af26-3308c170783a",
+        "content": [
+            {
+                "position": "0",
+                "data": {
+                    "title": "How to Report an Incident or Accident",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 3,
+                            "title": "Reporting Incidents and Accidents",
+                            "duration": 60,
+                            "policy": null,
+                            "text": {
+                                "text": "If you experience an incident, have been involved in an accident or have been injured on the job, please report it immediately to your direct manager, the site supervisor, or to our incident hotline.",
+                                "audioDescription": null
+                            },
+                            "video": null
+                        }
+                    ]
+                }
+            },
+            {
+                "position": "2",
+                "data": {
+                    "title": "The Importance of Fall Protection",
+                    "isVisible": true,
+                    "duration": 60,
+                    "isUserCreated": true,
+                    "contents": [
+                        {
+                            "type": 1,
+                            "title": "Harnesses Save Lives - View This Video to See the Importance of Using a Harness",
+                            "duration": 60,
+                            "policy": null,
+                            "text": null,
+                            "video": {
+                                "video": {
+                                    "fileId": "bac0cd32-7fb0-4a0e-ac8d-9e7ad55151bd",
+                                    "fileName": "3195394-uhd_3840_2160_25fps.mp4",
+                                    "description": null,
+                                    "type": 0
+                                },
+                                "videoCaptions": [],
+                                "audioDescription": null,
+                                "audioDescriptionCaptions": [],
+                                "audioDescriptionsV2": [],
+                                "nonVideoPlaybackImage": null
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

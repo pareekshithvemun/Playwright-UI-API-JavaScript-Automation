@@ -1,0 +1,1544 @@
+{
+    "testData": [
+        {
+            "AreaName": "Technical Academy",
+            "AreaImage": "https://cdn.bfldr.com/YWP0W9AT/at/wp7vqsgcrtbkjhb8tgg59cw9/Technical_Academy.jpg?auto=webp&format=jpg&width=800&height=427",
+            "Subjects": [
+                {
+                    "Description": "Unleash the potential of cloud computing for scalable resource access, enabling agility in storage, computation, and application deployment.",
+                    "SubJectName": "Cloud",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "Content": [
+                        "17913de0-df49-11e6-93f3-0242c0a80605",
+                        "78af57c0-e196-11e6-93f3-0242c0a80605",
+                        "ad448a45-f6fb-483d-8052-639db011e8e4",
+                        "58040990-e29e-48df-a84a-24e968707ada",
+                        "7d8b3d01-2b73-11e7-bbbf-3b6e78cef3cf",
+                        "378eefb8-3fb8-45ca-ac33-61b68b6353a3",
+                        "f5620461-72c3-414b-a253-e0ff2dec74a4"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Cloud Platform Fundamentals Journey",
+                            "JourneyDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area. In this Journey, you will explore the the fundamentals of cloud computing, as well as AWS, Azure, and Google Cloud concepts.",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/2cwxphx8bwhrsffvstf4ptk/cloud.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "Tracks": [
+                                {
+                                    "trackName": "Technical Communication Essentials",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/sgqj33rph95z4ssw7jmhc49t/Track_0_-_Technical_communication.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Learn techniques to effectively communicate technical information in an easy-to-understand manner for a variety of audiences.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "8c25498f-b24d-4087-bdcb-c1509a5c1d86",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Core Cloud Concepts",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/q4k9m5zscfqpf4pb8qwmw3/Core_Cloud_Concepts.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "f9c69450-4a1e-4324-ad43-0380e7c41e63",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "179e7990-976a-4f2a-8e9a-0d27dc483134",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "18b15663-3e56-47d1-baab-8b6ff5cc38b0",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "ccdfadc1-d9c3-11e6-a5b1-0242c0a80503",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "224c7f65-aa85-4b68-a74f-1fa9aa03235d",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "dd93758b-f6cd-4668-aab0-441b7da05654",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "964c5e5a-1dda-44a3-b36c-41a460be2a8a",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "AWS Core Concepts",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/cxhvjc6wx3pqrg4373bj4smg/AWS_Core_Concepts.jpg?auto=webp&format=jpg&width=800&height=600",
+                                    "trackDescription": "This track is designed to help you understand Amazon Web Services and serve as an introduction to cloud computing concepts and the core AWS services.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "5f589403-5f20-48d2-8155-748bc88be933",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "e8acf57e-5069-4af1-961c-1ec2f9304465",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "8c45327f-0368-4a0d-83ee-1bb711e3cc2a",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "61a4167f-a390-4aca-9314-954d4ae53f09",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "09c18d2a-ee29-4f1a-9fe4-da0ceef04399",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c4631468-dcc8-487f-a7b8-58bb21379877",
+                                            "contentItemType": "VIDEO"
+                                        },
+                                        {
+                                            "contentItemUuid": "bbf1a7c3-3a8f-4b82-b0d0-0df27e3fbae5",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Azure Core Concepts",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/7qhf5bc5qt5hcscvz6bwmpb/Azure_Core_Concepts.jpg?auto=webp&format=jpg&width=800&height=431",
+                                    "trackDescription": "In this track, explore Azure fundamentals, tools, and storage. You will benefit from this course whether you are planning an Azure cloud adoption strategy or managing an existing Azure environment",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "e85d9f18-2c67-4290-a70f-5faa7a61621a",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "adcdc550-5c08-41f8-a8a5-96af8e0afb89",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "57de01f7-6065-4ba8-96da-135df577683c",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "c64de55c-8aa5-4297-aef6-3bf77afc06c0",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "95e74dbb-b38d-4ef3-a081-0bf8d216559f",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "14489cf9-bd3c-4754-b097-9ac3f0b7ff85",
+                                            "contentItemType": "VIDEO"
+                                        },
+                                        {
+                                            "contentItemUuid": "cc40a2c8-70a1-4adf-8d3a-c2723bb383af",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Core Google Cloud Concepts",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/7b24jhn3cwg5wn8bb8gmxgm/Core_Google_Cloud_Concepts.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "This track will help you gain an overall understanding of Google Cloud Platform, learn about GCP cloud concepts,and learn how to develop secure and scalable cloud applications using GCP services.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "d033642e-0efb-4a08-aadf-bfeaa9e62fa1",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "31561d60-ee00-4a92-977f-e3c6e2749454",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "8a4d1ae9-5a02-4b91-aa85-2deeba0191c7",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "4e658587-5d82-403c-b6be-5441314adf6e",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "aeeeed5d-73ae-456a-80c3-631aa39f55d4",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5775af15-ef53-450f-8cff-27b8ed513e8e",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "15beeb4a-51ec-472d-9030-5e5a1aca5853",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "Delve into data, machine learning, and artificial intelligence to reveal insights, predict trends, and craft intelligent systems revolutionizing decision-making.",
+                    "SubJectName": "Data / ML / AI",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/744kng5tbgjrkbxxjz7c2sms/DataMLAI.jpg?auto=webp&format=jpg&width=800&height=450",
+                    "Content": [
+                        "566a19d0-9fdf-432b-8f07-69ea67f8f77e",
+                        "f2b14792-44a7-468a-83a8-88780c228c47",
+                        "2328d879-c578-434e-8026-0d55bb298e69",
+                        "ad645560-b5a3-11e7-9235-e7f6f925afa4",
+                        "c3b14ff1-5115-11e7-b825-0db3c203a5f6",
+                        "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+                        "b4931bbc-7410-4a32-a4b1-0e722ba6c93b"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "AI Fundamentals Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/9svqt5kmrmg5ttw9bkpb7fn/data_ml_ai.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "This journey is a comprehensive program designed to provide the fundamentals of artificial intelligence and machine learning. The journey covers a wide range of topics, including the basics of AI/ML, Gen AI and its impact to everday business, Data literacy fundamentals, and the foundational elements of Deep Learning.By the end of the journey, participants will have a deep understanding of AI and its potential and will be well-equipped to make informed decisions about how to integrate AI into their organizations.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Technical Communication Essentials",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/sgqj33rph95z4ssw7jmhc49t/Track_0_-_Technical_communication.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Learn techniques to effectively communicate technical information in an easy-to-understand manner for a variety of audiences.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "8c25498f-b24d-4087-bdcb-c1509a5c1d86",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Data Literacy",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/fkc72w6vrqwb7xnh6h4z3t97/Data_Literacy.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "This track  introduces the foundational how’s and why’s of data to help you feel confident when working with data.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "980ad887-30e6-4d92-87f1-f5e29c607822",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "91362aae-6ffb-467c-a2a7-eff7317302ae",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "44338579-eab7-44e6-b2b4-f03c5c8c0af0",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "971ac6a0-c185-466d-8568-f8de0bd45651",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "141cabcd-e4db-43d4-8b24-5fbd750a713c",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "a130c31e-8efa-48fe-9656-fcf7bb084dcf",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "3280841d-0562-47f1-a360-bd00dae0c9ab",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "352d9346-0ed0-4655-90c3-8a821b7cd7ca",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "f941c80a-3743-440d-a92f-0ff3ad4e5bfb",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Gen AI",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/vgxj937ffsxj8mm69b6z2rjs/Gen_AI.jpg?auto=webp&format=jpg&width=800&height=475",
+                                    "trackDescription": "In this track, the focus will explore strategies that help leverage the power of generative AI to reshape your organization.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "6936aa1f-fbf8-4a7b-aab8-f5f1b17ef6a8",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "114f96ff-e355-4339-b925-f150bc2e5181",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "77d9460f-22b5-4c2c-8a69-d34097499a2e",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "7e9c3892-f403-4e14-8611-b93dcace2afd",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "73843ec8-a295-4b2a-9b1d-f522c7f996c0",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0cee306c-5012-484b-baae-6174f9afd291",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "AI and ML ",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/59nxnhsgppqb3fffxtsq88/AI_and_ML.jpg?auto=webp&format=jpg&width=800&height=422",
+                                    "trackDescription": "In this track, the focus will be on the data science methods and an introduction to Artificial Intelligence.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "1d44816a-bfd2-4520-ba36-bc8a568ec88e",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "44f2bd13-e426-4c32-affd-be59849916f7",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "7b3cc986-0b87-40a4-9fe1-66cc84398fe2",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "25a4415c-6493-4324-ba6b-7622eb140ea4",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "ca214e10-0387-4513-b9eb-c735f6868e8f",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "31f053a9-e3b0-4adc-919f-0dbb162cc5fd",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "7baf5616-9e73-41ff-8e24-356c1d250ba9",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Deep Learning Foundations",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/37nrgk73rw6nrwtm7m8wkj9w/Deep_Learning_Foundations.jpg?auto=webp&format=jpg&width=800&height=475",
+                                    "trackDescription": "This track will focus on what Deep Learning is, how neural networks can be implemented, trained and tuned and how to perform regression and classification tasks using Deep Learning.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "96f4daec-b5fb-45d9-a037-59ff6aa1a309",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "7a8206f4-8443-4f2e-8c1e-ebc784acc769 ",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "5c1542c2-0de8-413b-82af-6d9adc34499b",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "f431d8a6-99fc-40d3-8a35-e358876962e8",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "75d4ab03-f3f8-42d9-b60c-091da81750b7",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "48b25c58-7944-452a-a995-79554b88e8f3",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "8dad7720-0653-4554-89c7-0b415da999b8",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "f73ab177-7750-4e86-8450-3864507e3e54",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "5b0289c5-38d9-44dd-8289-6279f5ddf513",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "Fortify digital landscapes against cyber threats, ensuring the confidentiality, integrity, and availability of networks, systems, and data.",
+                    "SubJectName": "Security",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/93vcwccq2gmv94gx3hq8sk/Security.jpg?auto=webp&format=jpg&width=800&height=533",
+                    "Content": [
+                        "234e0060-e259-11e6-93f3-0242c0a80605",
+                        "51f5c3d0-e254-11e6-93f3-0242c0a80605",
+                        "78af57c0-e196-11e6-93f3-0242c0a80605",
+                        "ea2fe37b-cf70-432a-bbe7-2f0682576fc6",
+                        "8981afd1-edec-4580-90ec-92cf7f573ba2",
+                        "c9baa8a4-1862-441a-8ccd-b6942aa058d6",
+                        "f63de512-fb1c-4094-be45-f0d37e9050b1"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Cybersecurity Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/3cq9bk462crfnhkmrbc59/security.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "The internet is a growing ecosystem that is vulnerable to threats; cyber threats. To protect ourselves from threats and vulnerabilities as well as create a more secure ecosystem, we should gain insight into ways to improve our personal and enterprise security. In this Journey, you will explore the world of cybersecurity. You will learn what it is, the reason cybersecurity is so important, and ways to protect yourself from threats.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Technical Communication Essentials",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/sgqj33rph95z4ssw7jmhc49t/Track_0_-_Technical_communication.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Learn techniques to effectively communicate technical information in an easy-to-understand manner for a variety of audiences.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "8c25498f-b24d-4087-bdcb-c1509a5c1d86",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Cybersecurity Fundamentals",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/5g4spq4n8288pvqgn5m8vnx/Cybersecurity_Fundamentals.jpg?auto=webp&format=jpg&width=800&height=450",
+                                    "trackDescription": "Security is of paramount importance to network and system administrators. Explore, in-depth, aspects of cyber security in the first track of this journey.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "4dd31d02-6097-46e8-ae05-e13fb52f3238",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c7e024c7-7cb0-4ff3-b269-16ab73340ae2",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6b6fdf11-4192-4a81-82f3-b1dee8c0f608",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "cbca6d8b-e3c2-41fe-9b36-fcd639882f65",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "1dd089a0-5bb4-40d6-bad6-e8329c32f3e3",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "e8c0c86b-5a9a-46aa-b7e2-fc9e620062be",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Security Tools",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/b5r6g76rcj5j5j3nbct8m5/Security_Tools.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "This track will focus on the SecOps tool landscape, while exploring different SecOps tools, and the role of AI in SecOps.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "5c391987-51f7-4b91-81ed-67071f0687fa",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "d14f8bd8-f1d6-4a98-8434-413948547b67",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "fa014579-1da6-4e3c-8246-b80b5ab72252",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5bf1026a-3d97-423a-8f38-2f4c80c1c177",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "6697cf07-2d4e-4f70-a71a-baa32c54c0cb",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "ca80c4bc-02e2-4c14-86ff-d4d543231cfe",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "02a1696d-727e-4993-9174-1de4d06009fb",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Security Opps",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/hvf956pbbp695kr97qxnfqb/Security_Opps.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "This track will cover the fundamentals of security and cyber opperations.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "8a21d831-4ab2-429a-86dd-395fbd914cb8",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "83f48445-949c-4174-aa0e-72610e7a4b1f",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "d03ee9f0-5238-43b0-bb66-e3dd552c6614",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "d6e25fe0-4a27-11e8-b272-65677bb45939",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "6a2d2f29-4a3b-4fb5-93f1-9ccaa0e9ec82",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6af65181-c7c9-4181-b7fc-afab4cc7b87f",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "682e48b8-4101-4cb3-86bf-0932323d1d6c",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Cybersecurity Certification(CC)",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/hwc98xsfg4q3j684m6x76wq/Cybersecurity_Certification.jpg?auto=webp&format=jpg&width=800&height=450",
+                                    "trackDescription": "This track will provide foundational knowledge and skills required for an entry or junior-level cybersecurity role as you prepare for the (ISC)² Certified in Cybersecurity certification",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "12a7ae30-a3d4-4066-bd20-6030ef68cc9a",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "a325c060-ee85-4133-bdf4-182b2fcf08ed",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "59d1f207-a371-4c14-a9ea-3a37182c7059",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "f036e059-d9bc-4b4c-8b97-689f0e8edf88",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "ffc91913-0baf-4b72-a83c-1eaa356ced42",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "44cf8c5e-406a-4ac6-85b6-76456528c9e2",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "ca80c4bc-02e2-4c14-86ff-d4d543231cfe",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "Seamlessly integrate development and operations, automating processes and fostering collaboration to accelerate software delivery and enhance efficiency.",
+                    "SubJectName": "Dev Ops",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/9pnptmhhgwj9k8k37s36q36/Devops.jpg?auto=webp&format=jpg&width=800&height=450",
+                    "Content": [
+                        "475cbf12-ed11-43cd-a76b-5ee72e34e190",
+                        "85e96fab-2aaf-4c4b-a298-11b1cac646ec",
+                        "fd82e840-bd69-11e7-a0da-e757c7add120",
+                        "8d63e880-e1a4-11e6-91a7-0242c0a80704",
+                        "a65d80c0-4568-431d-a471-7fc229fd4eb6",
+                        "12659691-ac2e-45c3-ac53-7694e80b2db1",
+                        "b2587ab1-651a-4f3f-b4ae-0a18e1342052"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "DEVOPS Foundations Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/mgr9pjcgrxtsrtjjg5825b9/DevOps.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "Building DevOps Skills upskills learners to multiple modern DevOps practices for both cloud and more traditional on-premise platforms, operating systems, and associated tools. In addition, this Journey covers numerous DevOps-specific applications, platforms, tools, security, and utilities.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Technical Communication Essentials",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/sgqj33rph95z4ssw7jmhc49t/Track_0_-_Technical_communication.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Learn techniques to effectively communicate technical information in an easy-to-understand manner for a variety of audiences.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "8c25498f-b24d-4087-bdcb-c1509a5c1d86",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Core DevOps Skills",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/bg59kmj8bxm6nfj93vr8q97f/Core_Devops_Skills.jpg?auto=webp&format=jpg&width=800&height=450",
+                                    "trackDescription": "In this track, the focus will be on core DevOps principles and practices that will provide a thorough introduction to DevOps.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "e117f6f1-ad83-441c-83ff-210886054e7b",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "50827083-acfc-4467-aac6-854626617062",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5b868156-7da1-46c8-8d2a-db76a2f752aa",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "c7a1c161-47f5-428e-aac1-b582817b822f",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "ceaa1884-01cd-4201-97c6-e96becb3a475",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "ffa72325-d5d6-4c7d-8aca-bd69350a22c0",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "d504b9d2-87dc-4674-b17e-69855a4945e3",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Core DevOps Tools",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/fpr9tmnfpkb57bhtrf4jxg7x/Core_Devops_Tools.jpg?auto=webp&format=jpg&width=800&height=600",
+                                    "trackDescription": "In this track,the focus will be on several key enabling technologies, such as Chef and Jenkins.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "999e5b28-c126-4b58-8838-867456507a68",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "4c6c58c9-d697-4fa9-8a07-95e0ea2730a0",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "fe30a9c1-56b9-4cc6-b4fc-2b9012432fc4",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "69483bea-acdf-49d1-91ed-a394c5ef7c07",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "460924ee-ef03-482d-b2a4-0c7b0a1cafe4",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6e260ea3-dc88-4b1e-915e-90798290ec45",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "64b6a68b-cba5-4f9e-b56a-4fe12ddb4a39",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0cee306c-5012-484b-baae-6174f9afd291",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "DevOps Platforms and Operations",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/hvhs95vkhj4sz2rr72hcvhc/Devops_Platforms_and_Operations.jpg?auto=webp&format=jpg&width=800&height=442",
+                                    "trackDescription": "In this track, the focus will be on how several major cloud providers such as AWS, Azure, and GCP implement DevOps.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "05b06037-c41a-43bc-8e85-8d6556dcd76f",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c8baf818-861d-43d0-a5f2-37ed12ad9b00",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "a1cdc9e6-c095-4360-a1f7-bcf06f7ea72d",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "559240a3-d027-4eca-9723-f0b095e52103",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "3c5ed7c2-0a51-4146-9cba-29f32f52c4d1",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "e9524720-9cd8-494b-9bfa-613b77f44634",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "fd879f9e-c287-476e-b448-7e6a25ae3467",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0068de5f-b9ae-4431-969e-6aaaf2d988cf",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "DevOps Security",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/tmvznzf75pvbq8pftw43p47/DevOps_Security.jpg?auto=webp&format=jpg&width=800&height=450",
+                                    "trackDescription": "In this track, the focus will be around the key principles and security considerations around DevOps.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "134ce46f-803f-49b8-b5d8-d7c7b5939158",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "7d1ae9c0-1441-4367-bd6d-66bb01f760ed",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "e4a6926f-2764-47e4-aacc-b53345ecc358",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "68121b87-9902-47e4-be16-c351cdfa4ea2",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "190a7d16-4463-4b55-aca9-e36d31d0c0ae",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6e260ea3-dc88-4b1e-915e-90798290ec45",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "efb1a78e-86b1-4d88-88ba-0e2723b709b9",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "19c486f6-9506-4239-aa05-5b50801cdb55",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "AreaName": "Leadership Academy",
+            "AreaImage": "https://cdn.bfldr.com/YWP0W9AT/at/rw742spg2q88r6bh45pkpm/Leadership_Academy.jpg?auto=webp&format=jpg&width=800&height=533",
+            "Subjects": [
+                {
+                    "Description": "Analyzing the influence of new leaders in shaping success",
+                    "SubJectName": "New Leader",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/hvvq963ht97skhf8xtfs9qt/New_Leader.jpg?auto=webp&format=jpg&width=800&height=800",
+                    "Content": [
+                        "63220ef0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+                        "fb8a3782-e5c1-404b-a825-2cb01aa2da47",
+                        "8f2897d7-759c-4b84-91bc-6c346bf9c9c8",
+                        "b1edd4c0-c3ff-11e7-bfa9-ef5e1a5e569f",
+                        "85ac11a0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "8a8c741f-8d96-4e28-9e84-d77f632ed967"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "New Leader/ First Time Manager Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/qz5436pxj836nn26bknqrgtj/New_Leader.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "You are a first-time manager. Now what? Becoming a manager is one of the most critical transitions in your career, and poor leadership behaviors can take hold early. This leadership journey will deepen your understanding of what it takes to lead, develop, and achieve through others. You’ll need confidence and passion as you develop your management style and earn respect from your team on your own accord.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Unleashing Potential through People Development",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/gwhwkv73w486j6x9rrwtsxxm/track_0_-_leadership_Development.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Uncover the power of an empowered workforce, focusing on self-development and people development to drive team success and shape your organization's trajectory.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "bb431eff-2134-4b44-aff7-5404c2b584eb",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Becoming a Leader",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/f3bsmwbnnghmnsvtp4mmcrk/Becoming_a_Leader.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Making the transition from individual contributor to frontline leader can be a daunting adjustment. Moving into a leadership role involves more than just getting a new title. It means adopting a leadership mind-set, developing new skills and leadership competencies, and understanding your new relationships with those above and below you on the organizational chart.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "56d35425-7ac5-4fbe-ae1f-7754a38f40cc",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "5629d5b1-fea5-11e6-8638-0242c0a80b06",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5629fcb3-fea5-11e6-8638-0242c0a80b06",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "f3187ac0-72f2-11e8-a369-c1c5e7426ac9",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "59f6c082-1859-447f-96df-4968ab4611b9",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "b87f72c0-bfdc-11e7-81db-ea0d1d097c44",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "dc27dfb1-7ace-4151-a527-fd939fa955e6",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Developing People",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/k5fmg329qb7t392kqnbs9ns/Developing_People.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "Leaders are only as good as the people they lead. Learn how to use tailored techniques and strategies to optimize performance.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "e0179c3e-dbe4-4aa9-ab92-879253f3fa27",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c7049df7-1f28-458b-945d-5df8981332e3",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "ac318470-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "54bcc100-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "cf4cfc00-bb56-11e7-9812-e270049af744",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "3922ac5d-1bea-4898-8d4f-9c6fa9f01103",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "69df86ec-3ca4-4159-a054-54e0afbdc28b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Accountable Leaders",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/57pj3w4stjjz9xt8tmcqrv6/Accountable_Leaders.jpg?auto=webp&format=jpg&width=800&height=505",
+                                    "trackDescription": "Organizations trust their leaders to be accountable. Discover how to foster both responsibility and empowerment in yourself and your team.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "ae2e0231-6648-4b54-8576-1638d44ce24f",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "55bf88db-929d-4572-b67e-d9cca2a4d523",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "4b24fdfa-c958-11e7-8c81-9212ca48e307",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "9b5802a0-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2c7d883b-8886-45e5-8651-19160b58bba8",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "d22d4110-9ee5-11e7-8a1a-aea793b17c5c",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "caa4b880-8a12-4592-878e-6cdb6ca41ef9",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Emotional Intelligence",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/2kthhtrbvnt4rvknskj4z/Emotional_Intelligence.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "Emotional intelligence is the ability to identify and manage your own emotions. Discover strategies for becoming more self-aware. Good leaders are self-aware, and here you’ll learn how to lead with a sense of purpose, authenticity, openness, and trust.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "a96e35e0-8d74-437c-baec-505877e9163c",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "70317551-b900-45bd-a6e2-03fc33add847",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "d2852b40-9ec8-11e7-856e-ad138f9eeddf",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "4b47cb60-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "3cb562f5-3b4c-4d05-86fd-ea322e226d17",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "c7a1fb4f-26d8-491d-a273-f260e711d6d3",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "e689e101-5d8e-4763-aaab-fb87a5fe095f",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "Navigating the realm of leadership excellence as the Leader of Leaders.",
+                    "SubJectName": "Leader of Leaders",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/8zt9j9v7kk8x8rvjmrr8tpm/Leader_of_Leaders.jpg?auto=webp&format=jpg&width=800&height=450",
+                    "Content": [
+                        "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "c7de7ae0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "e3fd93a0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "abbca300-c400-11e7-bfa9-ef5e1a5e569f",
+                        "99b92020-c400-11e7-bfa9-ef5e1a5e569f",
+                        "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+                        "22f5784d-bd70-4dc2-a6a9-45285f8a1f0b"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Leader of Leaders Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/rwg4tc4zt637smpxc2qp9mj/Leader_of_Leaders.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "When you become a leader of other leaders, you reach a critical moment that requires a different kind of leadership. You will likely guide people through disruption and change. This leadership journey strengthens your ability to think strategically and shape the culture of your organization. Leading leaders can be the greatest challenge of all. Learn how to support leaders and add value to your organization.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Unleashing Potential through People Development",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/gwhwkv73w486j6x9rrwtsxxm/track_0_-_leadership_Development.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Uncover the power of an empowered workforce, focusing on self-development and people development to drive team success and shape your organization's trajectory.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "bb431eff-2134-4b44-aff7-5404c2b584eb",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Moving into Senior Leadership",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/pb7x37s668xp7bwf983pq3g9/New_Leader.jpg?auto=webp&format=jpg&width=800&height=450",
+                                    "trackDescription": "Transitioning into senior leadership can be challenging. It's about acquiring new skills, new perspectives, and leadership maturity. In this course, you’ll learn the necessary attributes of leadership maturity, the qualities needed for successful functional area management, and strategies and best practices for upper-level delegation and transition into the leadership of leaders.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "ea3667fd-189d-456f-9377-90a5903ae868",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "badfc56a-bb6b-4aa3-bb59-a67cb65f5146",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "3c8d505b-cd15-48b9-aaa6-3d4d8ee4da26",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "46f03d39-9b60-4d5e-857e-c029f2f9e6ed",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "6c74e1c8-2879-4749-a3c8-0fe90498950a",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "acc349b7-285f-4540-a5dd-48980f3b1787",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0a864e57-34f9-4d8c-a66f-8f286e164c42",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Strategic Thinking",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/kj6k5xbkc7f6ch8vbzx4xcx6/Strategic_Thinking.jpg?auto=webp&format=jpg&width=800&height=575",
+                                    "trackDescription": "How can you be more strategic as a leader? Strategic thinkers continually ask questions to help create the bridge between strategy and tactics. The role of strategic leader requires different skills and perspectives than those required by day-to-day operational leadership roles. Strategic leaders have to have vision and the ability to persuade fellow employees to undertake necessary actions to acquire the same vision.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "094a7363-2e48-42c7-9563-5856e78b2c69",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "4b24d6e2-c958-11e7-8c81-9212ca48e307",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "82f297b0-ae1f-4be4-8228-ac67153ea9a9",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "8856bed0-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "148519eb-3a40-4aae-a997-ac8b14ac164b",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "b79fa639-7e28-47dc-a3de-b23e610894ed",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "8c76e80a-ae71-4ba0-a56d-3b1e8cad3c55",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Shaping Culture",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/k5fmg329qb7t392kqnbs9ns/Developing_People.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "Today's leaders operate in a multi-cultural environment. Learn how to lead global teams to foster cross-cultural understanding.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "ae2e0231-6648-4b54-8576-1638d44ce24f",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "a41b3870-5459-11e8-bec9-135a121ada1b",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "41746210-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "470cca00-72f3-11e8-a369-c1c5e7426ac9",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2c903230-485f-11e7-9eda-4252b5a19baf",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "59f6c082-1859-447f-96df-4968ab4611b9",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "8797f1df-b6e2-4a63-80d4-3facf9f483b0",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Leading through Disruption",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/57pj3w4stjjz9xt8tmcqrv6/Accountable_Leaders.jpg?auto=webp&format=jpg&width=800&height=505",
+                                    "trackDescription": "Disruption impacts every organization. Learn strategies to effectively lead during turbulent times.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "98ce3040-aa6a-43c4-9c37-5e8206707f3e",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0c350b10-5f2d-11e8-82bf-0fdcca8e1518",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "53dc0e30-72f3-11e8-a369-c1c5e7426ac9",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "4b24afd2-c958-11e7-8c81-9212ca48e307",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5df2a8b2-c2b7-41ab-b2d0-b4250edbd5d3",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "a7437ab8-4655-4f26-9250-792fc078ec02",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "6cf17962-5217-442f-840a-e603953cc6f2",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "Guiding successful business transformations through strategic leadership.",
+                    "SubJectName": "Mid-Level Management",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/8fg4xqv2c94ckwsk3wjgr/Leading_the_Business.jpg?auto=webp&format=jpg&width=800&height=580",
+                    "Content": [
+                        "31fabed0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "daa36e70-c3ff-11e7-bfa9-ef5e1a5e569f",
+                        "c6dd2cf0-c3ff-11e7-bfa9-ef5e1a5e569f",
+                        "7362fc6c-3b4c-4c15-9325-b9c00f4e9f2b",
+                        "f4c0ead0-c3ff-11e7-bfa9-ef5e1a5e569f",
+                        "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+                        "dab3ef90-d113-4545-9dcf-f28bd260abec"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Mid-level Management Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/4x99nkh798463jrgfgx6tpm/Mid_level_management.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "As an experienced leader, you are ready to take your management skills to the next level. Success at this pivotal moment requires vision, confidence, and influence. This leadership journey expands your ability to think and act strategically. It is never too late to develop leadership skills.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Unleashing Potential through People Development",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/gwhwkv73w486j6x9rrwtsxxm/track_0_-_leadership_Development.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Uncover the power of an empowered workforce, focusing on self-development and people development to drive team success and shape your organization's trajectory.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "bb431eff-2134-4b44-aff7-5404c2b584eb",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Moving into Middle Management",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/r9p4gc7vrncpcmpnwf6x3h93/Moving_to_Mid-Level_Management.jpg?auto=webp&format=jpg&width=800&height=506",
+                                    "trackDescription": "The transition from frontline manager to middle manager can be difficult for many people. The added leadership responsibilities and new relationships, and their inherent challenges, can prove daunting. However, the necessary leadership skills for mastering them can be learned and developed.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "f3d0fb58-da7b-4003-b08f-0ced665c74c8",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "f2e55dfb-c6a7-4412-820b-92d884e5e684",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "aa07e132-bdc6-4fc6-bb0e-4a6ed0e1ace1",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2efc2460-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2af4a36f-a011-4afa-ba8b-5de14bec149f",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "82926a50-a0ff-4689-99cc-37394132b8a2",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "4fce8d27-b9f4-42d2-bbd4-0d8ec897b968",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Leading Innovation",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/x4gxfc74m34c39ksnmr6xf/Leading_Innovation.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "The success of your organization depends on its ability to innovate and keep innovating. Help your team unleash its creative potential.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "5cff7b18-e837-40aa-aeb9-0092ffb850e2",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "386ab1c9-4d56-42cf-bca5-3fbf216ec687",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "b4d08c70-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "206391da-565a-45a7-bcdb-3d595022dcf7",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "3fb48dc5-ab4a-4f8f-a4a7-6b9415490e6b",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "6942967c-ae35-44b7-8ee8-330f1cdf678a",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "638bb530-429a-4837-a9a7-3a67dea5c0ed",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Influence and Persuasion",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/xk68sq68trm6x92fhtcqsw7q/Influence_and_Persuasion.jpg?auto=webp&format=jpg&width=800&height=503",
+                                    "trackDescription": "To drive your ideas forward, you need to positively influence and persuade decision makers. Discover methods and strategies for effectively influencing a team to accept your ideas. Learn the importance of political awareness and the essential skills involved in utilizing positive influence, while avoiding the negative, when persuading others.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "b3aefa9f-75dc-47e8-a05a-8a33f8b96a17",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "4b24d6ee-c958-11e7-8c81-9212ca48e307",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "923090c0-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "46f03d39-9b60-4d5e-857e-c029f2f9e6ed",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2c7d883b-8886-45e5-8651-19160b58bba8",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "01d538c9-c4e0-43be-84dd-d6a3421139f5",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "0a864e57-34f9-4d8c-a66f-8f286e164c42",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Collaboration",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/pxq46rb6prqj9v7jgmcrqvh/Collaboration.jpg?auto=webp&format=jpg&width=800&height=525",
+                                    "trackDescription": "Strong collaboration is vital to creating and sustaining competitive advantage. Foster collaboration among your teams for growth and innovation. Today, collaboration is a big theme in business because it works. Here, you’ll learn how to leverage your staff's individual talents and create a more cohesive work environment.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "0a23cf8a-1f08-4ec5-8a4b-478509746f23",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "0992b7b1-66bd-4e20-a15b-541af3336535",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "f035da49-a070-45b7-a197-9c99884df8f8",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2e1300c0-9ec6-11e7-8a06-490c4f736080",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "16bdea7c-86a6-4281-83f8-c7def070bd89",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "bd35db83-cc28-4fc8-947c-916f023abde2",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6cf17962-5217-442f-840a-e603953cc6f2",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Description": "In our ever-changing business world, the successful organization is the one that innovates successfully – survival depends on it. Innovation leadership plays a pivotal role by developing and supporting a culture that is open to a creative, innovative mindset. A culture of innovation creates incentives for employees and leads to an increase in the innovative strength of the company.",
+                    "SubJectName": "Leading a Business Transformation",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/4mhc639wjhhhg5qtpvchkfr/Leading_a_Business_Transformation.jpg?auto=webp&format=jpg&width=800&height=521",
+                    "Content": [
+                        "99b92020-c400-11e7-bfa9-ef5e1a5e569f",
+                        "e3fd93a0-c400-11e7-bfa9-ef5e1a5e569f",
+                        "06720340-e71a-11e6-9835-f723b46a2688",
+                        "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+                        "9126acd0-dc1e-11e7-9fe8-1b7f5fcc733d",
+                        "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+                        "a97e1672-1154-43f7-b8ae-1aa7cb1f7853"
+                    ],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Leading a Business Transformation Journey",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/98vrn84zfj8hq9xhhwbgv6cf/Leading_a_business_transformation.jpg?auto=webp&format=jpg&width=800&height=450",
+                            "JourneyDescription": "In our ever-changing business world, the successful organization is the one that innovates successfully – survival depends on it. Innovation leadership plays a pivotal role by developing and supporting a culture that is open to a creative, innovative mindset. A culture of innovation creates incentives for employees and leads to an increase in the innovative strength of the company.",
+                            "Tracks": [
+                                {
+                                    "trackName": "Unleashing Potential through People Development",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/gwhwkv73w486j6x9rrwtsxxm/track_0_-_leadership_Development.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Uncover the power of an empowered workforce, focusing on self-development and people development to drive team success and shape your organization's trajectory.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "bb431eff-2134-4b44-aff7-5404c2b584eb",
+                                            "contentItemType": "COURSE"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Change Management",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/3ffsqvzhg5wxs5p6nnnnnmc/Change_Management.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "Leading others through change is a critical leadership capability. Learn the skills and adopt the attributes to become an effective change leader for successful change management.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "3423431f-e23b-4fc0-b365-855875e185b8",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "6321968f-4d1f-11e7-9a6a-bef7011cdcad",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "0a07a6d0-ce3d-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2dec4347-81cd-456b-bf7a-b9bbf2b92c23",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "2af4a36f-a011-4afa-ba8b-5de14bec149f",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "1b6009b0-b5e0-11e7-9103-0a2959e30b42",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "1fd8c256-78b7-4d38-a354-d9feaa68330b",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Risk Management",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/gqss35fsfgjpk78s5hxv28b/Risk_Management.jpg?auto=webp&format=jpg&width=800&height=533",
+                                    "trackDescription": "Managing risk well requires identifying risk factors, evaluating potential impacts, and developing risk mitigation plans. Expand your knowledge. Learn how to identify, assess, and prioritize risks and uncertainties while minimizing, monitoring, and controlling the impact of risk realities. Explore effective risk management strategies.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "9148bda7-67f3-4ce6-992f-6c9edde504db",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "c54ff100-f092-4322-a01b-f0398d65c7d5",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "cde5d9d0-b95c-4ba5-91a4-056010fc0e0f",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "c7cdde17-2ffa-4530-bd4e-62785265d8d9",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "3fb48dc5-ab4a-4f8f-a4a7-6b9415490e6b",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "8afe8d8c-12ee-4c57-8d60-cd2af4527ca0",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "caa4b880-8a12-4592-878e-6cdb6ca41ef9",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Leadership in the age of AI",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/h7h4g2v596h7kj6j2mxmk/Leadership_in_the_Age_of_AI.jpg?auto=webp&format=jpg&width=800&height=534",
+                                    "trackDescription": "Artificial intelligence has forever changed the way that businesses operate. Leaders who embrace AI and other digital transformation technologies can help increase success within their organization.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "9a4ab906-9a48-4d77-864d-155c51282e47",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "bc468bb8-21bc-483a-a30f-a1d8f0579312",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "751d8a74-041f-450c-b1fa-b4623a6c4133",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "090c29a9-fb31-4fe0-9f18-80b4cd25164d",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "82a81658-9f51-423d-a3b8-96bf323cc728",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "8c591a56-1c1d-4d20-a4fe-24ad269b50f2",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "0cee306c-5012-484b-baae-6174f9afd291",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "Leading Organizational Vision",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/3n9rh5b4brpvnkf56qr6nx9/Leading_Organizational_Vision.jpg?auto=webp&format=jpg&width=800&height=547",
+                                    "trackDescription": "Every leader needs to create a vision for their teams to ensure alignment. Learn how to lead with vision to get results.",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "9a4ab906-9a48-4d77-864d-155c51282e47",
+                                            "contentItemType": "ASSESSMENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "8a9921b4-f2c2-4d3b-83ad-f2e470f38aae",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "a07a4683-cb0a-4099-9d6c-2ccd4284c5ff",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "dfec29a0-ce3e-11e7-845b-9d7d00b83945",
+                                            "contentItemType": "COURSE"
+                                        },
+                                        {
+                                            "contentItemUuid": "5efd66c9-8f6d-4d3f-9ca1-8818f31d4a40",
+                                            "contentItemType": "BOOK"
+                                        },
+                                        {
+                                            "contentItemUuid": "0719de72-768a-433a-aeaf-983b94658b07",
+                                            "contentItemType": "SCHEDULED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "11da48bd-f69b-4bc5-9922-67c708f81011",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "customContent",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "loginName": "Jonathan_Tan",
+    "currentRoleName": "Marketing Associate",
+    "aspirationalRoleName": "Product Marketing Manager",
+    "currentFocusSkills": [
+      {
+        "skillName": "Digital Marketing",
+        "selfRating": 4
+      },
+      {
+        "skillName": "Collaboration and Teamwork",
+        "selfRating": 0
+      },
+      {
+        "skillName": "Verbal Communication",
+        "selfRating": 1
+      },
+      {
+        "skillName": "Brand and Marketing Strategy",
+        "selfRating": 3
+      },
+      {
+        "skillName": "Consumer Research and Insights",
+        "selfRating": 2
+      }
+    ],
+    "aspirationalFocusSkills": [
+      {
+        "skillName": "Product Marketing",
+        "selfRating": 1
+      },
+      {
+        "skillName": "Influence and Persuasion",
+        "selfRating": 0
+      },
+      {
+        "skillName": "Market and Customer Insight Analysis",
+        "selfRating": 1
+      },
+      {
+        "skillName": "Marketing Strategy and Planning",
+        "selfRating": 3
+      },
+      {
+        "skillName": "Competitive Intelligence and Scenario Planning",
+        "selfRating": 0
+      }
+    ],
+    "currentBenchmarks": [
+      {
+        "title": "Written Communication",
+        "benchmarkId": "c77b44e8-8d5a-4e0f-92ab-80d2d551cdff",
+        "mappedSkill": "Written Communication"
+      },
+      {
+        "title": "Managing Conflict",
+        "benchmarkId": "feac39ca-c7ea-4671-882f-c4b3926bbafb",
+        "mappedSkill": "Conflict Management and Resolution"
+      },
+      {
+        "title": "Time Management & Managing Priorities",
+        "benchmarkId": "f3d0fb58-da7b-4003-b08f-0ced665c74c8",
+        "mappedSkill": "Time Management"
+      }
+    ],
+    "aspirationalBenchmarks": [
+      {
+        "title": "Marketing Essentials",
+        "benchmarkId": "d59e03f7-0a91-4af6-a000-aab7af83d2a9",
+        "mappedSkill": "Marketing Strategy and Planning"
+      },
+      {
+        "title": "Strategic Thinking",
+        "benchmarkId": "094a7363-2e48-42c7-9563-5856e78b2c69",
+        "mappedSkill": "Strategic Thinking and Planning"
+      },
+      {
+        "title": "Business Acumen",
+        "benchmarkId": "a1d5f0e7-8e4f-44c5-b628-a717761858b3",
+        "mappedSkill": "Business Environment and Industry Knowledge"
+      }
+    ],
+    "currentCourses": [
+      {
+        "title": "The Four Ps: Essential Factors in Marketing",
+        "courseId": "b0685e4f-3503-4c75-9fa5-b1e6a657d35e",
+        "mappedSkill": "Marketing"
+      },
+      {
+        "title": "Predictive Analytics: Case Studies for Marketing & Retail",
+        "courseId": "06da7a04-0b27-4b63-afc9-7bf189cb2ebe",
+        "mappedSkill": "Consumer Research and Insights"
+      },
+      {
+        "title": "Content Design",
+        "courseId": "42a73cbb-ff7d-11e6-8638-0242c0a80b06",
+        "mappedSkill": "Content Creation and Management"
+      }
+    ],
+    "aspirationalCourses": [
+      {
+        "title": "Building Trust: Ethics and the Marketing Mix",
+        "courseId": "c1ef499f-7c46-4f10-95cc-baf6ba40ec3a",
+        "mappedSkill": "Influence and Persuasion"
+      },
+      {
+        "title": "Core Concepts in Technical Product Management",
+        "courseId": "d8f1f0e2-848b-4e46-b26e-2fd84891a78d",
+        "mappedSkill": "Cross-Functional Collaboration and Communication (PM)"
+      },
+      {
+        "title": "Marketing Fundamentals: Who Is Your Customer?",
+        "courseId": "7feb7a8a-866b-4bbe-af21-e1e81caf5eee",
+        "mappedSkill": "Marketing Strategy and Planning"
+      }
+    ]
+  }
+]

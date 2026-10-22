@@ -1,0 +1,96 @@
+{
+    "data": {
+        "JourneyData": [
+            {
+                "JourneyName": "Tools and Resources Custom Journey",
+                "TrackName": [
+                    "Welcome to the team",
+                    "Knowledge resources and templates"
+                ]
+            },
+            {
+                "JourneyName": "Cloud Platform Fundamentals Journey",
+                "TrackName": [
+                    "Technical Communication Essentials"
+                ]
+            },
+            {
+                "JourneyName": "AI Fundamentals Journey",
+                "TrackName": [
+                    "Technical Communication Essentials"
+                ]
+            },
+            {
+                "JourneyName": "Cybersecurity Journey",
+                "TrackName": [
+                    "Technical Communication Essentials"
+                ]
+            },
+            {
+                "JourneyName": "DEVOPS Foundations Journey",
+                "TrackName": [
+                    "Technical Communication Essentials"
+                ]
+            },
+            {
+                "JourneyName": "New Leader/ First Time Manager Journey",
+                "TrackName": [
+                    "Unleashing Potential through People Development"
+                ]
+            },
+            {
+                "JourneyName": "Leader of Leaders Journey",
+                "TrackName": [
+                    "Unleashing Potential through People Development"
+                ]
+            },
+            {
+                "JourneyName": "Mid-level Management Journey",
+                "TrackName": [
+                    "Unleashing Potential through People Development"
+                ]
+            },
+            {
+                "JourneyName": "Leading a Business Transformation Journey",
+                "TrackName": [
+                    "Unleashing Potential through People Development"
+                ]
+            },
+            {
+                "JourneyName": "Onboarding Production Employee Custom Journey",
+                "TrackName": [
+                    "Welcome to the team"
+                ]
+            },
+            {
+                "JourneyName": "Onboarding Software Engineer Custom Journey",
+                "TrackName": [
+                    "Welcome to the team"
+                ]
+            },
+            {
+                "JourneyName": "Onboarding Retail Employee Custom Journey",
+                "TrackName": [
+                    "Welcome to the team"
+                ]
+            },
+            {
+                "JourneyName": "Onboarding Maintenence Employee Custom Journey",
+                "TrackName": [
+                    "Welcome to the team"
+                ]
+            },
+            {
+                "JourneyName": "Onboarding Sales Associate Custom Journey",
+                "TrackName": [
+                    "Welcome to the team"
+                ]
+            }
+        ],
+        "AssignmentData": [
+            "Employee Wellness",
+            "Workplace Security",
+            "Set Your workspace up for Success"
+        ]
+    }
+}

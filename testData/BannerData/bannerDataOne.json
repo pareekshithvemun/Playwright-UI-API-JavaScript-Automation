@@ -1,0 +1,172 @@
+{
+    "BannerData": [
+        {
+            "BannerName": "DevOps Awareness (Entry Level)",
+            "contentUUID": "e117f6f1-ad83-441c-83ff-210886054e7b",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Considerations for Using AI Responsibly",
+            "contentUUID": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+            "ContentType": "AI SIMULATOR",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "DevOps Core Concepts",
+            "contentUUID": "fd82e840-bd69-11e7-a0da-e757c7add120",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Foundations and Guardrails for Generative AI",
+            "contentUUID": "1d44816a-bfd2-4520-ba36-bc8a568ec88e",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Big Data",
+            "contentUUID": "9dde2340-dc1e-11e7-9fe8-1b7f5fcc733d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Cybersecurity",
+            "contentUUID": "234e0060-e259-11e6-93f3-0242c0a80605",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Investigating a Cybersecurity Breach",
+            "contentUUID": "19c486f6-9506-4239-aa05-5b50801cdb55",
+            "ContentType": "AI SIMULATOR",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Security Literacy (Beginner)",
+            "contentUUID": "4dd31d02-6097-46e8-ae05-e13fb52f3238",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Cloud Computing for Decision-makers and Leaders",
+            "contentUUID": "f5620461-72c3-414b-a253-e0ff2dec74a4",
+            "ContentType": "ASPIRE JOURNEY",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Cloud Architect Literacy (Beginner Level)",
+            "contentUUID": "f9c69450-4a1e-4324-ad43-0380e7c41e63",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "CloudOps",
+            "contentUUID": "58040990-e29e-48df-a84a-24e968707ada",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "The Agile Leader",
+            "contentUUID": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Developing Others",
+            "contentUUID": "e0179c3e-dbe4-4aa9-ab92-879253f3fa27",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Developing People",
+            "contentUUID": "69df86ec-3ca4-4159-a054-54e0afbdc28b",
+            "ContentType": "AI SIMULATOR",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Leading Your Team",
+            "contentUUID": "1593dc39-edc2-4dba-b7fa-aeff627942a1",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Building & Leading Teams",
+            "contentUUID": "bbeb65e0-c400-11e7-bfa9-ef5e1a5e569f",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Lead the Team – Leadership Influence",
+            "contentUUID": "0a864e57-34f9-4d8c-a66f-8f286e164c42",
+            "ContentType": "AI SIMULATOR",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Influence & Persuasion",
+            "contentUUID": "b3aefa9f-75dc-47e8-a05a-8a33f8b96a17",
+            "ContentType": "SKILL BENCHMARK",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Digital Visionary Mindset Journey",
+            "contentUUID": "dab3ef90-d113-4545-9dcf-f28bd260abec",
+            "ContentType": "ASPIRE JOURNEY",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Leadership in the Age of AI",
+            "contentUUID": "69731c47-4d60-4fa1-9f4e-7c0e99b18c7d",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        },
+        {
+            "BannerName": "Leadership Simulations",
+            "contentUUID": "23e8292c-ab10-4a5b-90ac-d8e9ed6de253",
+            "ContentType": "CHANNEL",
+            "BannerAudience": "Region",
+            "BannerLocale": "English (US)",
+            "BannerDuration": 30
+        }
+    ]
+}

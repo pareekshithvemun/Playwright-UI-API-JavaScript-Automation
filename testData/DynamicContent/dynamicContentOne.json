@@ -1,0 +1,586 @@
+[
+    {
+        "dynamicContentTitle": "Generative AI Enablement - final",
+        "dynamicContentDescription": "Generative AI is a critical disruption that every organization and employee must face. Thus it is imperative that we skill ourselves in this area and equip ourselves to be AI literate and ready to leverage on the benefits it brings. ",
+        "dynamicContentInstruction": "You will be presented with a questionnaire that will help to provide you a targetted lerning approach in skilling yourself on Generative AI. Kindly answer all the questions and you will be assigned to a learning path that best suits your skilling needs.",
+        "dynamicContentImageUrl": "https://cdn2.percipio.com/public/c/public/images/customDynamicContent.jpg",
+        "questionsandAnswers": [
+            {
+                "questionText": "Are you a manager or an individual contributor?",
+                "order": "1",
+                "answers": [
+                    "Manager",
+                    "Individual Contributor"
+                ],
+                "subtype": "STANDARD",
+                "locale": "en-US",
+                "selectType": "single",
+                "displayType": "radio"
+            },
+            {
+                "parent": "Individual Contributor",
+                "questionText": "Which department are you from?",
+                "order": "1",
+                "answers": [
+                    "Product Management",
+                    "Solution Architect",
+                    "Sales",
+                    "Finance",
+                    "Sales Support"
+                ],
+                "subtype": "STANDARD",
+                "locale": "en-US",
+                "selectType": "single",
+                "displayType": "radio"
+            },
+            {
+                "parent": "Product Management",
+                "questionText": "Which product team are you from?",
+                "order": "1",
+                "answers": [
+                    "UI/UX",
+                    "Analytics",
+                    "Skills Benchmark",
+                    "CAISY"
+                ],
+                "subtype": "STANDARD",
+                "locale": "en-US",
+                "selectType": "single",
+                "displayType": "radio"
+            },
+            {
+                "parent": "Sales",
+                "questionText": "Which sales function do you belong to?",
+                "order": "1",
+                "answers": [
+                    "Acquisition",
+                    "Growth",
+                    "Channels & Alliance"
+                ],
+                "subtype": "STANDARD",
+                "locale": "en-US",
+                "selectType": "single",
+                "displayType": "radio"
+            },
+            {
+                "parent": "Sales Support",
+                "questionText": "Which Sales Support function do you belong to?",
+                "order": "1",
+                "answers": [
+                    "Sales Enablement",
+                    "Customer Success",
+                    "Professional Services",
+                    "Marketing"
+                ],
+                "subtype": "STANDARD",
+                "locale": "en-US",
+                "selectType": "single",
+                "displayType": "radio"
+            }
+        ],
+        "contentForEachAnswer": [
+            {
+                "question": "Are you a manager or an individual contributor?",
+                "answer": "Manager",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "bc468bb8-21bc-483a-a30f-a1d8f0579312",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "ee3c3dca-87bd-451b-af3b-0cacf548661a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "751d8a74-041f-450c-b1fa-b4623a6c4133",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "83ad7c64-5f50-44a7-85b0-38b2f31cb80f",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "78e04f73-24d1-4d7e-bfe7-ca79de73be85",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "6aafb964-a22a-4ff1-9819-a89b50cb6eaf",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "d19d104a-6980-4c3d-9f4e-186860e671c5",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which product team are you from?",
+                "answer": "UI/UX",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "182fc6c4-88e2-4639-a67b-6cececc2b669",
+                                "contentType": "LINKED_CONTENT"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "44a7dbde-8709-4776-82b8-3062d27c87ba",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which product team are you from?",
+                "answer": "Analytics",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "83842843-cf66-4198-90e7-be9871f92d47",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "44a7dbde-8709-4776-82b8-3062d27c87ba",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which product team are you from?",
+                "answer": "Skills Benchmark",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "83842843-cf66-4198-90e7-be9871f92d47",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "44a7dbde-8709-4776-82b8-3062d27c87ba",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which product team are you from?",
+                "answer": "CAISY",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "8c49076d-0cce-4a89-8761-f48b7a4ba919",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "83842843-cf66-4198-90e7-be9871f92d47",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "13fc834b-3e49-458a-b235-3e6b4d405d23",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "44a7dbde-8709-4776-82b8-3062d27c87ba",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c6060c84-1070-4c2c-8a26-50ef10102991",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which department are you from?",
+                "answer": "Solution Architect",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "ea1667ed-1d22-4b21-9527-739e1a6d120b",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "114f96ff-e355-4339-b925-f150bc2e5181",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "ef91b5f3-a8bb-4af4-be06-3574b095ecf5",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e3689af7-1047-45c0-86c5-54df82f0ebef",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e5123f21-d79d-413a-9b43-eb23f108b8e5",
+                                "contentType": "LINKED_CONTENT"
+                            },
+                            {
+                                "contentId": "eb74d9a9-e6d9-4c55-8ea0-15f4a31840b4",
+                                "contentType": "LINKED_CONTENT"
+                            },
+                            {
+                                "contentId": "30352edf-f389-40f1-9696-4df95ce176fa",
+                                "contentType": "LINKED_CONTENT"
+                            },
+                            {
+                                "contentId": "1fea0017-3148-4343-abff-30bbf222d544",
+                                "contentType": "LINKED_CONTENT"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which sales function do you belong to?",
+                "answer": "Acquisition",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c23caf25-63c4-4330-920d-8d5d2b0bf8ea",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "845b7060-f602-48f9-8f4d-c4ccac1a514a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "1cf2057a-ff0d-423d-af89-b1a7628af057",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which sales function do you belong to?",
+                "answer": "Growth",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c23caf25-63c4-4330-920d-8d5d2b0bf8ea",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which sales function do you belong to?",
+                "answer": "Channels & Alliance",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c23caf25-63c4-4330-920d-8d5d2b0bf8ea",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "ef759deb-8acd-4e29-957c-b2c2538cf45a",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which department are you from?",
+                "answer": "Finance",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "182fc6c4-88e2-4639-a67b-6cececc2b669",
+                                "contentType": "LINKED_CONTENT"
+                            },
+                            {
+                                "contentId": "845b7060-f602-48f9-8f4d-c4ccac1a514a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "13fc834b-3e49-458a-b235-3e6b4d405d23",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which Sales Support function do you belong to?",
+                "answer": "Sales Enablement",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c23caf25-63c4-4330-920d-8d5d2b0bf8ea",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which Sales Support function do you belong to?",
+                "answer": "Customer Success",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "c23caf25-63c4-4330-920d-8d5d2b0bf8ea",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "1cf2057a-ff0d-423d-af89-b1a7628af057",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which Sales Support function do you belong to?",
+                "answer": "Professional Services",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "cba3bb32-bcac-4089-87f1-207516edc23a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "53560257-5b7c-4aaa-8c23-a3a5eec18cb2",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "13fc834b-3e49-458a-b235-3e6b4d405d23",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "849e6ffc-7a11-499e-b7b3-faad6603a2a7",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "ef759deb-8acd-4e29-957c-b2c2538cf45a",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "question": "Which Sales Support function do you belong to?",
+                "answer": "Marketing",
+                "locale": "en-US",
+                "mappedContent": [
+                    {
+                        "content": [
+                            {
+                                "contentId": "4c1b7754-76eb-420c-8d69-521af23a737a",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "e9c50463-2f45-4832-bb41-1fedd142ea99",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "5f1993b8-e4d7-4f82-9b59-342dc3e0473d",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "4081cbac-006a-4c65-a49e-c1021b547d84",
+                                "contentType": "COURSE"
+                            },
+                            {
+                                "contentId": "1cf2057a-ff0d-423d-af89-b1a7628af057",
+                                "contentType": "COURSE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

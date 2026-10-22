@@ -1,0 +1,16 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://platformtest.percipio.com",
+    "orgId": "4108f1f2-4911-4a86-b521-421caa5cea6a",
+    "attributeName": [
+      "Region",
+      "Department",
+      "Job Title"
+    ]
+  },
+  "Admindata": {
+    "loginID": "kowshik.bikkina@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  }
+}

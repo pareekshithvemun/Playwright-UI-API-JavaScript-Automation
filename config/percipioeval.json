@@ -1,0 +1,16 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://percipioeval.percipio.com",
+    "orgId": "6d94e49b-81f0-4274-a389-92c996cde9de",
+    "attributeName": [
+      "Region",
+      "Department",
+      "Job Title"
+    ]
+  },
+  "Admindata": {
+    "loginID": "kowshik.bikkina@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  }
+}

@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Software Project Management (Intermediate)",
+    "workspaceName": "Kowshik",
+    "projectName": "Automation",
+    "containerType": "assessments",
+    "assessmentData": {
+      "title": "Software Project Management (Intermediate)",
+      "description": "Assesses the ability to manage software projects by analyzing lifecycle phases, applying methodologies like Agile or Waterfall, and addressing risks with effective strategies.",
+      "assessmentType": "Skill Benchmark",
+      "expertiseLevel": "Beginner",
+      "duration": 45,
+      "altText": "",
+      "technologyType": "",
+      "technologyVersion": "",
+      "skillname": [
+        "Software Project Management"
+      ],
+      "proficiencyLevel": "Intermediate",
+      "configuration": 2,
+      "selectedQuestionType": [
+        "MULTIPLE_CHOICE_MULTI_SELECT"
+      ],
+      "numberOfQuestions": 3,
+      "additionalInformation": "",
+      "contentSource": "Custom",
+      "difficultyLevel": [
+        "Beginner"
+      ]
+    },
+    "learningObjectives": [
+      "Analyze the key phases of the software project lifecycle and their interdependencies",
+      "Apply project management methodologies such as Agile or Waterfall to software development projects",
+      "Evaluate risk management strategies to identify and mitigate potential project risks",
+      "Develop project schedules using tools like Gantt charts or project management software",
+      "Monitor and assess project progress using performance metrics and reporting techniques"
+    ],
+    "recommendations": [
+      {
+        "contentName": "Customer Service Simulations",
+        "contentType": "CHANNEL"
+      }
+    ]
+  },
+  {
+    "title": "Agile Project Management (Advanced)",
+    "workspaceName": "Kowshik",
+    "projectName": "Agile Testing",
+    "containerType": "assessments",
+    "assessmentData": {
+      "title": "Agile Project Management (Advanced)",
+      "description": "Advanced assessment covering Agile methodologies, Scrum practices, and iterative development approaches for experienced project managers.",
+      "assessmentType": "Skill Benchmark",
+      "expertiseLevel": "Advanced",
+      "duration": 60,
+      "altText": "",
+      "technologyType": "",
+      "technologyVersion": "",
+      "skillname": [
+        "Agile Project Management"
+      ],
+      "proficiencyLevel": "Advanced",
+      "configuration": 2,
+      "selectedQuestionType": [
+        "MULTIPLE_CHOICE_MULTI_SELECT"
+      ],
+      "numberOfQuestions": 5,
+      "additionalInformation": "Focus on Scrum methodology and sprint planning",
+      "contentSource": "Custom",
+      "difficultyLevel": [
+        "Advanced"
+      ]
+    },
+    "learningObjectives": [
+      "Apply Scrum framework principles and practices effectively",
+      "Facilitate sprint planning and retrospective meetings",
+      "Manage product backlogs and user stories efficiently",
+      "Implement continuous integration and delivery practices",
+      "Lead cross-functional agile teams through iterative development cycles"
+    ],
+    "recommendations": [
+      {
+        "contentName": "Customer Service Simulations",
+        "contentType": "CHANNEL"
+      }
+    ]
+  },
+  {
+    "title": "Understanding the Akara OneTouch Digital Customer Experience",
+    "workspaceName": "Kowshik",
+    "projectName": "Akara Digital Customer Experience Launch",
+    "containerType": "assessments",
+    "documentNames": [
+      "Akara_OneTouch_FAQ",
+      "Akara_OneTouch_Product_Overview",
+      "Akara_OneTouch_Frontline_Agent_Script"
+    ],
+    "assessmentData": {
+      "title": "Understanding the Akara OneTouch Digital Customer Experience",
+      "description": "This benchmark evaluates your ability to navigate and support the Akara OneTouch Digital Customer Experience. It measures your understanding of key features, benefits, and service distinctions while testing your skills in addressing customer inquiries, troubleshooting issues, and determining appropriate escalation paths. Demonstrating proficiency ensures you can deliver seamless and effective digital support.",
+      "assessmentType": "Skill Benchmark",
+      "expertiseLevel": "Intermediate",
+      "duration": 8,
+      "altText": "",
+      "technologyType": "",
+      "technologyVersion": "",
+      "skillname": [
+        "Customer Service"
+      ],
+      "proficiencyLevel": "Intermediate",
+      "configuration": 2,
+      "selectedQuestionType": [
+        "MULTIPLE_CHOICE",
+        "MULTIPLE_CHOICE_MULTI_SELECT",
+        "SCENARIO_BASED",
+        "MATCHING"
+      ],
+      "numberOfQuestions": 1,
+      "additionalInformation": "This assessment evaluates frontline Customer Service Agents on their ability to promote the OneTouch Digital Customer Experience positively, handle customer inquiries, troubleshoot issues, and make escalation decisions regarding the Akara Digital Customer Experience. It consists of 8 questions, provides instant feedback, and is accessible on mobile devices",
+      "contentSource": "Custom",
+      "difficultyLevel": [
+        "Moderate",
+        "Difficult"
+      ]
+    },
+    "learningObjectives": [
+      "Understand the Akara OneTouch Digital Customer Experience, including its key features and customer benefits",
+      "Distinguish between self‑service actions and agent‑assisted support within the OneTouch platform",
+      "Apply appropriate responses to common customer inquiries using approved Akara messaging",
+      "Determine when issues require escalation to specialized support"
+    ],
+    "recommendations": [
+      {
+        "contentName": "Customer Service Simulations",
+        "contentType": "CHANNEL"
+      },
+      {
+        "contentName": "Customer Service: Interpreting Customers' Service Priorities",
+        "contentType": "COURSE"
+      }
+    ]
+  }
+]

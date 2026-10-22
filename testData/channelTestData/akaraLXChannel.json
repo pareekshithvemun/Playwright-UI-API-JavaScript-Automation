@@ -1,0 +1,32 @@
+{
+  "channelsInfo": [
+    {
+      "channelName": "Akara Products",
+      "channelDescription": "Find all Learning Content and Documentation related to Akara Products",
+      "channelImage": "https://cdn2.percipio.com/public/eu/custom-content/0d8a3549-a44e-4383-a53e-b77fb91d3d6e/public/images/saved/5a080ffd-4ee3-42a6-8dc5-1032673f479e/boxes.jpg",
+      "channelContent": [
+        {
+          "contentItemUuid": "Understanding the Akara OneTouch Digital Customer Experience",
+          "contentItemType": "ASSESSMENT"
+        },
+        {
+          "contentItemUuid": "Empowering Our Customers Through OneTouch",
+          "contentItemType": "COURSE"
+        },
+        {
+          "contentItemUuid": "Supporting Customers Through OneTouch Digital Onboarding",
+          "contentItemType": "LINKED_CONTENT"
+        },
+        {
+          "contentItemUuid": "Digital Customer Experience Launch",
+          "contentItemType": "LINKED_CONTENT"
+        }
+      ],
+      "AreaName": "Productivity & Collaboration Tools",
+      "SubjectName": [
+        "Productivity Tools"
+      ],
+      "linkedContentData": []
+    }
+  ]
+}

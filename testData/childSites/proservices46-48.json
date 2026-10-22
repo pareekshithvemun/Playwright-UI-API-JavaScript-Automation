@@ -1,0 +1,125 @@
+[
+    {
+        "orgName": "proservices46",
+        "domain": "proservices46",
+        "displayName": "",
+        "brandKey": "default",
+        "badgingMasterSwitch": true,
+        "contractedGB": "0.0000000000",
+        "orgType": "internal",
+        "contractValueUSD": 0,
+        "props": {
+            "dataCenter": "US",
+            "hccEnabled": true
+        },
+        "compliance": {
+            "complianceFeatureEnabled": true,
+            "academyOrgId": "",
+            "externalReferenceTypeId": 2
+        },
+        "admin": {
+            "firstName": "Reegan",
+            "lastName": "McDougall",
+            "email": "reegan.mcdougall@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        },
+        "adminUserCreated": true,
+        "deploymentId": 50,
+        "seatsPerPool": 100,
+        "parentUrl": "https://proservices.percipio.com",
+        "siteUser": {
+            "firstName": "Nirmala",
+            "lastName": "Gopalakrishnan",
+            "email": "Nirmala.Gopalakrishnan@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        }
+    },
+    {
+        "orgName": "proservices47",
+        "domain": "proservices47",
+        "displayName": "",
+        "brandKey": "default",
+        "badgingMasterSwitch": true,
+        "contractedGB": "0.0000000000",
+        "orgType": "internal",
+        "contractValueUSD": 0,
+        "props": {
+            "dataCenter": "US",
+            "hccEnabled": true
+        },
+        "compliance": {
+            "complianceFeatureEnabled": true,
+            "academyOrgId": "",
+            "externalReferenceTypeId": 2
+        },
+        "admin": {
+            "firstName": "Reegan",
+            "lastName": "McDougall",
+            "email": "reegan.mcdougall@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        },
+        "adminUserCreated": true,
+        "deploymentId": 50,
+        "seatsPerPool": 100,
+        "parentUrl": "https://proservices.percipio.com",
+        "siteUser": {
+            "firstName": "Rebecca",
+            "lastName": "Dunstone",
+            "email": "Rebecca.Dunstone@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        }
+    },
+    {
+        "orgName": "proservices48",
+        "domain": "proservices48",
+        "displayName": "",
+        "brandKey": "default",
+        "badgingMasterSwitch": true,
+        "contractedGB": "0.0000000000",
+        "orgType": "internal",
+        "contractValueUSD": 0,
+        "props": {
+            "dataCenter": "US",
+            "hccEnabled": true
+        },
+        "compliance": {
+            "complianceFeatureEnabled": true,
+            "academyOrgId": "",
+            "externalReferenceTypeId": 2
+        },
+        "admin": {
+            "firstName": "Reegan",
+            "lastName": "McDougall",
+            "email": "reegan.mcdougall@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        },
+        "adminUserCreated": true,
+        "deploymentId": 50,
+        "seatsPerPool": 100,
+        "parentUrl": "https://proservices.percipio.com",
+        "siteUser": {
+            "firstName": "Laura",
+            "lastName": "Budd",
+            "email": "Laura.Budd@skillsoft.com",
+            "scheduledEmail": {
+                "send_now": false,
+                "send_email": false
+            }
+        }
+    }
+]

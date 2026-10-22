@@ -1,0 +1,16 @@
+{
+    "dynamic": true,
+    "Environment": {
+        "baseURL": "https://demoprep.percipio.com",
+        "orgId": "c942e748-a36a-46d2-926d-a65472db5a36",
+        "attributeName": [
+            "Region",
+            "Department",
+            "Job Title"
+        ]
+    },
+    "Admindata": {
+        "loginID": "kowshik.bikkina@skillsoft.com",
+        "password": "P@ssw0rd123@"
+    }
+}

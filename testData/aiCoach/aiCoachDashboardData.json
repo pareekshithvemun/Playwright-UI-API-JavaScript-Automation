@@ -1,0 +1,825 @@
+{
+  "howThisFileWorks": {
+    "userCount": "Only USERCOUNT from the npm command sets headcount. Must be 50, 100, 150, 200 or another multiple of 50. Goals, tasks, and assessment bars all grow with N. Nothing here is a person cap.",
+    "q2q4Weights": "Five parts for scores 1-5. They add to 70. People per score = round_to_sum(M * weight / 70). Every score still gets some people. 4 and 5 are much larger so both rating averages stay above 4.5. Q2 and Q4 use different orders so the two charts do not match.",
+    "checkboxWeights": "Nine parts for nine options. They add to 210. Votes = M times 3. Other is the smallest slot. Q1, Q3, and Q5 shuffle the same parts so the three checkbox charts do not match. If Other is selected, otherNotesByQuestion is the required other_notes text for that question.",
+    "otherNotesByQuestion": "API 5 requires other_notes when Other is one of the three checkbox picks. These are the sentences a learner would type. Null when Other is not selected.",
+    "goalSkills": "At N=100, refGoals add to 90 and refGreen add to 60 for each person’s first goal. Scale with round_to_sum to M and A+B. B, C, and E then post a second goal on another of these 20 names. USERCOUNT people rotate job roles so many of these names can be posted.",
+    "poolVsDefaults": "USERCOUNT = dashboard variety. A and D get 1 goal; B, C, E get 2 so Goals set is higher than Users who set goals. Default full logins = 3 JSON goals each. Role and goal title stay matched on default logins.",
+    "chats": "Default full logins get meaningful 2 or 3 chats that match their job and goals in createDataInAiCoachForDefaultUsers, after at least one JSON goal, then one weekly session per chat. USERCOUNT pool chats run in createDataInAiCoachDashboard on the same N people: A–E one 2–3 turn chat from poolChatScripts after a successful goal, in batches of 20. F has no chat. Cycle scripts and durations separately. chatDurationsSeconds is the closed-block length, not wait time. The five values average 600 seconds so dashboard average conversation time is about 10 minutes."
+  },
+  "poolJobRoles": [
+    "Product Manager",
+    "Project Manager",
+    "Business Analyst",
+    "Scrum Master",
+    "Marketing Manager",
+    "Human Resources Manager"
+  ],
+  "poolProfile": {
+    "keyResponsibilities": "I do the core work of my role and keep the people around me unblocked.",
+    "careerAspiration": "I want to grow in this role and take on harder problems.",
+    "motivation": "I like finishing work that helps the team and the business."
+  },
+  "q1Choices": [
+    "Creating innovative ideas or solutions",
+    "Meeting deadlines consistently",
+    "Managing or inspiring others",
+    "Communicating with clarity and intent",
+    "Demonstrates subject matter expertise",
+    "Solving complex problems proactively",
+    "Building cross-functional relationships",
+    "Successfully managing change or disruption",
+    "Other"
+  ],
+  "q3Choices": [
+    "Following through on commitments",
+    "Setting clear expectations for others",
+    "Listening actively to understand",
+    "Removing blockers for the team",
+    "Staying flexible when plans change",
+    "Remaining solution-focused",
+    "Resolving conflict during challenges",
+    "Aligning work toward shared goals",
+    "Other"
+  ],
+  "otherNotesByQuestion": {
+    "1": "I stay calm under a tight deadline.",
+    "3": "I name blockers in the same meeting.",
+    "5": "I want clearer written updates."
+  },
+  "q5Choices": [
+    "Prioritizing the right work",
+    "Strategic thinking",
+    "Quality of work and attention to detail",
+    "Innovation and creative solutions",
+    "Proactive problem-solving",
+    "Making data-informed decisions",
+    "Functional or technical expertise",
+    "Coaching or mentoring others",
+    "Other"
+  ],
+  "q2Weights": [
+    1,
+    1,
+    2,
+    16,
+    50
+  ],
+  "q4Weights": [
+    1,
+    2,
+    1,
+    18,
+    48
+  ],
+  "q1Weights": [
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    34,
+    36
+  ],
+  "q3Weights": [
+    36,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32,
+    34
+  ],
+  "q5Weights": [
+    20,
+    24,
+    28,
+    32,
+    34,
+    36,
+    8,
+    12,
+    16
+  ],
+  "goalSkills": [
+    {
+      "name": "AI Literacy",
+      "refGoals": 10,
+      "refGreen": 8
+    },
+    {
+      "name": "Generative AI",
+      "refGoals": 8,
+      "refGreen": 7
+    },
+    {
+      "name": "Prompt Engineering",
+      "refGoals": 8,
+      "refGreen": 6
+    },
+    {
+      "name": "Data Literacy",
+      "refGoals": 6,
+      "refGreen": 5
+    },
+    {
+      "name": "Strategic Thinking",
+      "refGoals": 7,
+      "refGreen": 5
+    },
+    {
+      "name": "Critical Thinking",
+      "refGoals": 5,
+      "refGreen": 4
+    },
+    {
+      "name": "Problem Solving",
+      "refGoals": 6,
+      "refGreen": 4
+    },
+    {
+      "name": "Decision Making",
+      "refGoals": 4,
+      "refGreen": 3
+    },
+    {
+      "name": "Change Management",
+      "refGoals": 5,
+      "refGreen": 3
+    },
+    {
+      "name": "Communication",
+      "refGoals": 3,
+      "refGreen": 2
+    },
+    {
+      "name": "Leadership",
+      "refGoals": 4,
+      "refGreen": 2
+    },
+    {
+      "name": "Coaching",
+      "refGoals": 3,
+      "refGreen": 2
+    },
+    {
+      "name": "Mentoring",
+      "refGoals": 3,
+      "refGreen": 1
+    },
+    {
+      "name": "Emotional Intelligence",
+      "refGoals": 2,
+      "refGreen": 1
+    },
+    {
+      "name": "Collaboration",
+      "refGoals": 3,
+      "refGreen": 1
+    },
+    {
+      "name": "Stakeholder Management",
+      "refGoals": 2,
+      "refGreen": 1
+    },
+    {
+      "name": "Project Management",
+      "refGoals": 3,
+      "refGreen": 1
+    },
+    {
+      "name": "Agile Practices",
+      "refGoals": 2,
+      "refGreen": 1
+    },
+    {
+      "name": "Career Development",
+      "refGoals": 4,
+      "refGreen": 2
+    },
+    {
+      "name": "Business Acumen",
+      "refGoals": 2,
+      "refGreen": 1
+    }
+  ],
+  "untouchedLogins": [
+    "Libby_Bright",
+    "Anna_Cole",
+    "Peter_Gill",
+    "May_Donovan"
+  ],
+  "readyLogins": [
+    "Fergus_Tyler",
+    "Carolyn_Stephenson",
+    "Jonathan_Tan",
+    "Raja_Reid",
+    "Patrick_Stephenson"
+  ],
+  "fullLogins": [
+    "Raheem_Ahmed",
+    "Isabella_Garcia",
+    "Ronald_Chen",
+    "Alisa_Massey",
+    "Linda_Cole",
+    "James_Graves",
+    "Roseanna_Mcgowan"
+  ],
+  "roleProfiles": {
+    "IT Director": {
+      "keyResponsibilities": "I set technology direction and make sure our systems, security, and delivery teams stay aligned. I own budget, vendor choices, and the roadmap that keeps the business running. I also coach my managers so projects land on time.",
+      "careerAspiration": "I want to grow as a business-minded technology leader and get closer to company strategy. I would like to mentor more directors and tighten how we measure the value of tech work.",
+      "motivation": "I am energized when a messy platform problem becomes a clear plan and the teams execute it. Seeing the business trust technology as a partner keeps me going."
+    },
+    "Learning and Development Specialist": {
+      "keyResponsibilities": "I design and run learning programs, work with managers on skill gaps, and keep content useful for the roles we support. I track completion and feedback so we know what to improve next.",
+      "careerAspiration": "I want to move into a learning-strategy role where I can shape career paths and skills programs for the whole org. I also want to get sharper at using data to prove learning impact.",
+      "motivation": "I like watching someone apply a new skill on the job. Building programs people actually use is what energizes me."
+    },
+    "Infrastructure Engineer": {
+      "keyResponsibilities": "I keep servers, networks, and cloud environments stable and secure. I handle incidents, capacity, and automation so teams can ship without waiting on infrastructure.",
+      "careerAspiration": "I want to deepen cloud and reliability skills and grow into a senior or principal infrastructure role. I am also interested in platform work that other teams can self-serve.",
+      "motivation": "I am motivated when an outage is resolved cleanly or a manual process becomes a reliable pipeline. Quiet, stable systems are the win."
+    },
+    "Data Architect": {
+      "keyResponsibilities": "I design how data is stored, modeled, and shared across products and reports. I set standards so analysts and engineers can trust what they query. I also review pipelines for quality and scale.",
+      "careerAspiration": "I want to lead data strategy and mentor other architects. I would like to get stronger at turning business questions into simple, durable models.",
+      "motivation": "I like bringing order to messy data and seeing a model get used in real decisions. Clarity for other teams is what drives me."
+    },
+    "IT Support Specialist": {
+      "keyResponsibilities": "I help employees with access, devices, and day-to-day tech issues. I log tickets, find root causes, and write simple guides so the same problem does not keep coming back.",
+      "careerAspiration": "I want to grow into a senior support or systems role and get better at automation. I am also interested in moving toward infrastructure or endpoint management.",
+      "motivation": "I am energized when I unblock someone quickly and they can get back to work. Closing a tricky ticket for good is satisfying."
+    },
+    "Software Engineer": {
+      "keyResponsibilities": "I design, build, and test product features with my squad. I review code, fix defects, and help keep our services reliable in production.",
+      "careerAspiration": "I want to grow into a senior engineer who can lead design and mentor others. I also want to get better at system design and shipping with less rework.",
+      "motivation": "I am motivated when a feature lands cleanly and customers can use it. Solving a hard bug with the team is what I enjoy most."
+    },
+    "Retail Sales Associate": {
+      "keyResponsibilities": "I help shoppers find the right product, close sales, and keep the floor ready. I handle questions, returns, and simple follow-up so the store hits its daily goals.",
+      "careerAspiration": "I want to grow into a shift lead or store supervisor and get stronger at coaching others on the floor. I am also interested in learning more about merchandising.",
+      "motivation": "I like a busy floor and a customer who leaves happy. Hitting the day's target with the team energizes me."
+    },
+    "Sales Associate": {
+      "keyResponsibilities": "I qualify leads, run conversations, and move opportunities through the pipeline. I keep notes accurate and follow up so nothing stalls after a good call.",
+      "careerAspiration": "I want to become a high-performing seller and then a team lead. I would like to get better at discovery and closing larger deals.",
+      "motivation": "I am motivated by a well-run conversation that turns into a real opportunity. Winning a deal we earned as a team keeps me going."
+    },
+    "Production Operations Associate": {
+      "keyResponsibilities": "I keep daily production moving: schedules, handoffs, and quality checks. I flag delays early and work with the line so we meet output without cutting corners.",
+      "careerAspiration": "I want to grow into a production lead or supervisor and get stronger at planning and continuous improvement. I am also interested in safety and process design.",
+      "motivation": "I like a shift that finishes on plan. Fixing a bottleneck so the line runs smoothly is what energizes me."
+    },
+    "Health and Safety Coordinator": {
+      "keyResponsibilities": "I run safety programs, walk the floor, and follow up on incidents and near misses. I train people on procedures and help managers close gaps before they become injuries.",
+      "careerAspiration": "I want to grow into a broader EHS or operations-risk role. I would like to get better at using incident data to prevent the next event, not only report the last one.",
+      "motivation": "I am motivated when a site is safer because we changed a habit, not only a policy. People going home well is the point."
+    },
+    "Customer Success Manager": {
+      "keyResponsibilities": "I own post-sale relationships, adoption, and renewals for my accounts. I run check-ins, surface risks early, and pull in the right internal people when a customer is stuck.",
+      "careerAspiration": "I want to grow into a senior CSM or team lead and get stronger at expansion conversations. I also want to use customer data more, not only relationship notes.",
+      "motivation": "I like turning a worried customer into a confident one. A renewal we earned through real value is what drives me."
+    },
+    "Channel Sales Manager": {
+      "keyResponsibilities": "I grow revenue through partners: enablement, pipeline, and deal support. I keep partner expectations clear and remove blockers so they can sell with us.",
+      "careerAspiration": "I want to lead a larger partner motion and get better at picking which channels to invest in. I am also interested in partner-led growth strategy.",
+      "motivation": "I am energized when a partner closes a deal we coached well. Seeing two companies win together keeps me going."
+    },
+    "Sales Director": {
+      "keyResponsibilities": "I set the sales plan, coach managers, and own the number for my region or segment. I review pipeline quality, hire and develop sellers, and keep forecast honest.",
+      "careerAspiration": "I want to grow into a broader commercial leadership role and get sharper at building repeatable teams, not only individual heroes. I also want to tighten how we use data in forecast.",
+      "motivation": "I am motivated when the team hits a hard number the right way. Developing a seller who starts to win on their own is the best part."
+    },
+    "VP Technology": {
+      "keyResponsibilities": "I own technology strategy, investment choices, and how engineering and IT support the business. I align leaders on priorities, risk, and delivery. I also grow the next layer of tech leadership.",
+      "careerAspiration": "I want to keep getting better at connecting technology bets to company outcomes. I would like to build a stronger leadership bench and a simpler operating model.",
+      "motivation": "I am energized when a hard tradeoff becomes a clear decision and the organization moves. Seeing teams ship with less friction is what I care about."
+    }
+  },
+  "defaultFullGoals": {
+    "Raheem_Ahmed": [
+      {
+        "skillName": "Problem Solving",
+        "title": "Cut repeat infrastructure incidents",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Write a one-page review of the last five P1s",
+            "description": "List the trigger, impact, and fix for each so the pattern is obvious"
+          },
+          {
+            "title": "Add a runbook for the top failure",
+            "description": "Put steps and rollback in the team wiki so anyone can recover it"
+          }
+        ]
+      },
+      {
+        "skillName": "Change Management",
+        "title": "Make production changes safer",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Draft a weekly change window",
+            "description": "Propose hours that avoid peak traffic and share it with app owners"
+          },
+          {
+            "title": "Write a rollback checklist",
+            "description": "One page: how we back out a bad change in under 15 minutes"
+          }
+        ]
+      },
+      {
+        "skillName": "Project Management",
+        "title": "Plan next-quarter capacity",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Inventory current host and disk use",
+            "description": "Spreadsheet of the top 20 services and headroom"
+          },
+          {
+            "title": "Share a forecast with managers",
+            "description": "Short note on what we must buy or move before the next peak"
+          }
+        ]
+      }
+    ],
+    "Isabella_Garcia": [
+      {
+        "skillName": "Data Literacy",
+        "title": "Make core metrics trustworthy",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Publish a glossary for five company metrics",
+            "description": "Name, owner, and grain so reports stop arguing"
+          },
+          {
+            "title": "Flag two dashboards that disagree",
+            "description": "Note which source is right and who will fix the other"
+          }
+        ]
+      },
+      {
+        "skillName": "Strategic Thinking",
+        "title": "Draw the target data platform",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Sketch current vs target flows",
+            "description": "One diagram: ingest, store, serve"
+          },
+          {
+            "title": "List three bets for the next year",
+            "description": "What we build, what we stop, and why"
+          }
+        ]
+      },
+      {
+        "skillName": "Decision Making",
+        "title": "Cut unused pipeline cost",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Find jobs no one queried in 90 days",
+            "description": "List them with owner and last run"
+          },
+          {
+            "title": "Propose pause or delete for two jobs",
+            "description": "Mail the owners with a date we will turn them off"
+          }
+        ]
+      }
+    ],
+    "Ronald_Chen": [
+      {
+        "skillName": "Agile Practices",
+        "title": "Ship a slice every sprint",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Break the next story into a one-sprint slice",
+            "description": "Demo-able work, not a half-built epic"
+          },
+          {
+            "title": "Add a sprint demo note",
+            "description": "What shipped, what slipped, what we try next"
+          }
+        ]
+      },
+      {
+        "skillName": "Prompt Engineering",
+        "title": "Use AI on code without leaking secrets",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Write a safe-prompt checklist",
+            "description": "What we never paste from prod or tickets"
+          },
+          {
+            "title": "Pair on one feature with a coding assistant",
+            "description": "Keep the diff small and review it like any other PR"
+          }
+        ]
+      },
+      {
+        "skillName": "Problem Solving",
+        "title": "Reduce production defects from our squad",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Tag last month's bugs by cause",
+            "description": "Count how many were missed tests vs unclear requirements"
+          },
+          {
+            "title": "Add one test for the top miss",
+            "description": "Automate the case that bit us twice"
+          }
+        ]
+      }
+    ],
+    "Alisa_Massey": [
+      {
+        "skillName": "Collaboration",
+        "title": "Make handoffs with design and QA cleaner",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Sit with QA on the last failed build",
+            "description": "Write the three checks they wish they had sooner"
+          },
+          {
+            "title": "Agree a definition of ready",
+            "description": "Short list both squads will use before a story starts"
+          }
+        ]
+      },
+      {
+        "skillName": "Generative AI",
+        "title": "Speed up boilerplate without skipping review",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Try AI on one scaffolded service",
+            "description": "Keep the generated files in a branch"
+          },
+          {
+            "title": "Review that output with a teammate",
+            "description": "Mark what we keep, rewrite, or throw away"
+          }
+        ]
+      },
+      {
+        "skillName": "Career Development",
+        "title": "Grow toward senior engineer",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Ask my manager for two senior-level behaviors",
+            "description": "Write them down after 1:1"
+          },
+          {
+            "title": "Shadow a design review",
+            "description": "Notes on how the senior framed the tradeoff"
+          }
+        ]
+      }
+    ],
+    "Linda_Cole": [
+      {
+        "skillName": "Communication",
+        "title": "Help shoppers decide faster",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Practice a 30-second product intro",
+            "description": "Two items I sell most; say who they are for"
+          },
+          {
+            "title": "Ask one better question on the floor",
+            "description": "Start with need, not a discount"
+          }
+        ]
+      },
+      {
+        "skillName": "Emotional Intelligence",
+        "title": "Stay calm on returns and busy hours",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Note three tense moments this week",
+            "description": "What I did and what I would try next"
+          },
+          {
+            "title": "Use one de-escalation line",
+            "description": "Thank them, restate the issue, then offer a next step"
+          }
+        ]
+      },
+      {
+        "skillName": "Collaboration",
+        "title": "Back up the next shift cleanly",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Leave a closing note for the evening team",
+            "description": "Stock gaps, pending pickups, anything odd"
+          },
+          {
+            "title": "Offer to cover a peak hour",
+            "description": "Tell the lead which hour I can take"
+          }
+        ]
+      }
+    ],
+    "James_Graves": [
+      {
+        "skillName": "Communication",
+        "title": "Run cleaner discovery calls",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Write five discovery questions",
+            "description": "Need, budget, timing, decision-maker, next step"
+          },
+          {
+            "title": "Record one call recap the same day",
+            "description": "What they said they want and the agreed follow-up"
+          }
+        ]
+      },
+      {
+        "skillName": "Stakeholder Management",
+        "title": "Keep internal partners in the loop",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "List who I pull in on a stuck deal",
+            "description": "SE, manager, legal — and when"
+          },
+          {
+            "title": "Send a weekly pipeline note",
+            "description": "Three live deals and what I need from each person"
+          }
+        ]
+      },
+      {
+        "skillName": "Business Acumen",
+        "title": "Talk value, not only price",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Build a one-page value story",
+            "description": "Problem, cost of waiting, what we change"
+          },
+          {
+            "title": "Use it on two live opportunities",
+            "description": "Note whether the talk stayed on price or on outcome"
+          }
+        ]
+      }
+    ],
+    "Roseanna_Mcgowan": [
+      {
+        "skillName": "Problem Solving",
+        "title": "Clear the line's top delay",
+        "completeTaskCount": 2,
+        "achieveGoal": true,
+        "tasks": [
+          {
+            "title": "Time the last three slowdowns",
+            "description": "Where the line waited and for how long"
+          },
+          {
+            "title": "Fix or escalate the biggest wait",
+            "description": "One change this week, or a named owner if it is not mine"
+          }
+        ]
+      },
+      {
+        "skillName": "Change Management",
+        "title": "Bring a process change in without surprise",
+        "completeTaskCount": 0,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Tell the next shift what is changing",
+            "description": "Start, stop, and who to ask"
+          },
+          {
+            "title": "Post a one-page new-step card",
+            "description": "Photo or steps at the station"
+          }
+        ]
+      },
+      {
+        "skillName": "Project Management",
+        "title": "Hit this week's output plan",
+        "completeTaskCount": 1,
+        "achieveGoal": false,
+        "tasks": [
+          {
+            "title": "Break the week into daily targets",
+            "description": "Units by day so we see slip early"
+          },
+          {
+            "title": "End-of-day check with the lead",
+            "description": "Actual vs plan and one risk for tomorrow"
+          }
+        ]
+      }
+    ]
+  },
+  "poolChatScripts": [
+    {
+      "messages": [
+        "I want to get better at my job this quarter.",
+        "I am not sure which skill to work on first.",
+        "Give me one small step I can take this week."
+      ]
+    },
+    {
+      "messages": [
+        "I keep getting stuck when my work piles up.",
+        "I need a simple way to pick what matters today.",
+        "What should I try in my next 1:1 with my manager?"
+      ]
+    },
+    {
+      "messages": [
+        "I want to speak up more in team meetings.",
+        "I freeze when I have to explain a decision.",
+        "Help me practice one clear sentence I can use."
+      ]
+    },
+    {
+      "messages": [
+        "I finished a task but I am not sure it was the right one.",
+        "How do I check that my work actually helps the team?",
+        "Give me two questions I can ask before I start the next task."
+      ]
+    }
+  ],
+  "chatDurationsSeconds": [
+    420,
+    480,
+    540,
+    600,
+    720
+  ],
+  "coachingTimezone": "Asia/Calcutta",
+  "defaultFullChats": {
+    "Raheem_Ahmed": [
+      {
+        "messages": [
+          "I keep seeing the same infrastructure incidents come back.",
+          "I want a one-page review of the last five P1s so the pattern is obvious.",
+          "After that I will add a runbook for the top failure in the wiki."
+        ]
+      },
+      {
+        "messages": [
+          "Production changes still feel risky on my team.",
+          "I want a weekly change window that avoids peak traffic.",
+          "Then I will write a rollback checklist we can use in under 15 minutes."
+        ]
+      },
+      {
+        "messages": [
+          "I need to plan next-quarter capacity before we run out of headroom.",
+          "I will inventory host and disk use for the top 20 services and share a forecast with managers."
+        ]
+      }
+    ],
+    "Isabella_Garcia": [
+      {
+        "messages": [
+          "Our reports keep arguing about the same company metrics.",
+          "I want a glossary with name, owner, and grain for five core metrics.",
+          "Then I will flag two dashboards that disagree and name the source of truth."
+        ]
+      },
+      {
+        "messages": [
+          "I need to draw the target data platform so we stop adding one-off pipelines.",
+          "I will sketch current vs target flows and list three bets for next year: what we build, what we stop, and why."
+        ]
+      }
+    ],
+    "Ronald_Chen": [
+      {
+        "messages": [
+          "We keep taking stories that cannot finish in one sprint.",
+          "I want to break the next story into a demo-able slice, not a half-built epic.",
+          "Then I will add a sprint demo note: what shipped, what slipped, what we try next."
+        ]
+      },
+      {
+        "messages": [
+          "I want to use AI on code without leaking secrets from prod or tickets.",
+          "I will write a safe-prompt checklist and keep any assistant diff small enough to review like a normal PR."
+        ]
+      },
+      {
+        "messages": [
+          "Our squad is shipping the same class of production defects.",
+          "I will tag last month's bugs by cause and add one test for the miss that bit us twice."
+        ]
+      }
+    ],
+    "Alisa_Massey": [
+      {
+        "messages": [
+          "Handoffs with design and QA keep dropping checks.",
+          "I will sit with QA on the last failed build and write the three checks they wish they had sooner.",
+          "Then we will agree a short definition of ready both squads use before a story starts."
+        ]
+      },
+      {
+        "messages": [
+          "I want to speed up boilerplate with generative AI without skipping review.",
+          "I will try it on one scaffolded service in a branch and review the output with a teammate: keep, rewrite, or throw away."
+        ]
+      }
+    ],
+    "Linda_Cole": [
+      {
+        "messages": [
+          "Shoppers stall because I start with a discount instead of what they need.",
+          "I want a 30-second intro for the two items I sell most.",
+          "Then I will ask one better question on the floor that starts with need."
+        ]
+      },
+      {
+        "messages": [
+          "Returns and busy hours still get tense.",
+          "I will note three tense moments this week and use one de-escalation line: thank them, restate the issue, then offer a next step."
+        ]
+      },
+      {
+        "messages": [
+          "The evening team misses what I saw at close.",
+          "I will leave a closing note for stock gaps and pending pickups, and tell the lead which peak hour I can cover."
+        ]
+      }
+    ],
+    "James_Graves": [
+      {
+        "messages": [
+          "My discovery calls jump to product before I know need, budget, and timing.",
+          "I will write five discovery questions and send a same-day recap of what they want and the agreed follow-up."
+        ]
+      },
+      {
+        "messages": [
+          "Stuck deals stall because SE, manager, or legal hear too late.",
+          "I will list who I pull in and when, and send a weekly note on three live deals and what I need from each person."
+        ]
+      }
+    ],
+    "Roseanna_Mcgowan": [
+      {
+        "messages": [
+          "The line keeps waiting in the same place and we miss the shift plan.",
+          "I will time the last three slowdowns and fix or escalate the biggest wait this week."
+        ]
+      },
+      {
+        "messages": [
+          "Process changes surprise the next shift.",
+          "I will tell them what starts, what stops, and who to ask, and post a one-page new-step card at the station."
+        ]
+      },
+      {
+        "messages": [
+          "I want this week's output plan broken into daily targets.",
+          "I will check actual vs plan with the lead at end of day and name one risk for tomorrow."
+        ]
+      }
+    ]
+  }
+}

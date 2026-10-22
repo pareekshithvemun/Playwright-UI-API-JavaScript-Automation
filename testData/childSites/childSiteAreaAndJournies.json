@@ -1,0 +1,175 @@
+{
+    "testData": [
+        {
+            "AreaName": "Skillsoft Percipio Platform",
+            "AreaDescription": "<p><span>These channels and journeys focus on Skillsoft Percipio platform.</span></p>",
+            "AreaImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/staged/88f200dd-b217-4fd4-98cc-8c96399f0746/percipio.png",
+            "Subjects": [
+                {
+                    "SubJectName": "LMXP",
+                    "Description": "Learn more about features like Page Builder.",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/w4gff6f6sxgwkt4kmhf3nsj/1.png?auto=webp&format=png&width=1440&height=810",
+                    "custom": true,
+                    "Content": [],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Percipio Page Builder Journey",
+                            "JourneyDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This learning path introduces Skillsoft Percipio's Page Builder feature. Page Builder empowers organizations to create custom landing pages that guide learners to the most relevant content and experiences. By tailoring navigation and design to business goals—such as onboarding, leadership programs, or departmental initiatives—it delivers personalized, engaging learning journeys that drive adoption and align with strategic objectives.</span></p>",
+                            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/f5hhmz4n9q5gk7m8g8j9ns27/Page_Builder_Demo_Content.png?auto=webp&format=png",
+                            "journeyStyle": "SIMPLE",
+                            "enableBadging": false,
+                            "subtypeName": "CUSTOM_JOURNEY",
+                            "completionCertificateEnabled": true,
+                            "Tracks": [
+                                {
+                                    "trackName": "Get to know Page Builder!",
+                                    "trackImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/saved/bc7d5aef-a6dd-4a03-b150-9011ef204a43/pagebuilderonly.png",
+                                    "trackDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This journey will provide an overview of Page Builder as well as a quick activity to introduce to how easy custom landing pages can be created for your organization.</span></p>",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "Page Builder",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Activity Guide: Page Builder",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Knowledge Base: Page Builder",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "SkillsData": [
+                                "Navigation Design",
+                                "Page Layout",
+                                "Visual Design Principles",
+                                "Web Design Basics",
+                                "Content Curation",
+                                "Digital Content Creation",
+                                "Interactive Design",
+                                "Leadership Development",
+                                "User Experience Design",
+                                "Onboarding Design"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "SubJectName": "LX Design Studio",
+                    "Description": "Explore Skillsoft's LX Design Studio for creating interactive, AI-enhanced learning experiences.",
+                    "subImage": "https://cdn.bfldr.com/YWP0W9AT/at/9jfj4hs4sx8cgb28b67p6745/2.png?auto=webp&format=png&width=1440&height=810",
+                    "custom": true,
+                    "Content": [],
+                    "CustomJournies": [
+                        {
+                            "JourneyName": "Percipio LX Design Studio Guided Experience",
+                            "JourneyDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This learning path introduces LX Design Studio, Skillsoft’s innovative suite for creating interactive, AI-enhanced learning experiences. Participants will explore tools for designing, authoring, and publishing content, including assessments, CAISY simulations, and soon multimedia courses. Through guided workflows, learners will gain the skills to build engaging, multi-modal learning solutions that can be deployed across Percipio. </span></p>",
+                            "JourneyImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/saved/e02f0e3c-31bd-4f51-846f-edd0e232df00/lxdesign.png",
+                            "journeyStyle": "SIMPLE",
+                            "enableBadging": false,
+                            "subtypeName": "CUSTOM_JOURNEY",
+                            "completionCertificateEnabled": true,
+                            "Tracks": [
+                                {
+                                    "trackName": "LX Design Studio: Assessments",
+                                    "trackImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/saved/20cb67b8-f8a5-42a0-8e7d-9cac36f1c2cf/assessementtracktile.png",
+                                    "trackDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This track will introduce you to the Assessment app available in LX Design Studio and provide you with a guided exercise to help you experience this application.</span></p>",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "LX Design Studio: Skill Benchmark Assessments",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Activity Guide: LX Design Studio Assessment",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Knowledge Base: Assessments Overview",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "LX Design Studio: CAISY™ for Conversations",
+                                    "trackImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/staged/31566cb2-d0f1-44f4-adcf-59bc6963713d/conversationtracktile.png",
+                                    "trackDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This track will introduce you to the CAISY™ for Conversations app available in LX Design Studio and provide you with a guided exercise to help you experience this application.</span></p>",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "LX Design Studio: CAISY for Conversations",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Activity Guide: LX Design Studio CAISY™ for Conversations",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Guided Eval: Knowledge Source",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Knowledge Base: CAISY™ for Conversations",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "LX Design Studio: CAISY™ for Presentations",
+                                    "trackImage": "https://cdn2.percipio.com/public/us/custom-content/ae144926-4324-491d-bc97-416e359384d0/public/images/staged/6f69c3cf-4a96-444f-897f-a0f7f425ccf6/presentationtracktile.png",
+                                    "trackDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This track will introduce you to the CAISY™ for Presentations app available in LX Design Studio and provide you with a guided exercise to help you experience this application.</span></p>",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "LX Design Studio: CAISY for Presentations",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Activity Guide: LX Design Studio CAISY™ for Presentation",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Guided Eval: Mock PPT",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Knowledge Base: CAISY™ for Presentations",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "trackName": "LX Design Studio: Course Designer",
+                                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/6934f67kwk9hsb5g9sx9kft/Course_Designer_Tile_Image.png?auto=webp&format=png",
+                                    "trackDescription": "<p class=\"EditorTheme__paragraph\"><span style=\"white-space: pre-wrap;\">This track will introduce you to Course Designer in LX Design Studio. It will provide you a guided exercise to help you learn how to use this app.</span></p>",
+                                    "trackContent": [
+                                        {
+                                            "contentItemUuid": "LX Design Studio: Course Designer",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Activity Guide: LX Design Studio Course Designer",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Guided Eval: Knowledge Source  - Course Designer",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        },
+                                        {
+                                            "contentItemUuid": "Knowledge Base: Course Designer",
+                                            "contentItemType": "LINKED_CONTENT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "SkillsData": [
+                                "Instructional Design",
+                                "Interactive Content",
+                                "Content Publishing"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

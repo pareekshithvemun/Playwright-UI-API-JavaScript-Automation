@@ -1,0 +1,738 @@
+[
+  {
+    "riskarea": "Data Privacy and Protection",
+    "risks": [
+      {
+        "title": "Privacy Law Violation",
+        "description": "Failure to comply with global data protection regulations like GDPR, CCPA, PIPEDA, or PIPL."
+      },
+      {
+        "title": "Personal Data Breach",
+        "description": "Unauthorized access, disclosure, or exposure of personally identifiable information compromising individual privacy rights."
+      },
+      {
+        "title": "Consumer Privacy Rights Violation",
+        "description": "Failure to respect individual rights under privacy laws like access, deletion, portability, or consent."
+      },
+      {
+        "title": "Cross Border Data Transfer Violation",
+        "description": "Improper transfer of personal data across international borders without adequate safeguards or legal mechanisms."
+      },
+      {
+        "title": "PIPEDA Compliance Failure",
+        "description": "Non-compliance with Canada's Personal Information Protection and Electronic Documents Act requirements for personal information."
+      },
+      {
+        "title": "PIPL Compliance Failure",
+        "description": "Violation of China's Personal Information Protection Law requirements for processing personal information and rights."
+      },
+      {
+        "title": "CASL Violation",
+        "description": "Non-compliance with Canada's Anti-Spam Legislation requirements for commercial electronic messages and software installation consent."
+      }
+    ]
+  },
+  {
+    "riskarea": "Cybersecurity",
+    "risks": [
+      {
+        "title": "Cybersecurity Risk Exposure",
+        "description": "Vulnerability to cyber threats including phishing, malware, ransomware, and attacks compromising organizational security."
+      },
+      {
+        "title": "Technology Resource Misuse",
+        "description": "Improper use of company electronic devices, networks, and IT resources creating security vulnerabilities."
+      },
+      {
+        "title": "AI Security Breach",
+        "description": "Security vulnerabilities from AI tools and systems, including data exposure through generative AI platforms."
+      },
+      {
+        "title": "Electronic Device Compromise",
+        "description": "Security incidents involving unauthorized access to or compromise of electronic devices, systems, or networks."
+      }
+    ]
+  },
+  {
+    "riskarea": "Artificial Intelligence (AI)",
+    "risks": [
+      {
+        "title": "European AI Law Violation",
+        "description": "Non-compliance with EU AI Act requirements for transparency, accountability, and risk management in deployment."
+      },
+      {
+        "title": "High Risk AI System",
+        "description": "Deployment of AI systems classified as high-risk under regulatory frameworks without proper safeguards."
+      },
+      {
+        "title": "AI Ethical Breach",
+        "description": "Use of AI systems violating ethical principles, including bias, discrimination, or unfair treatment."
+      },
+      {
+        "title": "AI Content Inaccuracy",
+        "description": "Reliance on AI-generated content containing inaccuracies, hallucinations, or misleading information without proper verification."
+      }
+    ]
+  },
+  {
+    "riskarea": "Anti-Corruption and Bribery",
+    "risks": [
+      {
+        "title": "Bribery Violation",
+        "description": "Offering, giving, receiving, or soliciting bribes violating anti-bribery laws like FCPA or UK Bribery Act."
+      },
+      {
+        "title": "Personal Interest Conflict Violation",
+        "description": "Situations where personal interests conflict with professional duties, creating potential for biased decision-making."
+      },
+      {
+        "title": "Gift Entertainment Impropriety",
+        "description": "Accepting or providing gifts, entertainment, or hospitality that could influence business decisions or create impropriety."
+      },
+      {
+        "title": "Facilitation Payment Issue",
+        "description": "Making or receiving small payments to expedite routine government services, violating anti-corruption policies."
+      }
+    ]
+  },
+  {
+    "riskarea": "Sanctions and Trade Compliance",
+    "risks": [
+      {
+        "title": "Export Control Violation",
+        "description": "Failure to comply with export control regulations like EAR or ITAR when transferring controlled items."
+      },
+      {
+        "title": "Trade Regulation Breach",
+        "description": "Non-compliance with import/export regulations, customs requirements, or international trade laws governing cross-border commerce."
+      },
+      {
+        "title": "Sanctions Law Violation",
+        "description": "Engaging in prohibited transactions or business relationships with sanctioned individuals, entities, or countries."
+      }
+    ]
+  },
+  {
+    "riskarea": "Anti-Money Laundering (AML)",
+    "risks": [
+      {
+        "title": "Money Laundering Activity",
+        "description": "Involvement in or facilitation of financial transactions designed to disguise origins of illegally obtained funds."
+      },
+      {
+        "title": "Customer Due Diligence Failure",
+        "description": "Inadequate verification and ongoing monitoring of customer identities, risk profiles, and transaction patterns."
+      },
+      {
+        "title": "Suspicious Activity Oversight",
+        "description": "Failure to identify, investigate, or report suspicious financial activities indicating money laundering or terrorist financing."
+      },
+      {
+        "title": "Transaction Monitoring Failure",
+        "description": "Inadequate systems or processes for monitoring financial transactions to detect unusual patterns or suspicious activities."
+      },
+      {
+        "title": "Record Keeping Violation",
+        "description": "Failure to maintain proper records and documentation required by anti-money laundering regulations for transaction monitoring."
+      },
+      {
+        "title": "Know Your Customer Failure",
+        "description": "Inadequate implementation of Know Your Customer (KYC) principles and procedures for customer identification."
+      }
+    ]
+  },
+  {
+    "riskarea": "Third-Party and Supply Chain Risk Management",
+    "risks": [
+      {
+        "title": "Third Party Compliance Failure",
+        "description": "Failure of vendors, contractors, or business partners to meet compliance requirements, creating organizational liability."
+      },
+      {
+        "title": "Supply Chain Transparency Breach",
+        "description": "Lack of visibility into supply chain practices, preventing identification of compliance risks or unethical practices."
+      },
+      {
+        "title": "Modern Slavery Violation",
+        "description": "Presence of forced labor, human trafficking, or modern slavery practices within supply chain or operations."
+      },
+      {
+        "title": "Vendor Risk Exposure",
+        "description": "Inadequate assessment or management of risks posed by third-party vendors, suppliers, or service providers."
+      }
+    ]
+  },
+  {
+    "riskarea": "Labor and Employment Management",
+    "risks": [
+      {
+        "title": "Disability Accommodation Failure",
+        "description": "Failure to provide reasonable accommodations for employees with disabilities as required by ADA and similar laws."
+      },
+      {
+        "title": "Employee Discipline Violation",
+        "description": "Improper disciplinary actions that violate employment laws, company policies, or fair treatment principles."
+      },
+      {
+        "title": "Severance Agreement Breach",
+        "description": "Severance agreements that contain unlawful provisions or violate employee rights under labor relations laws."
+      },
+      {
+        "title": "Pregnant Worker Rights Violation",
+        "description": "Failure to accommodate pregnant workers or provide rights guaranteed under pregnancy discrimination and fairness acts."
+      },
+      {
+        "title": "Cannabis Workplace Policy Violation",
+        "description": "Non-compliance with workplace policies regarding therapeutic cannabis use and accommodation requirements for medical users."
+      },
+      {
+        "title": "Medical Surveillance Failure",
+        "description": "Failure to implement required medical surveillance programs for employees exposed to workplace hazards or substances."
+      },
+      {
+        "title": "Wage Hour Compliance Violation",
+        "description": "Non-compliance with wage and hour laws, including minimum wage, overtime, and compensation regulations."
+      },
+      {
+        "title": "Equal Employment Opportunity Violation",
+        "description": "Failure to comply with Equal Employment Opportunity laws prohibiting discrimination in employment practices."
+      },
+      {
+        "title": "FMLA Violation",
+        "description": "Non-compliance with Family and Medical Leave Act requirements for providing eligible employees with unpaid leave."
+      }
+    ]
+  },
+  {
+    "riskarea": "Harassment and Discrimination Prevention",
+    "risks": [
+      {
+        "title": "Workplace Harassment Incident",
+        "description": "Unwelcome conduct based on protected characteristics that creates an intimidating, hostile, or offensive work environment."
+      },
+      {
+        "title": "Discrimination Violation",
+        "description": "Unfair treatment of individuals based on protected characteristics such as race, gender, age, religion, or disability."
+      },
+      {
+        "title": "Bullying Behavior",
+        "description": "Repeated aggressive, intimidating, or abusive behavior that creates a hostile work environment for targeted individuals."
+      },
+      {
+        "title": "Hostile Work Environment",
+        "description": "Workplace conditions that are intimidating, hostile, or offensive due to discriminatory or harassing conduct."
+      },
+      {
+        "title": "Antisemitism Incident",
+        "description": "Discriminatory or harassing behavior targeting individuals based on Jewish identity, religion, or ethnicity."
+      },
+      {
+        "title": "Islamophobia Incident",
+        "description": "Discriminatory or harassing behavior targeting individuals based on Islamic faith, Muslim identity, or association."
+      },
+      {
+        "title": "Race Color Discrimination",
+        "description": "Discriminatory treatment or harassment based on an individual's race, color, or ethnic background prohibited under law."
+      },
+      {
+        "title": "Mental Health Discrimination",
+        "description": "Discriminatory treatment of individuals with mental health conditions or disabilities covered under disability protection laws."
+      }
+    ]
+  },
+  {
+    "riskarea": "Intellectual Property (IP)",
+    "risks": [
+      {
+        "title": "Copyright Infringement",
+        "description": "Unauthorized use, reproduction, or distribution of copyrighted materials without proper permission or licensing."
+      },
+      {
+        "title": "Trade Secret Disclosure",
+        "description": "Unauthorized disclosure or misappropriation of confidential business information, formulas, processes, or trade secrets."
+      },
+      {
+        "title": "Patent Violation",
+        "description": "Unauthorized use, manufacture, or sale of patented inventions or processes without proper licensing or permission."
+      },
+      {
+        "title": "Trademark Misuse",
+        "description": "Unauthorized use of trademarks, service marks, or brand identifiers that may cause consumer confusion or dilution."
+      }
+    ]
+  },
+  {
+    "riskarea": "Consumer Protection",
+    "risks": [
+      {
+        "title": "Consumer Rights Violation",
+        "description": "Failure to respect consumer rights regarding product safety, fair pricing, truthful advertising, or service quality."
+      },
+      {
+        "title": "Accessibility Standards Breach",
+        "description": "Non-compliance with accessibility requirements such as Section 508 or WCAG standards for digital content and services."
+      },
+      {
+        "title": "Trade Practices Violation",
+        "description": "Engaging in unfair, deceptive, or anti-competitive trade practices that harm consumers or market competition."
+      }
+    ]
+  },
+  {
+    "riskarea": "Competition and Antitrust",
+    "risks": [
+      {
+        "title": "Antitrust Law Violation",
+        "description": "Engaging in anti-competitive practices like price fixing, market allocation, or monopolistic behavior prohibited by antitrust laws."
+      },
+      {
+        "title": "Competition Act Breach",
+        "description": "Violations of competition laws that restrict fair competition, including abuse of market dominance or agreements."
+      },
+      {
+        "title": "Criminal Competitor Communication",
+        "description": "Illegal communications or agreements with competitors regarding pricing, market division, or other anti-competitive activities."
+      }
+    ]
+  },
+  {
+    "riskarea": "Financial Reporting and Disclosure",
+    "risks": [
+      {
+        "title": "Financial Reporting Fraud",
+        "description": "Intentional misstatement or omission of financial information to deceive stakeholders about the organization's financial condition."
+      },
+      {
+        "title": "Insider Trading Violation",
+        "description": "Trading securities based on material non-public information or failing to comply with insider trading restrictions."
+      },
+      {
+        "title": "Accounting Standards Breach",
+        "description": "Failure to comply with applicable accounting standards, principles, or regulatory requirements in financial reporting."
+      },
+      {
+        "title": "Disclosure Requirement Failure",
+        "description": "Failure to make required disclosures of material information to investors, regulators, or other stakeholders."
+      }
+    ]
+  },
+  {
+    "riskarea": "Whistleblower Protection",
+    "risks": [
+      {
+        "title": "Retaliation Incident",
+        "description": "Taking adverse action against employees who report misconduct, raise concerns, or participate in investigations."
+      },
+      {
+        "title": "Whistleblower Rights Violation",
+        "description": "Failure to protect the rights of individuals who report wrongdoing or participate in compliance investigations."
+      },
+      {
+        "title": "Misconduct Reporting Failure",
+        "description": "Inadequate systems or processes for receiving, investigating, and responding to reports of misconduct or violations."
+      }
+    ]
+  },
+  {
+    "riskarea": "Ethics and Code of Conduct",
+    "risks": [
+      {
+        "title": "Ethical Standards Violation",
+        "description": "Conduct that violates organizational ethical standards, values, or principles of integrity and professional behavior."
+      },
+      {
+        "title": "Code of Conduct Breach",
+        "description": "Violation of specific policies, rules, or guidelines outlined in the organization's code of conduct or ethics policy."
+      },
+      {
+        "title": "Professional Misconduct",
+        "description": "Behavior that falls below professional standards or violates industry-specific ethical requirements and best practices."
+      },
+      {
+        "title": "Political Activity Violation",
+        "description": "Inappropriate political activities in the workplace that violate company policies or create conflicts of interest."
+      }
+    ]
+  },
+  {
+    "riskarea": "Fraud Prevention",
+    "risks": [
+      {
+        "title": "Workplace Fraud",
+        "description": "Intentional deception or misrepresentation by employees for personal gain, including embezzlement, expense fraud, or misappropriation."
+      },
+      {
+        "title": "Business Integrity Violation",
+        "description": "Actions that compromise business integrity, including falsification of records, misrepresentation, or unethical business practices."
+      },
+      {
+        "title": "Insider Threat Activity",
+        "description": "Malicious or negligent actions by employees, contractors, or trusted individuals that pose security or fraud risks."
+      }
+    ]
+  },
+  {
+    "riskarea": "Records Management",
+    "risks": [
+      {
+        "title": "Record Retention Violation",
+        "description": "Failure to maintain records for required retention periods or improper destruction of records subject to legal holds."
+      },
+      {
+        "title": "Medical Record Breach",
+        "description": "Unauthorized access, disclosure, or mishandling of medical records and health information protected under privacy laws."
+      },
+      {
+        "title": "Trade Secret Access Violation",
+        "description": "Improper access to or disclosure of confidential business information, trade secrets, or proprietary data."
+      },
+      {
+        "title": "Exposure Record Violation",
+        "description": "Failure to properly maintain, provide access to, or protect employee medical and exposure records."
+      },
+      {
+        "title": "Medical Surveillance Record Breach",
+        "description": "Improper handling or unauthorized access to medical surveillance records required for employees exposed to hazards."
+      }
+    ]
+  },
+  {
+    "riskarea": "Government Employee Training",
+    "risks": [
+      {
+        "title": "Clery Act Violation",
+        "description": "Failure by higher education institutions to comply with campus safety reporting and disclosure requirements."
+      },
+      {
+        "title": "Building Safety Breach",
+        "description": "Non-compliance with building safety regulations, codes, or standards that ensure safe occupancy and operations."
+      }
+    ]
+  },
+  {
+    "riskarea": "Hazardous Materials Management",
+    "risks": [
+      {
+        "title": "Material Identification Failure",
+        "description": "Failure to properly identify, classify, or label hazardous materials according to regulatory requirements and safety standards."
+      },
+      {
+        "title": "Improper Handling Incident",
+        "description": "Unsafe handling, transportation, or use of hazardous materials that violates safety protocols and regulatory requirements."
+      },
+      {
+        "title": "Storage Compliance Violation",
+        "description": "Improper storage of hazardous materials that fails to meet regulatory requirements for containment or protection."
+      },
+      {
+        "title": "Disposal Regulation Breach",
+        "description": "Improper disposal of hazardous materials that violates environmental regulations and waste management requirements."
+      },
+      {
+        "title": "Biohazardous Waste Violation",
+        "description": "Improper handling, storage, or disposal of biohazardous waste materials that poses health risks and violates regulations."
+      },
+      {
+        "title": "Combustible Dust Incident",
+        "description": "Workplace incidents involving combustible dust that can cause explosions or fires, requiring specific safety measures."
+      },
+      {
+        "title": "3D Printer Safety Violation",
+        "description": "Failure to follow safe practices when using 3D printers in the workplace, including proper ventilation."
+      },
+      {
+        "title": "Confined Space Entry Violation",
+        "description": "Failure to follow proper procedures for entering and working in confined spaces, creating asphyxiation or entrapment risks."
+      }
+    ]
+  },
+  {
+    "riskarea": "Chemical Safety",
+    "risks": [
+      {
+        "title": "Chemical Exposure Incident",
+        "description": "Workplace exposure to hazardous chemicals that poses health risks to employees and requires medical surveillance."
+      },
+      {
+        "title": "Benzene Exposure",
+        "description": "Occupational exposure to benzene, a known carcinogen, requiring specific monitoring, medical surveillance, and protective controls."
+      },
+      {
+        "title": "Beryllium Exposure",
+        "description": "Workplace exposure to beryllium that can cause chronic beryllium disease and requires specialized medical surveillance."
+      },
+      {
+        "title": "Cadmium Exposure",
+        "description": "Occupational exposure to cadmium that poses serious health risks and requires comprehensive exposure monitoring."
+      },
+      {
+        "title": "Asbestos Exposure",
+        "description": "Workplace exposure to asbestos fibers that can cause serious lung diseases and cancer, requiring strict measures."
+      },
+      {
+        "title": "Chlorine Exposure",
+        "description": "Occupational exposure to chlorine gas or compounds that can cause respiratory and health problems."
+      },
+      {
+        "title": "Ammonia Exposure",
+        "description": "Workplace exposure to ammonia that can cause severe health effects and requires proper handling procedures."
+      },
+      {
+        "title": "Carcinogen Exposure",
+        "description": "Occupational exposure to cancer-causing substances requiring specialized safety procedures, controls, and medical surveillance programs."
+      }
+    ]
+  },
+  {
+    "riskarea": "Fire Safety",
+    "risks": [
+      {
+        "title": "Fire Prevention Failure",
+        "description": "Inadequate fire prevention measures, including failure to maintain fire safety equipment, conduct inspections, or follow protocols."
+      },
+      {
+        "title": "Vehicle Fire Incident",
+        "description": "Fire incidents involving vehicles, including trucks and equipment, requiring specific response procedures and safety measures."
+      },
+      {
+        "title": "Wildfire Exposure",
+        "description": "Risk exposure to wildfires that threatens facilities, operations, or personnel safety, requiring emergency preparedness."
+      }
+    ]
+  },
+  {
+    "riskarea": "Emergency Preparedness and Response",
+    "risks": [
+      {
+        "title": "Emergency Response Failure",
+        "description": "Inadequate response to emergency situations including fires, chemical spills, natural disasters, or other critical incidents."
+      },
+      {
+        "title": "Business Continuity Disruption",
+        "description": "Failure to maintain business operations during emergencies or disasters due to inadequate continuity planning."
+      },
+      {
+        "title": "Home Office Emergency",
+        "description": "Emergency situations affecting remote workers or home office environments that require specific preparedness and response measures."
+      },
+      {
+        "title": "Cold Stress Incident",
+        "description": "Health incidents related to cold weather exposure, including hypothermia, frostbite, or other cold-related disorders."
+      },
+      {
+        "title": "Mpox Exposure Risk",
+        "description": "Risk of exposure to monkeypox (mpox) virus requiring specific prevention measures and response protocols."
+      },
+      {
+        "title": "Natural Disaster Response Failure",
+        "description": "Inadequate preparation for or response to natural disasters such as earthquakes, floods, hurricanes, or emergencies."
+      },
+      {
+        "title": "Heat Stress Incident",
+        "description": "Health incidents related to excessive heat exposure, including heat exhaustion, heat stroke, or heat-related disorders."
+      }
+    ]
+  },
+  {
+    "riskarea": "Personal Protective Equipment (PPE)",
+    "risks": [
+      {
+        "title": "Protective Equipment Failure",
+        "description": "Failure to provide, maintain, or properly use personal protective equipment required to protect workers from hazards."
+      },
+      {
+        "title": "Bloodborne Pathogen Exposure",
+        "description": "Risk of exposure to bloodborne pathogens such as hepatitis B, hepatitis C, or HIV requiring protective measures."
+      },
+      {
+        "title": "Respiratory Protection Failure",
+        "description": "Inadequate respiratory protection when required, including improper selection, use, or maintenance of respiratory protective equipment."
+      }
+    ]
+  },
+  {
+    "riskarea": "Electrical Safety",
+    "risks": [
+      {
+        "title": "Electrical Shock Incident",
+        "description": "Workplace incidents involving electrical shock that can cause injury or death, requiring proper safety procedures."
+      },
+      {
+        "title": "Electrocution Event",
+        "description": "Fatal electrical incidents resulting from contact with electrical current, requiring comprehensive safety protocols and emergency response."
+      },
+      {
+        "title": "Arc Flash Incident",
+        "description": "Dangerous electrical arc flash events that can cause severe burns and injuries, requiring specialized protective equipment."
+      },
+      {
+        "title": "Electrical Fire Hazard",
+        "description": "Fire risks associated with electrical equipment, wiring, or systems that require proper maintenance and safety measures."
+      }
+    ]
+  },
+  {
+    "riskarea": "Working from Heights",
+    "risks": [
+      {
+        "title": "Fall Protection Failure",
+        "description": "Inadequate fall protection systems or procedures when working at elevated heights, violating safety regulations and endangering workers."
+      },
+      {
+        "title": "Aerial Platform Accident",
+        "description": "Accidents involving aerial work platforms, lifts, or elevated equipment requiring specific safety training and protective measures."
+      },
+      {
+        "title": "Ladder Safety Incident",
+        "description": "Incidents involving improper ladder use, maintenance, or safety procedures that result in falls or injuries."
+      },
+      {
+        "title": "Scaffolding Fall Event",
+        "description": "Falls from scaffolding systems due to improper construction, use, or safety measures in construction work."
+      }
+    ]
+  },
+  {
+    "riskarea": "Hazard Communication",
+    "risks": [
+      {
+        "title": "Hazard Identification Failure",
+        "description": "Failure to properly identify and assess workplace hazards, preventing effective communication and protective measures."
+      },
+      {
+        "title": "Chemical Labeling Violation",
+        "description": "Improper labeling of chemical containers and hazardous materials that fails to communicate risks and safety information."
+      },
+      {
+        "title": "Safety Data Sheet Violation",
+        "description": "Failure to provide, maintain, or properly use Safety Data Sheets (SDS) that communicate chemical hazards."
+      }
+    ]
+  },
+  {
+    "riskarea": "Ergonomic Risk Assessment",
+    "risks": [
+      {
+        "title": "Back Injury Incident",
+        "description": "Workplace injuries to the back and spine caused by improper lifting, posture, or ergonomic hazards."
+      },
+      {
+        "title": "Ergonomic Workstation Failure",
+        "description": "Poorly designed workstations that create ergonomic risks and contribute to musculoskeletal disorders and repetitive strain injuries."
+      },
+      {
+        "title": "Home Office Injury",
+        "description": "Ergonomic injuries occurring in home office environments due to inadequate workspace setup or safety measures."
+      }
+    ]
+  },
+  {
+    "riskarea": "Workplace Violence Prevention",
+    "risks": [
+      {
+        "title": "Active Shooter Incident",
+        "description": "Armed individual actively engaged in killing or attempting to kill people in a workplace setting."
+      },
+      {
+        "title": "Workplace Violence Event",
+        "description": "Acts of violence, threats, or aggressive behavior in the workplace that endanger employee safety and require prevention."
+      },
+      {
+        "title": "Campus Safety Breach",
+        "description": "Security incidents on educational or corporate campuses that compromise safety and require emergency response and prevention."
+      },
+      {
+        "title": "De-escalation Failure",
+        "description": "Failure to properly de-escalate potentially violent or aggressive situations, leading to escalation of workplace conflicts."
+      },
+      {
+        "title": "Proximity Bias Incident",
+        "description": "Discriminatory treatment of remote workers compared to in-office employees, creating workplace inequality and potential issues."
+      }
+    ]
+  },
+  {
+    "riskarea": "Transportation Safety",
+    "risks": [
+      {
+        "title": "Vehicle Collision",
+        "description": "Traffic accidents involving company vehicles or employees during business travel that result in injuries, property damage."
+      },
+      {
+        "title": "Truck Accident",
+        "description": "Accidents involving commercial trucks or large vehicles, including specific reporting requirements and safety procedures."
+      },
+      {
+        "title": "Business Travel Incident",
+        "description": "Safety incidents occurring during business travel, including transportation accidents, security threats, or emergency situations."
+      },
+      {
+        "title": "Vehicle Safety Breach",
+        "description": "Violations of vehicle safety regulations, maintenance requirements, or operational safety procedures for company vehicles."
+      },
+      {
+        "title": "DOT Reporting Violation",
+        "description": "Failure to comply with Department of Transportation reporting requirements for accidents, incidents, or safety violations."
+      },
+      {
+        "title": "Vehicle Fire Response Failure",
+        "description": "Inadequate response to vehicle fire incidents, including failure to follow proper emergency procedures and protocols."
+      }
+    ]
+  },
+  {
+    "riskarea": "Construction Safety",
+    "risks": [
+      {
+        "title": "Construction Site Accident",
+        "description": "Workplace accidents occurring on construction sites involving falls, equipment injuries, or other construction-related hazards."
+      },
+      {
+        "title": "Utility Knife Injury",
+        "description": "Injuries caused by improper use or handling of utility knives and cutting tools in workplace settings."
+      },
+      {
+        "title": "3D Printer Injury",
+        "description": "Injuries related to 3D printer operation, including burns, cuts, or exposure to harmful materials."
+      }
+    ]
+  },
+  {
+    "riskarea": "Ergonomics Practices",
+    "risks": [
+      {
+        "title": "Musculoskeletal Disorder",
+        "description": "Work-related musculoskeletal disorders caused by poor ergonomic practices, repetitive motions, or inadequate workplace design."
+      },
+      {
+        "title": "Repetitive Strain Injury",
+        "description": "Injuries caused by repetitive motions, overuse, or sustained awkward positions that affect muscles, tendons, and nerves."
+      },
+      {
+        "title": "Workplace Design Failure",
+        "description": "Poorly designed workspaces that fail to consider ergonomic principles, leading to increased risk of injury."
+      }
+    ]
+  },
+  {
+    "riskarea": "Control of Hazardous Energy",
+    "risks": [
+      {
+        "title": "Lockout Tagout Failure",
+        "description": "Failure to properly implement lockout/tagout procedures when servicing machinery, creating risk of unexpected energy release."
+      },
+      {
+        "title": "Hazardous Energy Release",
+        "description": "Uncontrolled release of stored energy from machinery or equipment that can cause serious injury or death."
+      },
+      {
+        "title": "Equipment Isolation Failure",
+        "description": "Failure to properly isolate equipment from energy sources during maintenance or service, creating safety hazards."
+      },
+      {
+        "title": "Machine Guarding Failure",
+        "description": "Inadequate or missing machine guards and safety devices that protect workers from mechanical hazards like rotating parts."
+      }
+    ]
+  }
+]

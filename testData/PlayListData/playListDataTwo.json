@@ -1,0 +1,38 @@
+{
+    "PLAYLISTDATA": [
+        {
+            "playListName": "AzurePlayList",
+            "playListContent": [
+                {
+                    "contentItemTypeName": "ASSESSMENT",
+                    "contentItemUuid": "e85d9f18-2c67-4290-a70f-5faa7a61621a"
+                },
+                {
+                    "contentItemTypeName": "VIDEO",
+                    "contentItemUuid": "14489cf9-bd3c-4754-b097-9ac3f0b7ff85"
+                },
+                {
+                    "contentItemTypeName": "COURSE",
+                    "contentItemUuid": "adcdc550-5c08-41f8-a8a5-96af8e0afb89"
+                }
+            ]
+        },
+        {
+            "playListName": "LeaderShipPlayList",
+            "playListContent": [
+                {
+                    "contentItemTypeName": "ASSESSMENT",
+                    "contentItemUuid": "56d35425-7ac5-4fbe-ae1f-7754a38f40cc"
+                },
+                {
+                    "contentItemTypeName": "COURSE",
+                    "contentItemUuid": "5629d5b1-fea5-11e6-8638-0242c0a80b06"
+                },
+                {
+                    "contentItemTypeName": "BOOK",
+                    "contentItemUuid": "b87f72c0-bfdc-11e7-81db-ea0d1d097c44"
+                }
+            ]
+        }
+    ]
+}

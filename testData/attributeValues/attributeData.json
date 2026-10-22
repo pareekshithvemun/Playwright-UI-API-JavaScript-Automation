@@ -1,0 +1,52 @@
+{
+    "attributeData": [
+      {
+        "attributeName": "Region",
+        "attributeValues": ["NA", "EMEA", "APAC"]
+      },
+      {
+        "attributeName": "Department",
+        "attributeValues": [
+          "Engineering",
+          "Sales",
+          "Production",
+          "Technology",
+          "HR",
+          "Product",
+          "Legal",
+          "Administration",
+          "Finance",
+          "Marketing"
+        ]
+      },
+      {
+        "attributeName": "Job Title",
+        "attributeValues": [
+          "Software engineer",
+          "Project Manager",
+          "Program Manager",
+          "Manager",
+          "Director",
+          "Analyst",
+          "Architect",
+          "Automation Engineer",
+          "Channel Sales Manager",
+          "Cloud Systems Administrator",
+          "Consultant",
+          "Compliance Manager",
+          "Corporate Trainer",
+          "Data Scientist",
+          "IT Manager",
+          "Learning and Development Specialist",
+          "Retail Sales Associate",
+          "Sales Associate",
+          "Production Operations Associate",
+          "Health and Safety Coordinator",
+          "Customer Success Manager",
+          "Sales Director",
+          "VP of Technology"
+        ]
+      }
+    ]
+  }
+  

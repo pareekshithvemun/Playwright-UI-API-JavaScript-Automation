@@ -1,0 +1,72 @@
+[
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Company Vision Pitch",
+    "title": "Communicating Organizational Change",
+    "description": "Customer facing employee who has to communicate organizational change (change in vision / direction) to a customer",
+    "categoryName": "Sales & Marketing",
+    "behavior": "Accepting",
+    "scenarioPrompt": "In this scenario, a customer-facing employee is addressing a customer inquiry regarding recent changes in their organization. The customer is curious about how the company's new direction aligns with their own goals and industry needs. The employee must effectively communicate the company's vision and demonstrate its relevance to the customer's interests.\n\nThe employee's goal is to confidently explain the company's changes, ensure the customer understands the new direction, and illustrate how the changes will provide value to the customer within their industry. The employee will use authentic language to build trust and create an open dialogue, encouraging the customer to share their thoughts and ask questions.\n\nThe employee and the customer are already engaged in a conversation. Now, the employee will first acknowledge the customer's inquiry and provide a clear explanation of the organization's changes, emphasizing the benefits for the customer and their industry. The employee will ask open-ended questions to better understand the customer's goals and concerns and will tailor their responses to align the company's vision with the customer's needs. By fostering a collaborative and transparent discussion, the employee aims to reassure the customer and strengthen their relationship.",
+    "metaData": {
+      "description": "In this scenario, a customer-facing employee responds to a customer's inquiry about recent changes within their organization. The employee must clearly explain the company's new direction, connect the company's vision to the customer's goals and industry, and use confident, authentic language to build trust. Success is achieved when the customer acknowledges understanding and the conversation invites open, two-way dialogue.",
+      "sourceName": "Custom"
+    },
+    "documentNames": [
+      "Pitching the vision document"
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Starting Strong with Your Manager",
+    "title": "Starting Strong With Your Manager",
+    "description": "New hire meeting with their direct manager to build rapport, request support, and understand expectations",
+    "categoryName": "Relationship Building",
+    "behavior": "Accepting",
+    "scenarioPrompt": "In this scenario, a new hire is meeting with their direct manager to discuss their role, seek support, and build a foundation for a strong working relationship. The new hire wants to ensure they understand the manager's expectations and establish effective communication to excel in their position.\n\nThe new hire's goal is to approach the conversation with honesty and professionalism, share their personal goals and needs, and seek clarity on how to collaborate effectively. They aim to leave the meeting with a clear understanding of the manager's expectations, as well as a concrete action plan to guide their initial steps in the role and ensure continued support.\n\nThe new hire and the manager have sat down for their meeting. The new hire will start by sharing how their role has been going, outlining their need for support, and asking open-ended questions to understand the manager's expectations. The new hire will work to build rapport by demonstrating enthusiasm, listening actively, and identifying opportunities for mutual alignment. Together, they will develop an action plan that ensures the new hire's success and facilitates ongoing communication moving forward.",
+    "metaData": {
+      "description": "In this scenario, a new hire meets with their direct manager to seek support, build rapport, and establish a strong working relationship. The new hire aims to communicate honestly and professionally, share their goals and needs, seek clarity on the manager's expectations, and develop a concrete action plan for ongoing, mutual support.",
+      "sourceName": "Custom"
+    },
+    "documentNames": [
+      "Relationship Building"
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Automation",
+    "title": "Handling Customer Feedback",
+    "description": "Employee handling constructive customer feedback and turning it into improvement opportunities",
+    "categoryName": "Customer Service",
+    "behavior": "Accepting",
+    "scenarioPrompt": "In this scenario, a customer service representative is addressing feedback from a customer who has experienced issues with the company's product or service. The customer has shared constructive criticism and expects the employee to acknowledge their concerns and provide solutions.\n\nThe employee's goal is to listen actively, empathize with the customer's experience, and demonstrate a commitment to resolving the issue. The employee will use professional and supportive language to build trust and show the customer that their feedback is valued and will lead to meaningful improvements.\n\nThe employee and the customer are engaged in a conversation. The employee will first acknowledge the customer's feedback, apologize for any inconvenience caused, and ask clarifying questions to fully understand the situation. The employee will then propose actionable solutions and follow-up steps, ensuring the customer feels heard and confident that their concerns are being addressed.",
+    "metaData": {
+      "description": "In this scenario, a customer service representative responds to constructive customer feedback. The employee must listen actively, acknowledge concerns, empathize with the customer experience, and propose actionable solutions. Success is achieved when the customer feels valued and confident that their feedback will lead to improvements.",
+      "sourceName": "Custom"
+    },
+    "documentNames": [
+      "New Knowledge Document - Automation Test"
+    ]
+  },
+  {
+    "WorkspaceName": "Kowshik",
+    "ProjectName": "Akara Digital Customer Experience Launch",
+    "title": "Supporting Customers Through OneTouch Digital Onboarding",
+    "description": "In this scenario, an Akara Customer Service Advisor assists a long-standing, older customer who is interested in adopting Akara's new Digital Customer Experience App but is cautious about security and feature limitations. The advisor explores the customer's needs, addresses concerns, demonstrates app functionality, handles objections regarding feature gaps, and guides the customer through downloading and registering for the app, ensuring a positive and supportive experience.",
+    "categoryName": "Transforming Resistance into Digital Support",
+    "behavior": "Accepting",
+    "scenarioPrompt": "In this customer onboarding scenario, an Akara Customer Service Advisor is supporting a long-standing customer in navigating the transition to Akara's new Digital Customer Experience App and Website. The customer is from an older generation and is interested in adopting the technology but has reservations about potential risks, including security and usability concerns. The advisor's goal is to address the customer's hesitations, highlight the app's benefits, and guide them through downloading and registering for the app.\n\nThe Akara Customer Service Advisor's objectives:\n- Explore the customer's needs and preferences by asking open-ended questions about what features of the app would be beneficial to them.\n- Acknowledge the customer's concerns by actively listening and validating their feelings in a conversational and reassuring manner.\n- Guide the customer by demonstrating one task—such as checking account details or making a payment—step-by-step within the app to showcase its ease of use.\n- Handle objections by addressing any feature gaps or security concerns, offering alternative solutions where possible, and setting clear expectations about future updates and improvements.\n- Close the interaction by confirming that the customer understands the process, outlining clear next steps, and providing positive reinforcement to encourage the customer to utilize the app confidently.\n\nThe Akara Customer Service Advisor and the customer are already on a phone or video call. The advisor will begin the conversation by asking the customer about their specific needs and concerns. Through empathetic and effective communication, the advisor will work to reassure the customer, provide guidance on how to use the app, and ultimately assist them in downloading and registering for the service.",
+    "metaData": {
+      "description": "In this scenario, an Akara Customer Service Advisor assists a long-standing, older customer who is interested in adopting Akara's new Digital Customer Experience App but is cautious about security and feature limitations. The advisor explores the customer's needs, addresses concerns, demonstrates app functionality, handles objections regarding feature gaps, and guides the customer through downloading and registering for the app, ensuring a positive and supportive experience.",
+      "sourceName": "Custom"
+    },
+    "skillNames": [
+      "Customer Service",
+      "Product Knowledge"
+    ],
+    "documentNames": [
+      "Akara_OneTouch_FAQ",
+      "Akara_OneTouch_Product_Overview",
+      "Akara_OneTouch_Frontline_Agent_Script"
+    ]
+  }
+]

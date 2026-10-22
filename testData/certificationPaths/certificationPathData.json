@@ -1,0 +1,783 @@
+{
+    "certificationPaths": [
+        {
+            "JourneyName": "AWS Certified Developer Learning Path",
+            "JourneyDescription": "This learning path is tailored for aspiring AWS developers seeking to build strong foundational skills in AWS Cloud. It covers essential programming constructs, object-oriented design, exception handling, and features unique to AWS such as lambda expressions and streams. It serves as a preparation route for the 1Z0-808 certification exam, enabling developers to write reliable and efficient code.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "AWS Fundamentals & Certification Prep",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track provides in-depth knowledge of AWS basics, including syntax, object-oriented programming concepts, flow control, and exception management. It also highlights the innovations introduced in AWS, helping learners master the required topics for the AWS 1Z0-808 certification.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "0e4c0884-3f86-45fc-924e-6e6903eaf9a6",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "true",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "AWS",
+                    "secondarySubjectTitle": "Developing"
+                },
+                {
+                    "primarySubjectTitle": "Cloud Services",
+                    "secondarySubjectTitle": "Cloud Basics"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "Foundations of Information Security & Risk Governance Journey",
+            "JourneyDescription": "This program covers the foundations of professional ethics, security governance, legal and regulatory compliance, and risk management in information security. It includes developing and implementing security policies, managing investigations, assessing threats, and supporting business continuity. Emphasis is also placed on supply chain risk, personnel security, and building effective security awareness programs.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Risk Management",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "In this track, the focus will be on understanding, adhering to, and promoting professional ethics; understanding and applying security concepts; evaluating and applying security governance principles; understand legal, regulatory, and compliance issues that pertain to information security in a holistic context; understanding requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards); This track will also cover developing, documenting, and implementing security policy, standards, procedures, and guidelines; identifying, analyzing, assessing, prioritizing, and implementing Business Continuity (BC) requirements; contributing to and enforcing personnel security policies and procedures; understanding and applying risk management concepts; understanding and applying threat modeling concepts and methodologies; applying Supply Chain Risk Management (SCRM) concepts; and establishing and maintaining a security awareness, education, and training program.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "9c0201ec-2832-47e7-8f30-6660ba1b8b37",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "(ISC)2",
+                    "secondarySubjectTitle": "Information Security"
+                },
+                {
+                    "primarySubjectTitle": "Security",
+                    "secondarySubjectTitle": "Information Security"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "Information Systems Security Journey",
+            "JourneyDescription": "This program covers the foundations of professional ethics, security governance, legal and regulatory compliance, and risk management in information security. It includes developing and implementing security policies, managing investigations, assessing threats, and supporting business continuity. Emphasis is also placed on supply chain risk, personnel security, and building effective security awareness programs.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Security and Risk Management",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "In this track, the focus will be on understanding, adhering to, and promoting professional ethics; understanding and applying security concepts; evaluating and applying security governance principles; understand legal, regulatory, and compliance issues that pertain to information security in a holistic context; understanding requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards); This track will also cover developing, documenting, and implementing security policy, standards, procedures, and guidelines; identifying, analyzing, assessing, prioritizing, and implementing Business Continuity (BC) requirements; contributing to and enforcing personnel security policies and procedures; understanding and applying risk management concepts; understanding and applying threat modeling concepts and methodologies; applying Supply Chain Risk Management (SCRM) concepts; and establishing and maintaining a security awareness, education, and training program.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "aeae60df-51cc-4d00-8e28-405620600c51",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "(ISC)2",
+                    "secondarySubjectTitle": "Information Security"
+                },
+                {
+                    "primarySubjectTitle": "Security",
+                    "secondarySubjectTitle": "Information Security"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "IT Security and Risk Management Journey",
+            "JourneyDescription": "This program covers the foundations of professional ethics, security governance, legal and regulatory compliance, and risk management in information security. It includes developing and implementing security policies, managing investigations, assessing threats, and supporting business continuity. Emphasis is also placed on supply chain risk, personnel security, and building effective security awareness programs.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Information Security",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "In this track, the focus will be on understanding, adhering to, and promoting professional ethics; understanding and applying security concepts; evaluating and applying security governance principles; understand legal, regulatory, and compliance issues that pertain to information security in a holistic context; understanding requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards); This track will also cover developing, documenting, and implementing security policy, standards, procedures, and guidelines; identifying, analyzing, assessing, prioritizing, and implementing Business Continuity (BC) requirements; contributing to and enforcing personnel security policies and procedures; understanding and applying risk management concepts; understanding and applying threat modeling concepts and methodologies; applying Supply Chain Risk Management (SCRM) concepts; and establishing and maintaining a security awareness, education, and training program.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "c68fa79d-8393-4c26-bd02-8cd5afbbf1c1",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "(ISC)2",
+                    "secondarySubjectTitle": "Information Security"
+                },
+                {
+                    "primarySubjectTitle": "Security",
+                    "secondarySubjectTitle": "Information Security"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "Foundations of Cloud Computing & AWS Essentials Journey",
+            "JourneyDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area. In this Journey, you will explore the the fundamentals of cloud computing, as well as AWS, Azure, and Google Cloud concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Cloud Fundamentals & Service Models",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "58ed1c81-f42d-4ef3-9023-5439ac628b9c",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "AWS",
+                    "secondarySubjectTitle": "Developing"
+                },
+                {
+                    "primarySubjectTitle": "Cloud Services",
+                    "secondarySubjectTitle": "Cloud Basics"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "AWS Cloud Practitioner Essentials Journey",
+            "JourneyDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area. In this Journey, you will explore the the fundamentals of cloud computing, as well as AWS, Azure, and Google Cloud concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Core Cloud Concepts",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "55c30031-0c29-4639-8018-f949f58abd8d",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "AWS",
+                    "secondarySubjectTitle": "Developing"
+                },
+                {
+                    "primarySubjectTitle": "Cloud Services",
+                    "secondarySubjectTitle": "Cloud Basics"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "AWS Architecting Essentials Journey",
+            "JourneyDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area. In this Journey, you will explore the the fundamentals of cloud computing, as well as AWS, Azure, and Google Cloud concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "AWS Architect",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "Cloud computing is now a key driver for delivering the value propositions for many small-to-medium sized businesses, large enterprises, global corporations, and government entities around the world. As a result, many IT practitioners and career-shifting professionals are making the wise decision to expand their knowledge into this important area.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "7ccf5796-eb54-4230-9228-84264a42c546",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "AWS",
+                    "secondarySubjectTitle": "Developing"
+                },
+                {
+                    "primarySubjectTitle": "Cloud Services",
+                    "secondarySubjectTitle": "Cloud Basics"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "CAPM Exam Prep: Essentials of Project Management Journey",
+            "JourneyDescription": "This program provides a comprehensive introduction to fundamental project management concepts and processes as defined in the PMBOK® Guide. Ideal for aspiring project managers and professionals aiming to enhance their skills, this journey prepares you to take the CAPM certification exam offered by the Project Management Institute (PMI).",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Core Knowledge Areas of Project Management",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the core areas of project management including integration, scope, schedule, cost, quality, resource, communication, risk, procurement, and stakeholder management. It emphasizes the essential principles and best practices outlined in the PMBOK® Guide to build a solid foundation in managing projects.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "c5aac7e8-a1ee-4b10-846b-b1297445b3b5",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Project Management Institute (PMI)®",
+                    "secondarySubjectTitle": "Project Management"
+                },
+                {
+                    "primarySubjectTitle": "Project Management",
+                    "secondarySubjectTitle": "Project Management Core Concepts"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "Project Management Fundamentals Journey",
+            "JourneyDescription": "This program provides a comprehensive introduction to fundamental project management concepts and processes as defined in the PMBOK® Guide. Ideal for aspiring project managers and professionals aiming to enhance their skills, this journey prepares you to take the CAPM certification exam offered by the Project Management Institute (PMI).",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Project Management Fundamentals",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the core areas of project management including integration, scope, schedule, cost, quality, resource, communication, risk, procurement, and stakeholder management. It emphasizes the essential principles and best practices outlined in the PMBOK® Guide to build a solid foundation in managing projects.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "6003ad0c-b7c9-4f8a-b07b-5ce9ccc11083",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Project Management Institute (PMI)®",
+                    "secondarySubjectTitle": "Project Management"
+                },
+                {
+                    "primarySubjectTitle": "Project Management",
+                    "secondarySubjectTitle": "Project Management Core Concepts"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "Project Management Techniques Journey",
+            "JourneyDescription": "This program provides a comprehensive introduction to fundamental project management concepts and processes as defined in the PMBOK® Guide. Ideal for aspiring project managers and professionals aiming to enhance their skills, this journey prepares you to take the CAPM certification exam offered by the Project Management Institute (PMI).",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Project Management Tools",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the core areas of project management including integration, scope, schedule, cost, quality, resource, communication, risk, procurement, and stakeholder management. It emphasizes the essential principles and best practices outlined in the PMBOK® Guide to build a solid foundation in managing projects.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "86f8a199-f503-4d99-b38f-ef447d196770",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Project Management Institute (PMI)®",
+                    "secondarySubjectTitle": "Project Management"
+                },
+                {
+                    "primarySubjectTitle": "Project Management",
+                    "secondarySubjectTitle": "Project Management Core Concepts"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "Microsoft Azure Developer Essentials Journey",
+            "JourneyDescription": "Azure is a comprehensive cloud platform providing a range of cloud services, including computing, analytics, storage, and networking. In this Journey, you will explore the fundamentals of cloud computing with a focus on Azure services and capabilities.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/2cwxphx8bwhrsffvstf4ptk/cloud.jpg?auto=webp&format=jpg&width=800&height=450",
+            "Tracks": [
+                {
+                    "trackName": "Fundamentals of Azure Services & Deployment",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/q4k9m5zscfqpf4pb8qwmw3/Core_Cloud_Concepts.jpg?auto=webp&format=jpg&width=800&height=533",
+                    "trackDescription": "Learn the fundamentals of Azure cloud services, including computing, storage, and networking. Gain practical knowledge on how to deploy and manage services on Azure.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "bec1662d-e3df-4f96-a7fa-d672eba5624c",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Data",
+                    "secondarySubjectTitle": "Data Analytics"
+                },
+                {
+                    "primarySubjectTitle": "Microsoft Azure",
+                    "secondarySubjectTitle": "Microsoft Azure Certified Fundamentals"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "Developing Solutions for Microsoft Azure Journey",
+            "JourneyDescription": "Azure is a comprehensive cloud platform providing a range of cloud services, including computing, analytics, storage, and networking. In this Journey, you will explore the fundamentals of cloud computing with a focus on Azure services and capabilities.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/2cwxphx8bwhrsffvstf4ptk/cloud.jpg?auto=webp&format=jpg&width=800&height=450",
+            "Tracks": [
+                {
+                    "trackName": "Azure Fundamentals",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/q4k9m5zscfqpf4pb8qwmw3/Core_Cloud_Concepts.jpg?auto=webp&format=jpg&width=800&height=533",
+                    "trackDescription": "Learn the fundamentals of Azure cloud services, including computing, storage, and networking. Gain practical knowledge on how to deploy and manage services on Azure.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "8218e096-41e1-4d68-b07c-08db56406dc6",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Data",
+                    "secondarySubjectTitle": "Data Analytics"
+                },
+                {
+                    "primarySubjectTitle": "Microsoft Azure",
+                    "secondarySubjectTitle": "Microsoft Azure Certified Fundamentals"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "Building Cloud Applications with Microsoft Azure Journey",
+            "JourneyDescription": "Azure is a comprehensive cloud platform providing a range of cloud services, including computing, analytics, storage, and networking. In this Journey, you will explore the fundamentals of cloud computing with a focus on Azure services and capabilities.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/2cwxphx8bwhrsffvstf4ptk/cloud.jpg?auto=webp&format=jpg&width=800&height=450",
+            "Tracks": [
+                {
+                    "trackName": "Azure Services: Compute, Storage & Networking",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/q4k9m5zscfqpf4pb8qwmw3/Core_Cloud_Concepts.jpg?auto=webp&format=jpg&width=800&height=533",
+                    "trackDescription": "Learn the core components of Azure, focusing on compute, storage, and networking. Understand how to deploy and manage scalable applications using Azure's integrated cloud services.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "a6444c6e-ede1-49cb-9b2f-2657444454c3",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Data",
+                    "secondarySubjectTitle": "Data Analytics"
+                },
+                {
+                    "primarySubjectTitle": "Microsoft Azure",
+                    "secondarySubjectTitle": "Microsoft Azure Certified Fundamentals"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "CompTIA Security+ Certification Prep Journey",
+            "JourneyDescription": "This journey is designed to equip you with the essential knowledge and skills needed to excel in cybersecurity. Explore a wide range of topics including Threats, Attacks, and Vulnerabilities; Architecture and Design; Implementation; Operations and Incident Response; and Governance, Risk, and Compliance. Build a solid foundation in cybersecurity and prepare to become a certified security professional with the SY0-701: CompTIA Security+ certification exam!",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Core Domains of Cybersecurity",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the core areas essential for the SY0-701 exam. Delve into understanding threats, attacks, and vulnerabilities, explore architecture and design principles, and learn about implementation, operations, and incident response strategies. The track also addresses governance, risk, and compliance to ensure a holistic view of cybersecurity.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "b7e0f656-b8e2-433a-b13e-569d48f571e1",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "CompTIA",
+                    "secondarySubjectTitle": "Cybersecurity"
+                },
+                {
+                    "primarySubjectTitle": "Infrastructure & Operations",
+                    "secondarySubjectTitle": "IT Services"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "CompTIA Security Journey",
+            "JourneyDescription": "This journey is designed to equip you with the essential knowledge and skills needed to excel in cybersecurity. Explore a wide range of topics including Threats, Attacks, and Vulnerabilities; Architecture and Design; Implementation; Operations and Incident Response; and Governance, Risk, and Compliance. Build a solid foundation in cybersecurity and prepare to become a certified security professional with the SY0-701: CompTIA Security+ certification exam!",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Cybersecurity Fundamentals",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the core areas essential for the SY0-701 exam. Delve into understanding threats, attacks, and vulnerabilities, explore architecture and design principles, and learn about implementation, operations, and incident response strategies. The track also addresses governance, risk, and compliance to ensure a holistic view of cybersecurity.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "27ccc208-242a-45a3-b462-1c92b70d533b",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "CompTIA",
+                    "secondarySubjectTitle": "Cybersecurity"
+                },
+                {
+                    "primarySubjectTitle": "Infrastructure & Operations",
+                    "secondarySubjectTitle": "IT Services"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        },
+        {
+            "JourneyName": "CompTIA Data Journey",
+            "JourneyDescription": "This journey helps you build foundational skills in data management, analytics, and data-driven decision-making. Ideal for data analysts, administrators, and business analysts, it covers data lifecycle management, analysis techniques, and data security to prepare you for the CompTIA Data+ exam.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Data Fundamentals",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the basics of managing the data lifecycle, using analysis techniques, and ensuring data accuracy and security.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "607b5ee0-7fd7-4b4c-8ff3-41bdcb468510",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Infrastructure & Operations",
+                    "secondarySubjectTitle": "IT Services"
+                },
+                {
+                    "primarySubjectTitle": "CompTIA",
+                    "secondarySubjectTitle": "Data and Analytics"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "Java SE 8 Programmer Journey",
+            "JourneyDescription": "This journey is designed for individuals who want to demonstrate their foundational knowledge of Java programming using Java SE 8. It is ideal for developers new to Java or those with some experience who wish to validate their skills and deepen their understanding of the language. The exam tests the ability to write, compile, and troubleshoot Java programs, covering key concepts such as object-oriented programming, data types, control flow, exceptions, and the new features introduced in Java 8. The journey is structured around core fundamentals to ensure a solid grasp of Java syntax and programming concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Java Programming Fundamentals",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the essentials of Java programming including syntax, object-oriented principles, data types, control flow, and exception handling. It also focuses on the new features introduced in Java SE 8, preparing you for the 1Z0-808 exam by ensuring a robust understanding of both Java fundamentals and practical programming skills.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "e0283202-ea51-11e6-965b-0242c0a80b04",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "LEARNING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Oracle",
+                    "secondarySubjectTitle": "Professional"
+                },
+                {
+                    "primarySubjectTitle": "Programming",
+                    "secondarySubjectTitle": "Programming Languages"
+                }
+            ],
+            "defaultUsers": [
+                "Libby_Bright",
+                "Anna_Cole",
+                "James_Graves",
+                "Roseanna_Mcgowan",
+                "Peter_Gill",
+                "Patrick_Stephenson"
+            ]
+        },
+        {
+            "JourneyName": "Oracle Certified Java SE 8 Associate Prep Journey",
+            "JourneyDescription": "This journey is designed for individuals who want to demonstrate their foundational knowledge of Java programming using Java SE 8. It is ideal for developers new to Java or those with some experience who wish to validate their skills and deepen their understanding of the language. The exam tests the ability to write, compile, and troubleshoot Java programs, covering key concepts such as object-oriented programming, data types, control flow, exceptions, and the new features introduced in Java 8. The journey is structured around core fundamentals to ensure a solid grasp of Java syntax and programming concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Mastering Java SE 8 Essentials",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the essentials of Java programming including syntax, object-oriented principles, data types, control flow, and exception handling. It also focuses on the new features introduced in Java SE 8, preparing you for the 1Z0-808 exam by ensuring a robust understanding of both Java fundamentals and practical programming skills.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "284fea95-d1a5-49a8-a7ae-44c38082266d",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "PRACTICING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Oracle",
+                    "secondarySubjectTitle": "Professional"
+                },
+                {
+                    "primarySubjectTitle": "Programming",
+                    "secondarySubjectTitle": "Programming Languages"
+                }
+            ],
+            "defaultUsers": [
+                "Fergus_Tyler",
+                "Raheem_Ahmed",
+                "Ronald_Chen",
+                "Alisa_Massey",
+                "Jonathan_Tan"
+            ]
+        },
+        {
+            "JourneyName": "Java SE 8 Developer Certification Path Journey",
+            "JourneyDescription": "This journey is designed for individuals who want to demonstrate their foundational knowledge of Java programming using Java SE 8. It is ideal for developers new to Java or those with some experience who wish to validate their skills and deepen their understanding of the language. The exam tests the ability to write, compile, and troubleshoot Java programs, covering key concepts such as object-oriented programming, data types, control flow, exceptions, and the new features introduced in Java 8. The journey is structured around core fundamentals to ensure a solid grasp of Java syntax and programming concepts.",
+            "JourneyImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+            "Tracks": [
+                {
+                    "trackName": "Java Core & OOP Mastery",
+                    "trackImage": "https://cdn.bfldr.com/YWP0W9AT/at/jpj3jg7m8wq77584hc3cp7jn/Cloud.jpg?auto=webp&format=jpg&width=800&height=554",
+                    "trackDescription": "This track covers the essentials of Java programming including syntax, object-oriented principles, data types, control flow, and exception handling. It also focuses on the new features introduced in Java SE 8, preparing you for the 1Z0-808 exam by ensuring a robust understanding of both Java fundamentals and practical programming skills.",
+                    "trackContent": [
+                        {
+                            "contentItemUuid": "0e4c0884-3f86-45fc-924e-6e6903eaf9a6",
+                            "contentItemType": "VIDEO"
+                        }
+                    ],
+                    "trackMileStone": "OBTAINING"
+                }
+            ],
+            "proofOfCertificationNeeded": "false",
+            "subjects": [
+                {
+                    "primarySubjectTitle": "Oracle",
+                    "secondarySubjectTitle": "Professional"
+                },
+                {
+                    "primarySubjectTitle": "Programming",
+                    "secondarySubjectTitle": "Programming Languages"
+                }
+            ],
+            "defaultUsers": [
+                "Carolyn_Stephenson",
+                "Isabella_Garcia",
+                "Linda_Cole",
+                "Raja_Reid",
+                "May_Donovan"
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "certification": "Certified Associate in Project Management (CAPM)®",
+            "course": "CAPM®: Project Management Key Concepts"
+        },
+        {
+            "certification": "PL-300: Power BI Data Analyst",
+            "course": "Prepare the data"
+        },
+        {
+            "certification": "SAA-C03:AWS Certified Solutions Architect - Associate",
+            "course": "AWS Solutions Architect Associate 2022: Architecture & Tools"
+        },
+        {
+            "certification": "1Z0-808: Java SE 8 Programmer I",
+            "course": "Introduction to Java"
+        },
+        {
+            "certification": "Certified Information Systems Security Professional - CISSP",
+            "course": "CISSP 2024: Professional Ethics & Security Concepts"
+        },
+        {
+            "certification": "200-201: Understanding Cisco Cybersecurity Operations Fundamentals (CBROPS)",
+            "course": "CBROPS: The CIA Triad & Security Approaches"
+        },
+        {
+            "certification": "Certified Kubernetes Administrator (CKA) 2024",
+            "course": "Kubernetes Administrator 2024: Application Containers"
+        },
+        {
+            "certification": "Six Sigma Black Belt Certification",
+            "course": "Six Sigma Black Belt: Lean and Six Sigma Fundamentals"
+        },
+        {
+            "certification": "SC-900: Microsoft Security, Compliance, and Identity Fundamentals",
+            "course": "Microsoft Security: Compliance Concepts & Methodologies"
+        },
+        {
+            "certification": "MS-700: Managing Microsoft Teams",
+            "course": "Managing Microsoft Teams: Network Planning & Configuration"
+        },
+        {
+            "certification": "AIF-C01: AWS Certified AI Practitioner",
+            "course": "AWS AI Practitioner: Basic AI Concepts and Terminologies"
+        },
+        {
+            "certification": "Project Management Professional (PMP)®",
+            "course": "PMP ATP Attendance 5-Day and 8-Day"
+        },
+        {
+            "certification": "Google Professional Cloud Architect",
+            "course": "Google Professional Cloud Architect: Cloud Architecture & System Design"
+        },
+        {
+            "certification": "Google Cloud Digital Leader",
+            "course": "Google Cloud Digital Leader: Digital Transformation with the Cloud"
+        },
+        {
+            "certification": "Google Professional Cloud Developer",
+            "course": "Google Professional Cloud Developer: Cloud Applications & APIs"
+        },
+        {
+            "certification": "Google Professional Cloud DevOps Engineer",
+            "course": "Google Professional DevOps Engineer: Introduction to DevOps Fundamentals"
+        },
+        {
+            "certification": "Google Professional Data Engineer",
+            "course": "GCP Data Engineer Pro: Becoming a Google Cloud Data Engineer"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+  "password": "P@ssw0rd123@",
+  "learningAdmin": {
+    "firstName": "CollMap",
+    "lastName": "LearningAdmin",
+    "roleName": "LearningAdmin"
+  },
+  "learners": [
+    {
+      "label": "Enterprise Essentials 2.0",
+      "firstName": "CollMap",
+      "lastName": "Essentials2.0",
+      "attributeName": "License - Enterprise",
+      "attributeValue": "Essentials 2.0",
+      "isMultiValue": false
+    },
+    {
+      "label": "Enterprise Essentials 2.0 Plus",
+      "firstName": "CollMap",
+      "lastName": "Essentials2.0Plus",
+      "attributeName": "License - Enterprise",
+      "attributeValue": "Essentials 2.0 Plus",
+      "isMultiValue": false
+    },
+    {
+      "label": "Enterprise Expert 3.0",
+      "firstName": "CollMap",
+      "lastName": "Expert3.0",
+      "attributeName": "License - Enterprise",
+      "attributeValue": "Expert 3.0",
+      "isMultiValue": false
+    },
+    {
+      "label": "Compliance ES&H",
+      "firstName": "CollMap",
+      "lastName": "ESH",
+      "attributeName": "License - Compliance",
+      "attributeValue": "ES&H",
+      "isMultiValue": false
+    },
+    {
+      "label": "Compliance Legal",
+      "firstName": "CollMap",
+      "lastName": "Legal",
+      "attributeName": "License - Compliance",
+      "attributeValue": "Legal",
+      "isMultiValue": false
+    },
+    {
+      "label": "Compliance Complete",
+      "firstName": "CollMap",
+      "lastName": "Complete",
+      "attributeName": "License - Compliance",
+      "attributeValue": "Complete",
+      "isMultiValue": false
+    },
+    {
+      "label": "Focused Business Expert",
+      "firstName": "CollMap",
+      "lastName": "BusinessExpert",
+      "attributeName": "License - Focused",
+      "attributeValue": "Business Expert",
+      "isMultiValue": false
+    },
+    {
+      "label": "Focused Codecademy Expert",
+      "firstName": "CollMap",
+      "lastName": "CodecademyExpert",
+      "attributeName": "License - Focused",
+      "attributeValue": "Codecademy Expert",
+      "isMultiValue": false
+    },
+    {
+      "label": "Engineering",
+      "firstName": "CollMap",
+      "lastName": "Engineering",
+      "attributeName": "License - Engineering",
+      "attributeValue": "Yes",
+      "isMultiValue": false
+    },
+    {
+      "label": "ITIL",
+      "firstName": "CollMap",
+      "lastName": "ITIL",
+      "attributeName": "License - ITIL",
+      "attributeValue": "Yes",
+      "isMultiValue": false
+    },
+    {
+      "label": "Selected Open Resources",
+      "firstName": "CollMap",
+      "lastName": "SelectedOpenResources",
+      "attributeName": "Selected Open Resources",
+      "attributeValue": "Yes",
+      "isMultiValue": false
+    },
+    {
+      "label": "Frontline Workforce",
+      "firstName": "CollMap",
+      "lastName": "FrontlineWorkforce",
+      "attributeName": "License - Frontline Workforce",
+      "attributeValue": "Yes",
+      "isMultiValue": false
+    },
+    {
+      "label": "SLDP",
+      "firstName": "CollMap",
+      "lastName": "SLDP",
+      "attributeName": "License - SLDP",
+      "attributeValue": "Yes",
+      "isMultiValue": false
+    },
+    {
+      "label": "Partner goFluent",
+      "firstName": "CollMap",
+      "lastName": "goFluent",
+      "attributeName": "Partner Content Options",
+      "attributeValue": "goFluent",
+      "isMultiValue": true
+    },
+    {
+      "label": "Partner CMD+CTRL",
+      "firstName": "CollMap",
+      "lastName": "CMDCTRL",
+      "attributeName": "Partner Content Options",
+      "attributeValue": "CMD+CTRL",
+      "isMultiValue": true
+    },
+    {
+      "label": "Partner wintellect",
+      "firstName": "CollMap",
+      "lastName": "wintellect",
+      "attributeName": "Partner Content Options",
+      "attributeValue": "wintellect",
+      "isMultiValue": true
+    },
+    {
+      "label": "Partner mitxpro",
+      "firstName": "CollMap",
+      "lastName": "mitxpro",
+      "attributeName": "Partner Content Options",
+      "attributeValue": "mitxpro",
+      "isMultiValue": true
+    }
+  ]
+}

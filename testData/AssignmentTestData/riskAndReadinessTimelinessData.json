@@ -1,0 +1,436 @@
+{
+  "completionCriteriaSettings": {
+    "value": "NO",
+    "minimumTestScore": 70,
+    "minimumTestValue": "OVERALL",
+    "preTestAvailability": false,
+    "minTimeInCourseChecked": false,
+    "requireQuestionCompletion": false,
+    "viewAllCourses": false,
+    "enableVideoSettings": true,
+    "allowFastForwarding": true,
+    "playbackSpeedChecked": false,
+    "playbackSpeed": 1,
+    "disabledFullscreenMobile": false,
+    "enableSelfMonitoring": false
+  },
+  "timelinessSettings": {
+    "daysToComplete": 1,
+    "onTimeCompletionDaysBeforeDue": 1,
+    "lateCompletionDaysAfterDue": 1,
+    "minimumDaysAfterCreateBeforeComplete": 2,
+    "learnerSourceAudience": "Region",
+    "assignedUserCount": 30,
+    "assignmentSearchQuery": "timeliness",
+    "completionDurationSeconds": 4000,
+    "riskProfileCounts": {
+      "high": {
+        "onTimeLearnerCount": 3,
+        "lateLearnerCount": 6,
+        "overdueLearnerCount": 21
+      },
+      "medium": {
+        "onTimeLearnerCount": 12,
+        "lateLearnerCount": 9,
+        "overdueLearnerCount": 9
+      },
+      "low": {
+        "onTimeLearnerCount": 24,
+        "lateLearnerCount": 3,
+        "overdueLearnerCount": 3
+      }
+    }
+  },
+  "assessmentSettings": {
+    "completionBatchSize": 15,
+    "failedAttemptsBeforePassFor3rdOrMoreBucket": 2,
+    "attemptBucketCounts": {
+      "high": {
+        "passOn1stAttempt": 3,
+        "passOn2ndAttempt": 7,
+        "passOn3rdOrMoreAttempts": 20
+      },
+      "medium": {
+        "passOn1stAttempt": 8,
+        "passOn2ndAttempt": 12,
+        "passOn3rdOrMoreAttempts": 10
+      },
+      "low": {
+        "passOn1stAttempt": 20,
+        "passOn2ndAttempt": 7,
+        "passOn3rdOrMoreAttempts": 3
+      }
+    }
+  },
+  "contentForAssessments": [
+    {
+      "riskProfile": "high",
+      "courseId": "9124ff25-a37f-4d9a-90c7-d9065aef9f8a",
+      "courseName": "COMPLIANCE SHORT: Promoting the Reporting of Misconduct",
+      "riskAreas": ["Whistleblower Protection"]
+    },
+    {
+      "riskProfile": "low",
+      "courseId": "fad8f00e-ad7c-4328-91d8-62ef925fb7c5",
+      "courseName": "COMPLIANCE SHORT: Avoiding Conflicts of Interest",
+      "riskAreas": ["Anti-Corruption and Bribery"]
+    },
+    {
+      "riskProfile": "high",
+      "courseId": "f58e5fe5-4997-481c-875d-03c69525ada8",
+      "courseName": "Promoting Diversity and Avoiding Discrimination in the Global Workplace",
+      "riskAreas": [
+        "Labor and Employment Management",
+        "Ethics and Code of Conduct",
+        "Whistleblower Protection"
+      ]
+    },
+    {
+      "riskProfile": "medium",
+      "courseId": "10159317-dde7-4f0f-a7a8-84783c800312",
+      "courseName": "Harassment Short: Responding to Harassment - Rebekka's Story",
+      "riskAreas": [
+        "Harassment and Discrimination Prevention",
+        "Whistleblower Protection"
+      ]
+    },
+    {
+      "riskProfile": "high",
+      "courseId": "fc5df80b-c134-41e1-a2c9-ec7c486bba08",
+      "courseName": "Harassment Short: Elements of Unlawful Harassment - Ron's Story",
+      "riskAreas": [
+        "Labor and Employment Management",
+        "Whistleblower Protection"
+      ]
+    },
+    {
+      "riskProfile": "low",
+      "courseId": "d2aa47f0-b069-481d-853d-e94569e3b20a",
+      "courseName": "Preventing Fraud and Abuse",
+      "riskAreas": ["Fraud Prevention"]
+    },
+    {
+      "riskProfile": "high",
+      "courseId": "e9a9af47-33b3-47d2-909b-140e027742f5",
+      "courseName": "Human Trafficking Awareness",
+      "riskAreas": ["Labor and Employment Management"]
+    },
+    {
+      "riskProfile": "medium",
+      "courseId": "19c39ca7-4e08-4d7c-9e78-101b4f10d7b9",
+      "courseName": "COMPLIANCE SHORT: Cybersecurity",
+      "riskAreas": ["Cybersecurity"]
+    },
+    {
+      "riskProfile": "high",
+      "courseId": "c776f112-398b-4154-b09c-64681d56e191",
+      "courseName": "COMPLIANCE SHORT: Cybersecurity 2",
+      "riskAreas": ["Cybersecurity"]
+    },
+    {
+      "riskProfile": "high",
+      "courseId": "f96fb940-8d44-48af-8cc0-398a1780f8de",
+      "courseName": "Ethical Use of AI in the Workplace",
+      "riskAreas": ["Artificial Intelligence (AI)"]
+    }
+  ],
+  "contentForAssignment": [
+    {
+      "name": "Risk Timeliness - Cybersecurity Short Essential Tips",
+      "riskAreas": [
+        "Cybersecurity",
+        "Data Privacy and Protection",
+        "Artificial Intelligence (AI)"
+      ],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "c7a801d7-821d-4788-ad68-4a98c08fd93f",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Cybersecurity Short: Essential Cybersecurity Tips</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Everyday Cybersecurity",
+      "riskAreas": [
+        "Cybersecurity",
+        "Data Privacy and Protection",
+        "Artificial Intelligence (AI)"
+      ],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "ee30c71c-abaf-44df-ab12-316f51395f3c",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Everyday Cybersecurity</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Reporting Misconduct 2 EO",
+      "riskAreas": ["Whistleblower Protection"],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "44cc7ccb-adb0-4092-bc93-ebebc9b10949",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Promoting the Reporting of Misconduct 2 EO Aligned</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Code of Conduct Awareness",
+      "riskAreas": ["Ethics and Code of Conduct"],
+      "riskProfile": "medium",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "a7851078-42d6-4764-a32b-33c490615d1e",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Code of Conduct Awareness</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Reporting Misconduct",
+      "riskAreas": ["Whistleblower Protection"],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "9124ff25-a37f-4d9a-90c7-d9065aef9f8a",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Promoting the Reporting of Misconduct</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Reporting Misconduct 2",
+      "riskAreas": ["Whistleblower Protection"],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "8164ab3c-c803-4b21-b66b-1e27239468fa",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Promoting the Reporting of Misconduct 2</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Avoiding Conflicts of Interest 2",
+      "riskAreas": [
+        "Ethics and Code of Conduct",
+        "Anti-Corruption and Bribery"
+      ],
+      "riskProfile": "medium",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "c752d978-8487-41f1-a9d7-2a9697382b92",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Avoiding Conflicts of Interest 2</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Avoiding Conflicts of Interest",
+      "riskAreas": ["Anti-Corruption and Bribery"],
+      "riskProfile": "low",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "fad8f00e-ad7c-4328-91d8-62ef925fb7c5",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Avoiding Conflicts of Interest</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Harassment Prevention California",
+      "riskAreas": [
+        "Harassment and Discrimination Prevention",
+        "Ethics and Code of Conduct",
+        "Whistleblower Protection"
+      ],
+      "riskProfile": "medium",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "9db4a600-0498-425e-89ea-683a8d5be5c5",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Harassment Prevention for California Employees</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Promoting Diversity Global Workplace",
+      "riskAreas": [
+        "Labor and Employment Management",
+        "Ethics and Code of Conduct",
+        "Whistleblower Protection"
+      ],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "f58e5fe5-4997-481c-875d-03c69525ada8",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Promoting Diversity and Avoiding Discrimination in the Global Workplace</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Responding to Harassment Rebekka",
+      "riskAreas": [
+        "Harassment and Discrimination Prevention",
+        "Whistleblower Protection"
+      ],
+      "riskProfile": "medium",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "10159317-dde7-4f0f-a7a8-84783c800312",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Harassment Short: Responding to Harassment</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Unlawful Harassment Ron",
+      "riskAreas": [
+        "Labor and Employment Management",
+        "Whistleblower Protection"
+      ],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "fc5df80b-c134-41e1-a2c9-ec7c486bba08",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Harassment Short: Elements of Unlawful Harassment</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Preventing Fraud and Abuse",
+      "riskAreas": ["Fraud Prevention"],
+      "riskProfile": "low",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "d2aa47f0-b069-481d-853d-e94569e3b20a",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Preventing Fraud and Abuse</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Human Trafficking Awareness",
+      "riskAreas": ["Labor and Employment Management"],
+      "riskProfile": "high",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "e9a9af47-33b3-47d2-909b-140e027742f5",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Human Trafficking Awareness</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Compliance AI Copyright",
+      "riskAreas": ["Intellectual Property (IP)"],
+      "riskProfile": "low",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "1f6b85d2-2854-48ce-99e6-b86d16678b70",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Compliance AI Short: Copyright Infringement</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    },
+    {
+      "name": "Risk Timeliness - Compliance AI Copyright EO",
+      "riskAreas": ["Intellectual Property (IP)"],
+      "riskProfile": "low",
+      "content": [
+        {
+          "contentType": "COURSE",
+          "contentId": "142334e0-fc47-4e36-9534-3feb86e8fa8e",
+          "enableCourseRetake": true
+        }
+      ],
+      "description": "<p>Risk and Readiness Timeliness seed – Compliance AI Short: Copyright EO</p>",
+      "BusinessObjective": "Legal Compliance and Risk Mitigation",
+      "assignmentState": "launch",
+      "assGoal": "compliance",
+      "assignedBy": "Talent_Enablement"
+    }
+  ]
+}

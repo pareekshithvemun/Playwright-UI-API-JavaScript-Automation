@@ -1,0 +1,12 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://testpvorg.front.develop.squads-dev.com",
+    "orgId": "e650e094-b058-48ab-b9a4-38cf5e06baee",
+    "attributeName":"Demo"
+  },
+  "Admindata": {
+    "loginID": "adminsw", 
+    "password": "##knock22"
+  }
+}

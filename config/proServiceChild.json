@@ -1,0 +1,16 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://proservices7.percipio.com",
+    "orgId": "476d82b2-8afe-4653-bb18-8a342deb8034",
+    "attributeName": [
+      "Region",
+      "Department",
+      "Job Title"
+    ]
+  },
+  "Admindata": {
+    "loginID": "reegan.mcdougall@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  }
+}

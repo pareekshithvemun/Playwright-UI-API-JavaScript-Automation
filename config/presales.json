@@ -1,0 +1,12 @@
+{
+  "dynamic": true,
+  "Environment": {
+    "baseURL": "https://presales1.percipio.com",
+    "orgId": "5cbc7202-4149-4fb3-9363-4ef8ae1a25e7",
+    "attributeName": "Demo"
+  },
+  "Admindata": {
+    "loginID": "kowshik.bikkina@skillsoft.com",
+    "password": "P@ssw0rd123@"
+  }
+}

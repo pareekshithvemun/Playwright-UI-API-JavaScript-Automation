@@ -1,0 +1,336 @@
+{
+    "learningPrograms": [
+        {
+            "lptitle": "Foundations of AI",
+            "lpdescription": "This is a self-enrolling oganizational wide learning program for anyone who wants to get started into the world of AI. You can be from any role, field, function or level; this program will help lay AI foundation for you by covering fundamental concepts on AI and ML, along with ethical considerations, guardrails and governance of AI. The program delivers learning through all six learning modalities; assess, watch, read, listen, practice and attend.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Business Transformation",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "upskilling",
+            "lpcontents": [
+                {
+                    "contentType": "ASSESSMENT",
+                    "contentId": "be77ff33-66f8-44e4-9084-dc2d6358f058"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "44f2bd13-e426-4c32-affd-be59849916f7"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "25a4415c-6493-4324-ba6b-7622eb140ea4"
+                },
+                {
+                    "contentType": "LinkedContent",
+                    "contentId": "ca214e10-0387-4513-b9eb-c735f6868e8f"
+                },
+                {
+                    "contentType": "SCHEDULED_CONTENT",
+                    "contentId": "7baf5616-9e73-41ff-8e24-356c1d250ba9"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "3c7137d1-70a6-477a-92d5-e61fc3769ca1"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "65ef4896-2631-4ba0-8fd8-e941cc027b04"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "ef759deb-8acd-4e29-957c-b2c2538cf45a"
+                },
+                {
+                    "contentType": "LinkedContent",
+                    "contentId": "6b3561a9-62a1-4307-8719-2d692b32d27b"
+                },
+                {
+                    "contentType": "LinkedContent",
+                    "contentId": "c48d05f2-477b-4526-bebf-b62f23e79eec"
+                },
+                {
+                    "contentType": "Book",
+                    "contentId": "41ee7062-dcea-4795-805b-b43970145424"
+                },
+                {
+                    "contentType": "Book",
+                    "contentId": "5be669c4-6562-4c50-9a10-8fe38cfaf74e"
+                }
+            ],
+            "cohortname": "Foundations of AI-Self-enrolled",
+            "lpenrollmentType": "self",
+            "isContentOrderRequired": false,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Living%20Skillsoft?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Gen AI Advanced Concepts",
+            "lpdescription": "This is a self-enrolling Advanced Learning Program which will equip you to become an expert in Gen AI and apply that knowledge to your role. This Program will consist of 6 Aspire Journeys.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Operational effectiveness",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "upskilling",
+            "lpcontents": [
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "2d56c2ac-1f91-47cc-b346-f9f0c8b8ef02"
+                },
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "744f0601-2cfe-44d7-846e-9e8ea3134934"
+                },
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "7ce66d2f-6d83-4acb-a9c1-4af5a55e991a"
+                },
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "a76ff1d9-ffff-4084-9a5e-544636288838"
+                },
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "3f169a33-7951-4387-b501-faba16b3b969"
+                },
+                {
+                    "contentType": "CHANNEL",
+                    "contentId": "7999e9dc-6ed2-4e28-98e7-478a6b72436b"
+                }
+            ],
+            "cohortname": "Gen AI Advanced Concepts-Self-enrolled",
+            "lpenrollmentType": "self",
+            "isContentOrderRequired": false,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Living%20Skillsoft?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "An Introduction to Generative AI",
+            "lpdescription": "This Learning Program introduces the fundamentals of Generative AI, including its applications and ethical aspects. This course is designed to enhance the workforce's understanding of Generative AI, fostering a tech-savvy and future-ready environment.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Business Transformation",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "upskilling",
+            "lpcontents": [
+                {
+                    "contentType": "Course",
+                    "contentId": "70afb099-d2b4-4efa-a02a-dad31fc5ef0c"
+                },
+                {
+                    "contentType": "Video",
+                    "contentId": "8924485c-a846-4e09-97c8-7ef7d9af5362"
+                }
+            ],
+            "cohortname": "Introduction to Generative-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Introduction%20to%20Generative%20AI?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Workplace Harassment Prevention for Remote Employees",
+            "lpdescription": "Discrimination and harassment at work, whether working on site or remotely, can have a corrosive effect on an organization's culture and can lead to low employee morale, reduced productivity, and even criminal liability. This course will explore workplace harassment in the context of a remote (online) work environment.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Legal Compliance and Risk Mitigation",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "compliance",
+            "lpcontents": [
+                {
+                    "contentType": "Course",
+                    "contentId": "214f333f-b0c3-4d45-af46-c4a1520e4422"
+                },
+                {
+                    "contentType": "Video",
+                    "contentId": "09f68955-017c-4979-954b-0fe07d70446c"
+                }
+            ],
+            "cohortname": "Workplace Harassment Prevention for Remote Employees-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Workplace%20Harassment%20Prevention%20for%20Remote%20Employees?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Bridging Differences in Cross-cultural Communication",
+            "lpdescription": "In this course, you will learn about two principal dimensions of culture that underlie culturally different ways of communicating and learn vocabulary that will allow you to explain differences in communication styles. You will also explore barriers to communicating effectively across cultures and identify ways to overcome them.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Workforce productivity",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "cultural",
+            "lpcontents": [
+                {
+                    "contentType": "Course",
+                    "contentId": "16479508-9e71-4e84-85a4-8a2ad9fcb6de"
+                },
+                {
+                    "contentType": "Video",
+                    "contentId": "563176c0-fea5-11e6-8638-0242c0a80b06"
+                }
+            ],
+            "cohortname": "Bridging Differences in Cross-cultural Communication-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Bridging%20Differences%20in%20Cross-cultural%20Communication?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Building Resilience and Promoting Wellness",
+            "lpdescription": "Everyone faces hardships and challenges, but some manage them better than others. Those people are resilient. In this video, you'll explore strategies for building your resilience, both at work and at home.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Workforce productivity",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "cultural",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "aa3eab48-513d-41e3-bfee-10672eeaabca"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "b111cc22-858c-4ff3-9676-704946a9fc8f"
+                }
+            ],
+            "cohortname": "Building Resilience and Promoting Wellness-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Building%20Resilience%20and%20Promoting%20Wellness?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Becoming Resilient for Growth",
+            "lpdescription": "Resilience is linked to a growth mindset, and each supports the other. Being resilient helps you respond in a positive way to the inevitable pressures, stressors, or changes of daily life. In this video, you'll explore resilience techniques that contribute to a growth mindset.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Workforce productivity",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "cultural",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "9fb4e93f-6fc6-4987-a19b-e7496cc57445"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "af7f9514-201f-4556-912a-c70042871db2"
+                }
+            ],
+            "cohortname": "Becoming Resilient for Growth-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Becoming%20Resilient%20for%20Growth?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "The Psychological Safety Mindset",
+            "lpdescription": "Every member of a team, regardless of their level of influence, has a role to play. By developing a psychological safety mindset in your own interpersonal exchanges, you can help create a safe, inclusive culture. In this video, you will learn some interpersonal techniques to help nurture psychological safety.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Workforce productivity",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "cultural",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "ecf277b2-a112-4c2d-b28b-e04764ab394e"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "19b3341a-eed6-47dd-80bd-bcc53b947fa3"
+                }
+            ],
+            "cohortname": "The Psychological Safety Mindset-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/The%20Psychological%20Safety%20Mindset?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Welcome to the Skillsoft Leadership Development Program",
+            "lpdescription": "In this course, you'll be introduced to Skillsoft's Leadership Development Program. This course provides an introductory overview to the program and the rich array of courses, resources, tools, and expert advice available to help you grow your leadership career.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Operational effectiveness",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "leadership",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "63029303-bc82-4877-a315-278a7d579975"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "8e30af7d-cf9c-425c-8690-d588c1184924"
+                }
+            ],
+            "cohortname": "Welcome to the Skillsoft Leadership Development Program-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Skillsoft%20Leadership%20Development%20Program?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Team Leadership Approaches",
+            "lpdescription": "In this video, we will identify different effective team leadership approaches.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Operational effectiveness",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "leadership",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "ebfce78c-9f76-42a3-bccf-4e6106f55a61"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "05159480-147d-4f19-bcaa-7e26318d7203"
+                }
+            ],
+            "cohortname": "Team Leadership Approaches-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Team%20Leadership%20Approaches?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "New Leader Transitions, powered by MIT SMR",
+            "lpdescription": "Through a collection of multiple articles, the authors share approaches or strategies that help you to understand how to transition into an effective leader and overcome the struggles that come with change.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Operational effectiveness",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "leadership",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "c257163d-af07-42c4-a27e-d926f325a678"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "674bf9ad-be63-4b1b-9960-e4291ed65340"
+                }
+            ],
+            "cohortname": "New Leader Transitions-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/New%20Leader%20Transitions?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        },
+        {
+            "lptitle": "Leading in the Age of Generative AI",
+            "lpdescription": "In this course, you will learn strategies to effectively lead organizations through the transformational impact of generative AI. These topics will allow you to gain insights into generative AI, develop a mindset for implementing generative AI in an organization, explore strategies for leveraging generative AI in business transformation, and understand the importance of ethical and responsible AI adoption.",
+            "lpgoal": "Achieve a 90% completion rate within six months.",
+            "lpbusinessObjective": "Operational effectiveness",
+            "lpstartDate": "2025-01-23",
+            "lpcategory": "leadership",
+            "lpcontents": [
+                {
+                    "contentType": "Video",
+                    "contentId": "30a82ff6-2261-4962-8206-0f75a267358f"
+                },
+                {
+                    "contentType": "Course",
+                    "contentId": "12ac9876-86d2-4d6e-98db-0fa127b7a8de"
+                }
+            ],
+            "cohortname": "Leading in the Age of Generative AI-Assigned",
+            "lpenrollmentType": "assign",
+            "isContentOrderRequired": true,
+            "msteamsRedirectUrl": "https://teams.microsoft.com/l/channel/19%3Aec5da3ca8d124373b62a84ff60eced19%40thread.tacv2/Leading%20in%20the%20Age%20of%20Generative%20AI?groupId=307ab573-2716-48b4-bc4a-337eb0cd956b",
+            "lpaction": "launch"
+        }
+    ]
+}

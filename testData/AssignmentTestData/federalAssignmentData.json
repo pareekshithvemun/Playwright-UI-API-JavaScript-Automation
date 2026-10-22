@@ -1,0 +1,278 @@
+{
+    "contentForAssignment": [
+        {
+            "name": "Professional Development",
+            "content": [
+                {
+                    "contentType": "ASSESSMENT",
+                    "contentId": "94729323-aca2-451c-825b-4e7493654dae",
+                    "enableCourseRetake": false
+                },
+                {
+                    "contentType": "COURSE",
+                    "contentId": "2935d049-2dc5-459e-b209-605c5a286c79",
+                    "enableCourseRetake": false
+                },
+                {
+                    "contentType": "LINKED_CONTENT",
+                    "contentId": "44a2e020-ee44-4428-b498-ee9d96652dfc",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentType": "BOOK_SUMMARY",
+                    "contentId": "de032a48-4131-4f9a-b214-23314c235b55",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentType": "VIDEO",
+                    "contentId": "3f43f380-872f-11e7-9c68-3253b7063610",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "save",
+            "assGoal": "certification",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Workplace Harrassment Prevention",
+            "content": [
+                {
+                    "contentId": "48eaace9-f142-4035-8f38-30d458748a72",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "6b9bcdd4-c806-4514-9bbe-e98cc7316b30",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "save",
+            "assGoal": "compliance",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Preventing Identity Theft",
+            "content": [
+                {
+                    "contentId": "84c572eb-42cb-4ca0-a34d-bfe4c64d9062",
+                    "contentType": "LINKED_CONTENT",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "save",
+            "assGoal": "compliance",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "GenAI Awareness / or Literacy",
+            "content": [
+                {
+                    "contentId": "ddf91397-f653-4c59-a877-9526120eb632",
+                    "contentType": "ASSESSMENT",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "114f96ff-e355-4339-b925-f150bc2e5181",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "c9f0ae8d-457c-4270-9985-0b068c6a2a04",
+                    "contentType": "ASSESSMENT",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "478b4f72-4ad7-4bec-88f1-d0ab83bb269f",
+                    "contentType": "LINKED_CONTENT",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "c48d05f2-477b-4526-bebf-b62f23e79eec",
+                    "contentType": "LINKED_CONTENT",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "save",
+            "assGoal": "certification",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Workplace Security",
+            "content": [
+                {
+                    "contentId": "660bb0da-ac20-49d8-b6ac-4ac7b54c4915",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                },
+                {
+                    "contentId": "18822b0e-3ede-4606-a6f7-9f04164e6b9f",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "compliance",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Focusing on the Bottom Line as an Employee",
+            "content": [
+                {
+                    "contentId": "215e5980-9d52-11e7-8901-d311cbcd3e34",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "onboarding",
+            "BusinessObjective": "Cost control",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Productivity Essentials",
+            "content": [
+                {
+                    "contentId": "627c565e-eb07-4dec-9155-5aa83f68650d",
+                    "contentType": "VIDEO",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "onboarding",
+            "BusinessObjective": "Workforce productivity",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Be Productive by Working Efficiently",
+            "content": [
+                {
+                    "contentId": "21e5f1fb-dd2a-405c-9d3c-7e90d0e78401",
+                    "contentType": "VIDEO",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "onboarding",
+            "BusinessObjective": "Workforce productivity",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Workplace Safety",
+            "content": [
+                {
+                    "contentId": "3e008be7-eb1f-4d86-8d85-9f1dd4daf70d",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "compliance",
+            "BusinessObjective": "Workplace Safety and Health Compliance",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Design Thinking",
+            "content": [
+                {
+                    "contentId": "5a12b315-d8da-4216-817e-37b4ab4de930",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "upskilling",
+            "BusinessObjective": "Innovation",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Leveraging AI for Innovation",
+            "content": [
+                {
+                    "contentId": "d5b3a98d-8f93-480d-ba32-9896697f92f3",
+                    "contentType": "VIDEO",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "upskilling",
+            "BusinessObjective": "Innovation",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Nurturing an Experimentation Mindset",
+            "content": [
+                {
+                    "contentId": "a671e721-15b6-4256-8f46-143ff32ee50b",
+                    "contentType": "VIDEO",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "upskilling",
+            "BusinessObjective": "Innovation",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Staying Motivated in Times of Change",
+            "content": [
+                {
+                    "contentId": "e6960bb7-7647-4951-a412-6c371cc080ba",
+                    "contentType": "VIDEO",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "leadership",
+            "BusinessObjective": "Employee engagement",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Optimizing Your Workplace Well-being",
+            "content": [
+                {
+                    "contentId": "b111cc22-858c-4ff3-9676-704946a9fc8f",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "cultural",
+            "BusinessObjective": "Employee engagement",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Developing a Mindset of Learning",
+            "content": [
+                {
+                    "contentId": "aabf1432-b753-49ac-9e6f-3376ba9b3118",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "leadership",
+            "BusinessObjective": "Employee engagement",
+            "assignedBy": "Talent_Enablement"
+        },
+        {
+            "name": "Creating a Culture of Engagement",
+            "content": [
+                {
+                    "contentId": "40176c1f-e2c2-41ef-aaf4-cdaa385b9ba3",
+                    "contentType": "COURSE",
+                    "enableCourseRetake": true
+                }
+            ],
+            "assignmentState": "launch",
+            "assGoal": "cultural",
+            "BusinessObjective": "Employee engagement",
+            "assignedBy": "Talent_Enablement"
+        }
+    ]
+}
